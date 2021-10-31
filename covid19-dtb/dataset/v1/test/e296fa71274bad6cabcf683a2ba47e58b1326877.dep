@@ -1,0 +1,124 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "This paper offers a state - of - the - art overview of the intertwined privacy , confidentiality , and security issues",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "that are commonly encountered in health research",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "involving disaggregate geographic data about individuals . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "Key definitions are provided , along with some examples of actual and potential security and confidentiality breaches and related incidents",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "that captured mainstream media and public interest in recent months and years . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "The paper then goes on to present a brief survey of the research literature on location privacy / confidentiality concerns and on privacy - preserving solutions in conventional health research and beyond ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "touching on the emerging privacy issues",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "associated with online consumer geoinformatics and location - based services . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 6,
+            "text": "The ' missing ring ' ( in many treatments of the topic ) of data security is also discussed . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 1,
+            "text": "Personal information and privacy legislations in two countries , Canada and the UK , are covered , as well as some examples of recent research projects and events about the subject . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "Select highlights from a June 2009 URISA ( Urban and Regional Information Systems Association ) workshop entitled ' Protecting Privacy and Confidentiality of Geographic Data in Health Research ' are then presented . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 1,
+            "text": "The paper concludes",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "by briefly charting the complexity of the domain and the many challenges",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "associated with it ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "and proposing a novel , ' one stop shop ' case - based reasoning framework",
+            "relation": "JOINT"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "to streamline the provision of clear and individualised guidance for the design and approval of new research projects",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "( involving geographical identifiers about individuals ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 12,
+            "text": "including crisp recommendations",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "on which specific privacy - preserving solutions and approaches would be suitable in each case . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

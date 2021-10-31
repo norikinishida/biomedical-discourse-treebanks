@@ -1,0 +1,76 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 7,
+            "text": "Wildlife are frequently a neglected component of One Health ;",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "however , the linkages between the health of wildlife and human , domestic animal , and environmental health are clear . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "The majority of emerging zoonotic diseases are linked to wildlife ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "primarily driven by anthropogenic land changes . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 5,
+            "parent": 6,
+            "text": "Despite this risk ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 6,
+            "parent": 3,
+            "text": "wildlife have important links to people as environmental indicators , food security and safety , and through human livelihoods . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "This chapter will describe these linkages",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "and demonstrate the need",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "to understand these linkages through targeted surveillance and understanding the ecology of wildlife diseases . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 11,
+            "text": "While the management of wildlife diseases presents a significant challenge ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 11,
+            "parent": 7,
+            "text": "such practices will greatly improve the health of people , domestic animals , wildlife and the environment . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 20,
+            "text": "The Severe Acute Respiratory Syndrome Coronavirus 2 ( SARS - CoV-2 ) is a novel coronavirus",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "first identified in Wuhan , China ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "and the etiological agent of Coronavirus Disease-2019 . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "This infection spreads mainly through direct contact with Fl\u00fcgge micro droplets or core droplets",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "that remain suspended as aerosol . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "Moreover , it has been reported that infected subjects , both with and without clinical signs of COVID-19 , can transmit the virus . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 8,
+            "text": "Since the infection typically enters through mouth , nose , and eyes ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 8,
+            "parent": 4,
+            "text": "dentistry is one of the medical practices at highest risk of infection",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "due to the frequent production of aerosol and the constant presence of saliva . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 10,
+            "parent": 11,
+            "text": "The World Health Organization ( WHO ) has suggested",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 11,
+            "parent": 8,
+            "text": "that only emergency / urgent procedures should be performed during the coronavirus outbreak . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 12,
+            "parent": 13,
+            "text": "Considering the virus ' route of transmission ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "a specific protocol should be applied",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "to reduce the risk of infection",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "in addition to measures",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "that prevent the spread of infection from a patient to another person or medical tools and equipment ( cross - infection ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 13,
+            "text": "This protocol should be implemented",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "by modifying both patient management and clinical practice ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 19,
+            "parent": 17,
+            "text": "introducing particular devices and organizational practices . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 20,
+            "parent": 0,
+            "text": "This paper aims to discuss and suggest the most appropriate procedures in every aspect of dental practice",
+            "relation": "ROOT"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "to reduce infection risk . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

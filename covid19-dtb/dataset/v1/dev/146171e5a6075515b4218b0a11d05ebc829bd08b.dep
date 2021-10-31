@@ -1,0 +1,94 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 8,
+            "text": "Coronavirus disease 2019 has become a pandemic disease globally . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 3,
+            "text": "While it mostly presents with respiratory symptoms ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "it has already been found that it could manifest with a series of neurological symptoms as well , either at presentation or during the course of the disease . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "Symptoms vary from non - specific",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "such as headache or dizziness",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "to more specific",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "such as convulsions and cerebrovascular disease ( CVD ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 0,
+            "text": "This study aims to give an overview of the neurological manifestations of COVID-19",
+            "relation": "ROOT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "and discuss the potential pathogenetic mechanisms of central nervous system ( CNS ) involvement . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "Clinicians and especially internists , neurologists , and infectious disease specialists should be aware of these symptoms",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "and able to recognize them early . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "Prompt diagnosis and immediate management of the neurological manifestations of the novel coronavirus will not only improve the prognosis of COVID-19 patients",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "but will also prevent the dissemination of the disease",
+            "relation": "JOINT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "due to misdiagnosed cases . <S> <P>",
+            "relation": "CAUSE-RESULT"
+        }
+    ]
+}

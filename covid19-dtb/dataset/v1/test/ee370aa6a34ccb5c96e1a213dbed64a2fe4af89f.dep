@@ -1,0 +1,166 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 10,
+            "text": "The recent outbreak of severe acute respiratory syndrome ( SARS )",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "caused by SARS coronavirus ( SARS - CoV )",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "has necessitated an in - depth molecular understanding of the virus",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to identify new drug targets . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "The availability of complete genome sequence of several strains of SARS virus provides the possibility of identification of protein - coding genes and defining their functions . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "Computational approach",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "to identify protein - coding genes and their putative functions",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "will help in designing experimental protocols . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 9,
+            "parent": 10,
+            "text": "Results : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 10,
+            "parent": 0,
+            "text": "In this paper , a novel analysis of SARS genome",
+            "relation": "ROOT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "using gene prediction method GeneDecipher",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "developed in our laboratory",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 10,
+            "text": "has been presented . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 14,
+            "parent": 10,
+            "text": "Each of the 18 newly sequenced SARS - CoV genomes has been analyzed",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "using GeneDecipher . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 16,
+            "parent": 10,
+            "text": "In addition to polyprotein 1ab 1 , polyprotein 1a and the four genes coding for major structural proteins spike ( S ) , small envelope ( E ) , membrane ( M ) and nucleocapsid ( N ) , six to eight additional proteins have been predicted",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "depending upon the strain",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "analyzed . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 16,
+            "text": "Their lengths range between 61 and 274 amino acids . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 21,
+            "text": "Our method also suggests",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 21,
+            "parent": 16,
+            "text": "that polyprotein 1ab , polyprotein 1a , S , M and N are proteins of viral origin",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "and others are of prokaryotic . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 23,
+            "parent": 16,
+            "text": "Putative functions of all predicted protein - coding genes have been suggested",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "using conserved peptides present in their open reading frames . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 25,
+            "parent": 26,
+            "text": "Availability : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 26,
+            "parent": 10,
+            "text": "Detailed results of GeneDecipher analysis of all the 18 strains of SARS - CoV genomes are available at <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

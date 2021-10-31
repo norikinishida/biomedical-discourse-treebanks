@@ -1,0 +1,94 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 12,
+            "text": "Severe Acute Respiratory Syndrome Coronavirus-2 ( SARS - CoV-2 ) has recently caused a pandemic",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "that has involved Italy as the second worldwide nation in terms of infected patients and deaths . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "The clinical manifestation of Covid-19 ranges from asymptomatic carrier status to severe pneumonia . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "Asymptomatic individuals in Covid-19 are those",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "who are carriers of the virus",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "but do not show clinical symptoms",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "and are able to transmit the disease in the same degree as symptomatic carriers . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 8,
+            "parent": 9,
+            "text": "In order to contain contagions",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 9,
+            "parent": 4,
+            "text": "is of supreme importance to identify asymptomatic patients",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "because this subpopulation is one of the main factors",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "contributing to the spread of this disease . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 0,
+            "text": "We report on six Italian patients with COVID-19",
+            "relation": "ROOT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "who presented sudden hyposmia as the only or most prominent disease manifestation , without upper or lower respiratory tract involvement or other major features of the disease . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "A supra - threshold olfaction test confirmed the hyposmia in all patients . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

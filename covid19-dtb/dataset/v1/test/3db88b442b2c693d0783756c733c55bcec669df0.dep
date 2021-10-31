@@ -1,0 +1,160 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "In this paper are presented mathematical predictions on the evolution in time of the number of positive cases in Italy of the COVID-19 pandemic",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "based on official data and on the use of a function of the type of a Gauss error function , with four parameters , as a cumulative distribution function . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "We have analyzed the available data for China and Italy . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "The evolution in time of the number of cumulative diagnosed positive cases of COVID-19 in China very well approximates a distribution of the type of the error function ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "that is , the integral of a normal , Gaussian distribution . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 3,
+            "text": "We have then used such a function",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "to study the potential evolution in time of the number of positive cases in Italy",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "by performing a number of fits of the official data so far available . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 9,
+            "parent": 6,
+            "text": "We then found a statistical prediction for the day",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "in which the peak of the number of daily positive cases in Italy occurs ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "corresponding to the flex of the fit ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "that is , to the change in sign of its second derivative",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "( i.e. , the change from acceleration to deceleration ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "as well as of the day",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "in which a substantial attenuation of such number of daily cases is reached . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 6,
+            "text": "We have also analyzed the predictions of the cumulative number of fatalities in both China and Italy ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "obtaining consistent results . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 16,
+            "text": "We have then performed 150 Monte Carlo simulations",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "to have a more robust prediction of the day of the above - mentioned peak and of the day of the substantial decrease in the number of daily positive cases and fatalities . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 20,
+            "parent": 21,
+            "text": "Although official data have been used ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 21,
+            "parent": 1,
+            "text": "those predictions are obtained with a heuristic approach",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "since they are based on a statistical approach",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 23,
+            "parent": 21,
+            "text": "and do not take into account either a number of relevant issues",
+            "relation": "JOINT"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "( such as number of daily nasopharyngeal swabs , medical , social distancing , virological and epidemiological )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 25,
+            "parent": 23,
+            "text": "or models of contamination diffusion . <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 10,
+            "text": "The study of infectious disease outbreaks is required",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "to train today 's epidemiologists . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "A typical way",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to introduce and explain key epidemiological concepts",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "is through the analysis of a historical outbreak . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 6,
+            "parent": 3,
+            "text": "There are , however , few training options",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "that explicitly utilise real - time simulated stochastic outbreaks",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "where the participants themselves comprise the dataset",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "they subsequently analyse . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 0,
+            "text": "In this paper , we present a teaching exercise",
+            "relation": "ROOT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "in which an infectious disease outbreak is simulated over a five - day period",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "and subsequently analysed . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 10,
+            "text": "We iteratively developed the teaching exercise",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "to offer additional insight into analysing an outbreak . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 15,
+            "parent": 10,
+            "text": "An R package for visualisation , analysis and simulation of the outbreak data was developed",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "to accompany the practical",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 17,
+            "parent": 15,
+            "text": "to reinforce learning outcomes . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 18,
+            "parent": 15,
+            "text": "Computer simulations of the outbreak revealed deviations from observed dynamics ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 19,
+            "parent": 20,
+            "text": "highlighting",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 20,
+            "parent": 18,
+            "text": "how simplifying assumptions",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "conventionally made in mathematical models",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 20,
+            "text": "often differ from reality . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 23,
+            "parent": 10,
+            "text": "Here we provide a pedagogical tool for others",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "to use and adapt in their own settings . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

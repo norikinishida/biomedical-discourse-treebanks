@@ -1,0 +1,178 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 14,
+            "text": "The development of a \" cold - like illness \" ( CLI ) usually requires infection with an upper respiratory virus such as rhinovirus , influenza virus , respiratory syncytial virus , parainfluenza virus , coronavirus or adenovirus , among others , and the development of sufficient signs , symptoms and pathophysiologies",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "to qualify as being ill",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "based on personal and cultural definitions . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "A viral upper respiratory tract infection ( vURTI ) in the absence of overt illness ( subclinical vURTI ) will not be made manifest to the individual or to observers",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "and , therefore , will not be diagnosed as a CLI . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "The degree of illness",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "occurring during a vURTI",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "is directly related to the extent of provoked inflammation ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "which in turn depends on the engagement of antiviral defense systems . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 6,
+            "text": "Thus , risk factors for CLI can modulate either the vURTI risk",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "by affecting virus exposure and/or susceptibility to infection ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "or the CLI risk given a vURTI",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "by affecting immunocompetence , the provoked inflammation and/or the interpretation of illness as a CLI . <S> <P>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 14,
+            "parent": 0,
+            "text": "In this chapter , we review published studies for evidence of CLI risk - modulating factors",
+            "relation": "ROOT"
+        },
+        {
+            "id": 15,
+            "parent": 16,
+            "text": "and report",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "that climate , crowding and perhaps female gender can affect the probability of exposure to vURTI viruses ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "that extant immunological factors and age can affect the probability of virus infection",
+            "relation": "JOINT"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "given exposure ,",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 19,
+            "parent": 16,
+            "text": "that stress levels",
+            "relation": "JOINT"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "( moderated by social environment ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 19,
+            "text": "health practices",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "( exercise , tobacco and alcohol consumption , sleep efficiency )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 21,
+            "text": "and genetics contribute to CLI risk",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "most probably by modulating the immune - inflammatory response to infection ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 25,
+            "parent": 16,
+            "text": "and that other factors",
+            "relation": "JOINT"
+        },
+        {
+            "id": 26,
+            "parent": 25,
+            "text": "such as pollution , home environment and certain personality traits",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 27,
+            "parent": 25,
+            "text": "affect CLI risk",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 28,
+            "parent": 27,
+            "text": "by biasing illness interpretation for a given set of symptoms and signs . <S> <P>",
+            "relation": "MANNER-MEANS"
+        }
+    ]
+}

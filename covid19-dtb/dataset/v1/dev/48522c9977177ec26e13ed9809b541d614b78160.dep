@@ -1,0 +1,112 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 7,
+            "text": "The outbreak of COVID-2019",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "initiated at Wuhan , China",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "has become a global threat by rapid transmission and severe fatalities . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "Recent studies have uncovered whole genome sequence of SARS - CoV-2",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "( causing COVID-2019 ) . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "In addition , lung metagenomic studies on infected patients revealed overrepresented Prevotella spp . producing certain proteins in abundance . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "We performed host - pathogen protein - protein interaction analysis between SARS - CoV-2 and overrepresented Prevotella proteins with human proteome . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "We also performed functional overrepresentation analysis of interacting proteins",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "to understand their role in COVID-2019 severity . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 10,
+            "parent": 11,
+            "text": "Results : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 11,
+            "parent": 7,
+            "text": "It was found that over - expressed Prevotella proteins can promote viral infection . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "As per the results , Prevotella proteins , but not viral proteins are involved in multiple interactions with NF - kB ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "which is involved in increasing clinical severity of COVID-2019 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 7,
+            "text": "Prevotella may have role in COVID-2019 outbreak",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "and should be given importance",
+            "relation": "JOINT"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "for understanding disease mechanisms",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "and improving treatment outcomes . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

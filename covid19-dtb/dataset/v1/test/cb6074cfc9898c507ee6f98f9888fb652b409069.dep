@@ -1,0 +1,70 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 4,
+            "text": "On 30 January 2020 , the WHO declared the coronavirus disease 2019 ( COVID-19 ) a public health emergency of international concern . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "By 11 March 2020 , it was designated a pandemic",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "owing to its rapid worldwide spread . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 4,
+            "parent": 0,
+            "text": "In this short article we provide some information",
+            "relation": "ROOT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "that might be useful",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "and help equip colleagues",
+            "relation": "JOINT"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "to reduce medical error during a pandemic . <S> <P>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 8,
+            "parent": 4,
+            "text": "We advocate a systems - based approach , rather than an individual 's sole responsibility ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "and , look at ways",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "to provide safer healthcare . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

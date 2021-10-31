@@ -1,0 +1,40 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "We present an epidemic model capable of describing key features of the present Covid-19 pandemic . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 3,
+            "text": "While capturing several qualitative properties of the virus spreading ,",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "it allows to compute the basic reproduction number , the number of deaths due to the virus and various other statistics . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "Numerical integrations are used",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "to illustrate the relevance of quarantine and the role of care houses . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

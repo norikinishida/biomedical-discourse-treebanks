@@ -1,0 +1,190 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "By equipping a previously reported dynamic causal model of COVID-19 with an isolation state ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 2,
+            "parent": 0,
+            "text": "we modelled the effects of self - isolation consequent on tracking and tracing . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "Specifically , we included a quarantine or isolation state",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "occupied by people",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 6,
+            "text": "who believe",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "they might be infected",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "but are asymptomatic",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "- and only leave",
+            "relation": "JOINT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "if they test negative . <S>",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 10,
+            "parent": 2,
+            "text": "We recovered maximum posteriori estimates of the model parameters",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "using time series of new cases , daily deaths , and tests for the UK . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "These parameters were used",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "to simulate the trajectory of the outbreak in the UK over an 18month period . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 14,
+            "parent": 2,
+            "text": "Several clear - cut conclusions emerged from these simulations . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "For example , under plausible ( graded ) relaxations of social distancing , a rebound of infections within weeks is unlikely . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "The emergence of a later second wave depends almost exclusively on the rate",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "at which we lose immunity ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "inherited from the first wave . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 16,
+            "text": "There exists no testing strategy",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "that can attenuate mortality rates ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 19,
+            "text": "other than by deferring or delaying a second wave . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 22,
+            "parent": 19,
+            "text": "A sufficiently powerful tracking and tracing policy",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "- implemented at the time of writing ( 10th May 2020) -",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 22,
+            "text": "will defer any second wave beyond a time horizon of 18 months . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 25,
+            "parent": 22,
+            "text": "Crucially , this deferment is within current testing capabilities",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 26,
+            "parent": 25,
+            "text": "( requiring an efficacy of tracing and tracking of about 20 % of asymptomatic infected cases , with less than 50,000 tests per day ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 27,
+            "parent": 14,
+            "text": "These conclusions are based upon a dynamic causal model",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 28,
+            "parent": 27,
+            "text": "for which we provide some construct and face validation",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 29,
+            "parent": 28,
+            "text": "using a comparative analysis of the United Kingdom and Germany ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 30,
+            "parent": 27,
+            "text": "supplemented with recent serological studies . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

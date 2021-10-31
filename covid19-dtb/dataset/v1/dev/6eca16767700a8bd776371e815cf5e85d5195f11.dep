@@ -1,0 +1,190 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 28,
+            "text": "The coronavirus disease ( COVID-19 ) pandemic has posed a challenge for healthcare systems ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "and healthcare workers ( HCWs ) are at high risk of exposure . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "Protecting HCWs is of paramount importance",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to maintain continuous patient care",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "and keep healthcare systems functioning . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 6,
+            "parent": 7,
+            "text": "Used alongside administrative and engineering control measures ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 3,
+            "text": "personal protective equipment ( PPE ) is the last line of defense and the core component of protection . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 9,
+            "text": "Current data suggest",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "that severe acute respiratory syndrome coronavirus 2 ( SARS - CoV-2 ) is mainly transmitted through respiratory droplets and close contact . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "Airborne transmission may occur during aerosol - generating procedures . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "However , the modes of transmission still remain uncertain ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "especially regarding the possibility of airborne transmission",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "when aerosolgenerating procedures are not performed . <S>",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 14,
+            "parent": 11,
+            "text": "Thus , there are some inconsistencies in the respiratory protective equipment",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "recommended by international and national organizations . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "In Korea , there have been several modifications to PPE recommendations",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "offering options",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "in choosing PPE for respiratory and body protection ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "which confuses HCWs ; <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "they are often unsure what to wear and when to wear it . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 7,
+            "text": "The choice of PPE is based on the risk of exposure and possible modes of transmission . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "The level of protection",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "provided by PPE",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 22,
+            "text": "differs",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 25,
+            "parent": 24,
+            "text": "based on standards and test methods . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 26,
+            "parent": 22,
+            "text": "Thus , understanding them is the key",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 27,
+            "parent": 26,
+            "text": "in selecting the proper PPE . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 28,
+            "parent": 0,
+            "text": "This article reviews evidence on the mode of SARS - CoV-2 transmission ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 29,
+            "parent": 28,
+            "text": "compares the current PPE recommendations of the World Health Organization with those in Korea ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 30,
+            "parent": 28,
+            "text": "and discusses standard requirements and the proper selection of PPE . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

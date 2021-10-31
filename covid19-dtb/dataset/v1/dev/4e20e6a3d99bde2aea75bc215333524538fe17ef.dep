@@ -1,0 +1,130 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Respiratory infections are the most frequent reason for primary health care consultation . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 0,
+            "text": "The main causes of respiratory tract infections in children are viruses",
+            "relation": "ROOT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "and the most common types are upper respiratory tract infections :",
+            "relation": "JOINT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "common cold , pharyngitis , otitis media and sinusitis . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "Pneumonia is much more serious . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 2,
+            "text": "As well as viruses , bacteria are often involved in respiratory tract infections . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "Three bacterial species are most commonly isolated :",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "Streptococcus pneumoniae , non - encapsulated Haemophilus influenzae and Moraxella ( Branhamella ) catarrhalis . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "The most common bacterial cause of pharyngitis is Streptococcus pyogenes . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 6,
+            "text": "Bacteria",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "isolated from community - acquired infection",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "usually are sensitive to the majority of suitable drugs ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "but during the past two decades , significant antibiotic resistance has emerged . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "Resistance to penicillins has spread among H. influenzae and S. pneumoniae . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "The mechanism of penicillin resistance in H. influenzae is mainly by production of b - lactamases TEM-1 and ROB-1 ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "whereas in S. pneumoniae resistance is an effect of the changes in penicillin binding proteins . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 17,
+            "parent": 14,
+            "text": "Among respiratory pathogens , resistance to tetracyclines , macrolides , trimethoprim - sulphamethoxazole and fluoroquinolones has also appeared . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "Several mechanisms",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "depending on changes in target , active efflux and modifying enzymes",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 18,
+            "text": "are involved . <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

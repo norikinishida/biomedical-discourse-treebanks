@@ -1,0 +1,124 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 11,
+            "text": "The current coronavirus disease pandemic",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "caused by severe acute respiratory syndrome coronavirus 2",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "has led to immense strain on healthcare systems and workers . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "Patients with severe symptoms of COVID-19 may also present with acute neurological emergencies",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "such as ischemic stroke . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "Ischemic stroke in these patients may result from COVID-19 related complications or decompensation of previously asymptomatic cerebrovascular disorders , or concurrent ischemic stroke from common stroke risk factors in a patient with COVID-19 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "Acute ischemic stroke patients with large vessel occlusions require emergent triage , intensive care , and mechanical thrombectomy . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "Management of patients with large vessel occlusions ( LVO ) requires special considerations in the current pandemic . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "Physicians must now account for prognosis of severe COVID-19 , resource utilization , and risk of infection to healthcare workers",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "when determining eligibility for mechanical thrombectomy ( MT ) . <S>",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 11,
+            "parent": 0,
+            "text": "Here , we describe important prognostic factors",
+            "relation": "ROOT"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "including age , laboratory , and imaging findings",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "to consider for MT selection",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 14,
+            "parent": 11,
+            "text": "and provide suggestions",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "for taking care of patients with LVO and possible or confirmed COVID-19 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 11,
+            "text": "It is recommended to perform MT in patients within the established guidelines , and consider a conservative approach in cases",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "where there is clinical equipoise",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "to minimize futile reperfusion . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 19,
+            "parent": 11,
+            "text": "Lastly , we describe an illustrative case of a patient with ischemic stroke and COVID-19 . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

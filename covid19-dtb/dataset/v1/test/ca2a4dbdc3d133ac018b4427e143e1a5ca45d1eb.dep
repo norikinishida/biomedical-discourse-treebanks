@@ -1,0 +1,142 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 13,
+            "text": "The pandemic spread of the COVID-19 virus has , as of 20 th of April 2020 , reached most countries of the world . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "In an effort",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "to design informed public health policies ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "many modelling studies have been performed",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "to predict crucial outcomes of interest ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "including ICU solicitation , cumulated death counts , etc \u2026 <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 2,
+            "text": "The corresponding data analyses however , mostly rely on restricted ( openly available ) data sources ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "which typically include daily death rates and confirmed COVID cases time series . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "In addition , many of these predictions are derived",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "before the peak of the outbreak has been observed yet",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "( as is still currently the case for many countries ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 13,
+            "text": "In this work , we show",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 13,
+            "parent": 0,
+            "text": "that peak phase and data paucity have a substantial impact on the reliability of model predictions . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 14,
+            "parent": 15,
+            "text": "Although we focus on a recent model of the COVID pandemics ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "our conclusions most likely apply to most existing models ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "which are variants of the socalled \" Susceptible - Infected - Removed \" or SIR framework . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 13,
+            "text": "Our results highlight the need",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "for performing systematic reliability evaluations for all models",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "that currently inform public health policies . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 17,
+            "text": "They also motivate a plea",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "for gathering and opening richer and more reliable data time series",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "( e.g. , ICU occupancy , negative test rates , social distancing commitment reports , etc ) . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

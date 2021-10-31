@@ -1,0 +1,148 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 3,
+            "text": "Pathology practice is increasingly augmented with molecular tests for improved diagnostics and patient management . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "The polymerase chain reaction ( PCR ) is foremost amongst these techniques . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "This review explains the principles of PCR and the methodological factors",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "that contribute to a successful assay . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "Key PCR technique variations ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "such as reverse transcription ( RT)-PCR and quantitative real - time ( q ) PCR ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "are described",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "and an overview is provided",
+            "relation": "JOINT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "of how PCR products are analysed . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 3,
+            "text": "The review includes examples of PCR usage in clinical practice for the detection of infectious and genetic diseases , for tumour diagnostics and in molecular forensic applications",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "such as specimen identity confirmation . <S> <P>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 3,
+            "text": "The polymerase chain reaction ( PCR ) is a method for the in vitro amplification of DNA sequences",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "and involves automated cycles of denaturation , annealing and extension or synthesis",
+            "relation": "JOINT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "using a thermocycler . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 15,
+            "parent": 12,
+            "text": "PCR was conceived and developed in the early 1980s by Kary Mullis ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "who was awarded the Nobel Prize for Chemistry for the invention in 1993 . 1 <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 15,
+            "text": "The technique allows the sensitive detection and analysis of miniscule quantities of nucleic acids . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "PCR has become established as a routine method in pathology diagnostics",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "and has been adapted for the detection of infectious agents , mutations , translocations and gene amplifications , and for molecular forensic applications",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "including identity testing . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 3,
+            "text": "This review covers the basics of the PCR assay ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "describes PCR method variations",
+            "relation": "JOINT"
+        },
+        {
+            "id": 23,
+            "parent": 21,
+            "text": "and details current pathology applications . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

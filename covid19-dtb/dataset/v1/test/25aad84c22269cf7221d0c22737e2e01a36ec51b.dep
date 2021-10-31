@@ -1,0 +1,160 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 7,
+            "text": "RNA dependent DNA - polymerases , reverse transcriptases , are key enzymes for retroviruses and retroelements . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "Their fidelity ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "including indel generation ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "is significant for their use as reagents",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "including for deep sequencing . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 7,
+            "text": "Here , we report",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "that certain RNA template structures and G - rich sequences , ahead of diverse reverse transcriptases can be strong stimulators for slippage at slippageprone template motif sequence 3 of such ' slippagestimulatory ' structures . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 9,
+            "text": "Where slippage is stimulated ,",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "the resulting products have one or more additional base(s )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "compared to the corresponding template motif . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 11,
+            "parent": 7,
+            "text": "Such structures also inhibit slippagemediated base omission",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "which can be more frequent in the absence of a relevant stem - loop . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "Slippage directionality , base insertion and omission , is sensitive to the relative concentration ratio of dNTPs",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "specified by the RNA template slippage - prone sequence and its 5 adjacent base . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 7,
+            "text": "The retrotransposon - derived enzyme TGIRT exhibits more slippage in vitro than the retroviral enzymes",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "tested",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 15,
+            "text": "including that from HIV . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 15,
+            "text": "Structure - mediated slippage may be exhibited by other polymerases and enrich gene expression . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 7,
+            "text": "A cassette from Drosophila retrotransposon Dme1 chrX 2630566 , a candidate",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "for utilizing slippage for its GagPol synthesis ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 19,
+            "text": "exhibits strong slippage in vitro . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 22,
+            "parent": 23,
+            "text": "Given the widespread occurrence and importance of retrotransposons ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 23,
+            "parent": 7,
+            "text": "systematic studies",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "to reveal the extent of their functional utilization of RT slippage",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 25,
+            "parent": 23,
+            "text": "are merited . <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

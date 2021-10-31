@@ -1,0 +1,76 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 7,
+            "text": "In general , a whole virion serves as a simple vaccine antigen and often essential material for the analysis of immune responses against virus infection . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "However ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 3,
+            "parent": 4,
+            "text": "to work with highly contagious pathogens ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "it is necessary to take precautions against laboratory - acquired infection . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 5,
+            "parent": 2,
+            "text": "We have learned many lessons from the recent outbreak of severe acute respiratory syndrome ( SARS ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 7,
+            "text": "In order to develop an effective vaccine and diagnostic tools ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "we prepared UV - inactivated SARS coronavirus on a large scale under the strict Biosafety Level 3 ( BSL3 ) regulation . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "Our protocol for large - scale preparation of UV - inactivated SARS - CoV",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "including virus expansion , titration , inactivation , and ultracentrifugation",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "is applicable to any newly emerging virus",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "we might encounter in the future . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

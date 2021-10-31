@@ -1,0 +1,88 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 4,
+            "text": "Avian metapneumovirus ( aMPV ) is one of the major causes of serious respiratory infections of poultry",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "and leads to considerable economic losses to food animal production worldwide . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 3,
+            "parent": 4,
+            "text": "Here , we show",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 4,
+            "parent": 0,
+            "text": "that double stranded short interfering RNA ( siRNA ) molecules",
+            "relation": "ROOT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "corresponding to aMPV phosphoprotein ( P ) gene",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "silence P RNA and protein expression . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 7,
+            "parent": 4,
+            "text": "These siRNAs broadly reduced the expression of other viral proteins in addition to P ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "but did not have a discernable effect on cellular protein expression . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 9,
+            "parent": 4,
+            "text": "The exposure of cells to P - specific siRNAs also led to inhibition of virus replication",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "as evidenced by marked reduction in the progeny virion titers . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 12,
+            "text": "Taken together ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 12,
+            "parent": 13,
+            "text": "the findings suggest",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 13,
+            "parent": 4,
+            "text": "that exogenous P silencing siRNAs can inhibit aMPV replication with potential implications in the design of novel siRNA based prophylactics . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

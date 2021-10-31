@@ -1,0 +1,106 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 11,
+            "text": "COVID-19 has massively changed the health landscape around the world . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "Wide - ranging changes to healthcare delivery have occurred , especially in hospitals and EDs . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "Health services have made local decisions about care pathways , in some cases",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "deviating from what would , until recently , have been considered widely accepted care . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 2,
+            "text": "These changes bring with them new medicolegal risk for clinicians . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "In Australia , civil liability Acts provide protection for professionals",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "when the criterion",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "of having undertaken ' competent ' practice",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "that would be ' widely accepted ' ' in the circumstances '",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 7,
+            "text": "is met . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 11,
+            "parent": 0,
+            "text": "There is doubt how courts , and the medical experts",
+            "relation": "ROOT"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "who advise them ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "will evaluate clinical care",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "provided during the pandemic",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "when health services have developed local care pathways",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "and there is no nationally accepted standard . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 3,
+            "text": "With rabbit patients , as in other species , analyzing blood and urine samples can be useful and informative ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "although interpretation of the results is sometimes challenging . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "This article summarizes the interpretation of laboratory results from rabbits . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "Hematological parameters can yield information about the red blood cell population and leukocyte response to stress and pathogens . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "Biochemistry evaluation can be used",
+            "relation": "JOINT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "to investigate liver , kidney , and other organ function ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 7,
+            "parent": 4,
+            "text": "and urinalysis results may yield additional information about kidney function and electrolyte imbalances . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 8,
+            "parent": 4,
+            "text": "Serological tests are available for several pathogens of rabbits ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "including Encephalitozoon cuniculi ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "although the significance of positive results and antibody titers is not clear . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 11,
+            "parent": 4,
+            "text": "Serum protein electrophoresis aids the understanding of protein disorders and the immune response to acute and chronic inflammation . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

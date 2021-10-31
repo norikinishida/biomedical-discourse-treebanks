@@ -1,0 +1,190 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 3,
+            "text": "Background : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 2,
+            "parent": 3,
+            "text": "The neutral theory of Motoo Kimura stipulates",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 3,
+            "parent": 7,
+            "text": "that evolution is mostly driven by neutral mutations . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "However adaptive pressure eventually leads to changes in phenotype",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "that involve non - neutral mutations . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 7,
+            "text": "The relation between neutrality and adaptation has been studied in the context of RNA before",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "and here we further study transitional mutations in the context of degenerate ( plastic ) RNA sequences and genetic assimilation . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "We propose quasineutral mutations ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "i.e. mutations",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "which preserve an element of the phenotype set ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 8,
+            "text": "as minimal mutations",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 12,
+            "parent": 8,
+            "text": "and study their properties . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 8,
+            "text": "We also propose a general probabilistic interpretation of genetic assimilation",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "and specialize it to the Boltzmann ensemble of RNA sequences . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 17,
+            "text": "Results : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 16,
+            "parent": 17,
+            "text": "We show",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 17,
+            "parent": 7,
+            "text": "that degenerate sequences",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "i.e. sequences with more than one structure at the MFE level",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 17,
+            "text": "have the highest evolvability among all sequences",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "and are central to evolutionary innovation . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 21,
+            "parent": 17,
+            "text": "Degenerate sequences also tend to cluster together in the sequence space . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "The selective pressure in an evolutionary simulation causes the population to move towards regions with more degenerate sequences ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "i.e. regions at the intersection of different neutral networks ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 22,
+            "text": "and this causes the number of such sequences to increase well beyond the average percentage of degenerate sequences in the sequence space . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 25,
+            "parent": 26,
+            "text": "We also observe",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 26,
+            "parent": 22,
+            "text": "that evolution by quasineutral mutations tends to conserve the number of base pairs in structures",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 27,
+            "parent": 26,
+            "text": "and thereby maintains structural integrity even in the presence of pressure to the contrary . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 28,
+            "parent": 30,
+            "text": "Conclusions : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 29,
+            "parent": 30,
+            "text": "We conclude",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 30,
+            "parent": 7,
+            "text": "that degenerate RNA sequences play a major role in evolutionary adaptation . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

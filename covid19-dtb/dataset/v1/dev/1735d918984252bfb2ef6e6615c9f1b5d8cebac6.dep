@@ -1,0 +1,154 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 6,
+            "text": "Poly(A ) tails are functionally important features of all picornavirus RNA genomes . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "Some viruses have genomes with relatively short poly(A ) tails",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "( encephalomyocarditis virus )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "whereas others have genomes with longer poly(A ) tails",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "( polioviruses and rhinoviruses ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 0,
+            "text": "Here we review the polyadenylation of picornavirus RNA",
+            "relation": "ROOT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "as it relates to the structure and function of 3D pol . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "Poliovirus 3D pol uses template - dependent reiterative transcription mechanisms",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "as it replicates the poly(A ) tails of viral RNA ( Steil et al . , 2010 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "These mechanisms are analogous to those",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "involved in the polyadenylation of vesicular stomatitis virus and influenza virus mRNAs . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 8,
+            "text": "3D pol residues",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "intimately associated with viral RNA templates and products",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "regulate the size of poly(A ) tails in viral RNA ( Kempf et al . , 2013 ) . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 15,
+            "parent": 16,
+            "text": "Consistent with their ancient evolutionary origins ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 12,
+            "text": "picornavirus 3D pol and telomerase reverse transcriptase ( TERT ) share structural and functional features . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "Structurally , both 3D pol and TERT assume a \" right - hand \" conformation with thumb , palm and fingers domains",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "encircling templates and products . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 17,
+            "text": "Functionally , both 3D pol and TERT use template - dependent reiterative transcription mechanisms",
+            "relation": "JOINT"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "to synthesize repetitive sequences :",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "poly(A ) tails in the case of picornavirus RNA genomes and DNA telomeres in the case of eukaryotic chromosomes . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 6,
+            "text": "Thus , picornaviruses and their eukaryotic hosts",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "( humans and animals )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 22,
+            "text": "maintain the 3 ends of their respective genomes via evolutionarily related mechanisms . <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

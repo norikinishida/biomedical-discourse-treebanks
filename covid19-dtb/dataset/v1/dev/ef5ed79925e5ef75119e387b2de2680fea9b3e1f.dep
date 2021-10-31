@@ -1,0 +1,118 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 3,
+            "text": "Streptobacillus felis is a fastidious microorganism and a novel member of the potentially zoonotic bacteria",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "causing rat bite fever . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "Since its description , this is the second isolation of S. felis in a diseased member of the Felidae . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "Interestingly , the strain from this study was isolated from a zoo held , rusty - spotted cat",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "( Prionailurus rubiginosus ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "with pneumonia ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 7,
+            "parent": 4,
+            "text": "thereby indicating a possible broader host range in feline species . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 8,
+            "parent": 11,
+            "text": "A recent preliminary sampling of domestic cats",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "( Felis silvestris forma catus )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "revealed",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 11,
+            "parent": 4,
+            "text": "that this microorganism is common in the oropharynx ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 13,
+            "text": "suggesting",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "that S. felis is a member of their normal microbiota . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 14,
+            "parent": 15,
+            "text": "Due to unawareness , fastidiousness , antibiotic sensitivity and lack of diagnostics",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 15,
+            "parent": 3,
+            "text": "the role of S. felis as a cat and human pathogen might be underreported as with other Streptobacillus infections . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "More studies are necessary",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "to elucidate the role of S. felis in domestic cats and other Felidae",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 18,
+            "parent": 16,
+            "text": "in order to better estimate its zoonotic potential . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

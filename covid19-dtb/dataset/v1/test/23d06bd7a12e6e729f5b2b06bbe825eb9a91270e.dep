@@ -1,0 +1,118 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 12,
+            "text": "Severe acute respiratory syndrome ( SARS ) is a recently described infectious entity with salient features of fever , headache and malaise , with rapid progression to pneumonitis . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "The etiology of SARS is likely a novel coronavirus . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "During the winter of 2003 , an outbreak of SARS",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "involving several hospitals",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "occurred in Toronto , Canada . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 6,
+            "parent": 3,
+            "text": "We describe a patient post liver transplant",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "who contracted SARS",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "and died during the outbreak , with subsequent infection of family and several health - care workers . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 6,
+            "text": "A novel coronavirus was detected in respiratory specimens by PCR . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 12,
+            "text": "Due to the potential severity of SARS in transplant recipients and the large number of cases of SARS in the community ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 11,
+            "parent": 12,
+            "text": "in order to avoid transmission of SARS from a donor ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 12,
+            "parent": 0,
+            "text": "we developed guidelines for SARS screening of organ donors . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "A screening tool",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "based on potential hospital SARS exposure , clinical symptoms , and epidemiological exposure",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "was used",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "to stratify donors as high , intermediate or low risk for SARS . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 17,
+            "parent": 18,
+            "text": "As SARS spreads throughout the world ,",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 18,
+            "parent": 12,
+            "text": "it may become an increasingly significant problem for transplant patients and programs . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

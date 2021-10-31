@@ -1,0 +1,148 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 5,
+            "text": "Porcine \u03b2 - defensin 2 ( PBD-2 ) ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "expressed by different tissues of pigs ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "is a multifunctional cationic peptide with antimicrobial , immunomodulatory and growth - promoting abilities . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "As the latest generation of genome - editing tool , CRISPR / Cas9 system makes it possible to enhance the expression of PBD-2 in pigs by site - specific knock - in of pbd-2 gene into the pig genome . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 0,
+            "text": "In this study , we aimed to generate marker - free pbd-2 knock - in pigs",
+            "relation": "ROOT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "using the CRISPR / Cas9 and Cre / loxP systems . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "Two copies of pbd-2 gene",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "linked by a T2A sequence",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "were inserted into the porcine Rosa26 locus through CRISPR / Cas9-mediated homology - directed repair . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 10,
+            "parent": 7,
+            "text": "The floxed selectable marker gene neoR ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "used for G418 screening of positive cell clones ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "was removed by cell - penetrating Cre recombinase with a recombination efficiency of 48.3 % . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 13,
+            "parent": 5,
+            "text": "Cloned piglets were produced via somatic cell nuclear transfer",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "and correct insertion of pbd-2 genes was confirmed by PCR and Southern blot . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 15,
+            "parent": 16,
+            "text": "Immunohistochemistry and immunofluorescence analyses indicated",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 16,
+            "parent": 5,
+            "text": "that expression levels of PBD-2 in different tissues of transgenic ( TG ) piglets were significantly higher than those of their wild - type ( WT ) littermates . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 17,
+            "parent": 18,
+            "text": "Bactericidal assays demonstrated",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 18,
+            "parent": 16,
+            "text": "that there was a significant increase in the antimicrobial properties of the cell culture supernatants of porcine ear fibroblasts from the TG pigs",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "in comparison to those from the WT pigs . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 20,
+            "parent": 18,
+            "text": "Altogether , our study improved the protein expression level of PBD-2 in pigs by site - specific integration of pbd-2 into the pig genome ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "which not only provided an effective pig model",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "to study the anti - infection mechanisms of PBD-2",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 23,
+            "parent": 21,
+            "text": "but also a promising genetic material for the breeding of disease - resistant pigs . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

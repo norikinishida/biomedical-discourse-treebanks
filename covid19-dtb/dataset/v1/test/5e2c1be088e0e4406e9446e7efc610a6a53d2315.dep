@@ -1,0 +1,148 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 11,
+            "text": "Feline calicivirus ( FCV ) is a small non - enveloped virus",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "containing a single - stranded , positive - sense RNA genome of approximately 7.7 kb . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "FCV is a highly infectious pathogen of cats",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "and typically causes moderate , self - limiting acute oral and upper respiratory tract diseases or chronic oral diseases . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "In addition , in recent years , virulent , systemic FCV ( vs - FCV ) strains",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "causing severe systemic diseases with a high mortality rate of up to 67 %",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "have been reported in cats . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 8,
+            "parent": 9,
+            "text": "Although FCV vaccines are commercially available ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 9,
+            "parent": 1,
+            "text": "their efficacy is limited",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "due to antigenic diversity of FCV strains and short duration of immunity . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 11,
+            "parent": 0,
+            "text": "In this study , we identified fexaramine as a potent inhibitor of FCV",
+            "relation": "ROOT"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "including vs - FCV strains in cell culture",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 14,
+            "text": "and demonstrated",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 14,
+            "parent": 11,
+            "text": "that fexaramine is a entry blocker for FCV",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "by using various experiments",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "including time - of - addition studies , generation of resistant viruses in cell culture and the reverse genetics system . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 11,
+            "text": "A fexaramine resistant FCV mutant has a single amino acid change in the P2 domain of VP1 ( the major capsid ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "and the importance of this mutation for conferring resistance was confirmed",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "using the reverse genetics system . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 20,
+            "parent": 11,
+            "text": "A comparative analysis of viral resistance was also performed",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "using a peptidyl inhibitor ( NPI52 )",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "targeting FCV 3C - like protease . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 20,
+            "text": "Finally , the effects of combination treatment of fexaramine and NPI52 against FCV replication and emergence of resistant viruses were investigated in cell culture . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 15,
+            "text": "Mortality from coronavirus disease 2019 is strongly associated with cardiovascular disease , diabetes , and hypertension . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "These disorders share underlying pathophysiology",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "related to the renin - angiotensin system ( RAS )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "that may be clinically insightful . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 2,
+            "text": "In particular , activity of the angiotensin - converting enzyme 2 ( ACE2 ) is dysregulated in cardiovascular disease ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "and this enzyme is used by severe acute respiratory syndrome coronavirus 2 ( SARS - CoV-2 )",
+            "relation": "JOINT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "to initiate the infection . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 8,
+            "parent": 5,
+            "text": "Cardiovascular disease and pharmacologic RAS inhibition both increase ACE2 levels ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "which may increase the virulence of SARS - CoV-2 within the lung and heart . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 11,
+            "text": "Conversely , mechanistic evidence from related coronaviruses suggests",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 11,
+            "parent": 8,
+            "text": "that SARS - CoV-2 infection may downregulate ACE2 ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "leading to toxic overaccumulation of Angiotensin II",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "that induces acute respiratory distress syndrome and fulminant myocarditis . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "RAS inhibition could mitigate this effect . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 0,
+            "text": "With conflicting mechanistic evidence , we propose key clinical research priorities",
+            "relation": "ROOT"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "necessary to clarify the role of RAS inhibition in COVID-19 mortality",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "that could be rapidly addressed by the international research community . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

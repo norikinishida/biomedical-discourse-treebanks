@@ -1,0 +1,166 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "We describe an explicit mechanism for the emergence of a dynamical holographic bulk from the structure of entanglement in a quantum state . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "We start with a generic system in complete isolation ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 4,
+            "text": "assuming",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "it has a classical limit",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "involving coherent states . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 2,
+            "text": "Then we entangle it with another system of that kind ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "and subject the pair to a decohering process . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 2,
+            "text": "We make a number of broadly applicable and physically reasonable assumptions about this setup . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 10,
+            "text": "First , we assume",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "that the states selected by the decoherence",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "( called pointer states )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "have the same local symmetries as the isolated systems , in a sense",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "which is made precise . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 15,
+            "text": "We also assume",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 15,
+            "parent": 10,
+            "text": "that the modular Hamiltonians of pointer states scale inversely with Planck 's constant ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "so that the pointer states are highly entangled in the classical limit . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 17,
+            "parent": 15,
+            "text": "Finally , we require the timescale of decoherence",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "to scale in a certain way with Planck 's constant ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 19,
+            "parent": 17,
+            "text": "so that decoherence happens very frequently in the classical limit , but not too frequently . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 20,
+            "parent": 21,
+            "text": "Given these assumptions ,",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 21,
+            "parent": 22,
+            "text": "we demonstrate",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 22,
+            "parent": 1,
+            "text": "that the semiclassical evolution of the system is dominated by a certain dynamical generalisation of Uhlmann holonomy . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "We construct a coherent state path integral for this evolution ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 25,
+            "text": "showing",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 25,
+            "parent": 23,
+            "text": "that the semiclassical fields evolve in a spacetime with one more dimension than the isolated case . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 26,
+            "parent": 25,
+            "text": "The additional dimension is generated by modular flow . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

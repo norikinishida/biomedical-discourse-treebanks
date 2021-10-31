@@ -1,0 +1,250 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 11,
+            "text": "Shotgun metagenomics",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "using next generation sequencing ( NGS )",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "is a promising technique",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to analyze both DNA and RNA microbial material from patient samples . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 6,
+            "text": "Mostly used in a research setting ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 6,
+            "parent": 1,
+            "text": "it is now increasingly being used in the clinical realm as well ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "notably to support diagnosis of viral infections ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "thereby calling for quality control and the implementation of ring trials ( RT )",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "to benchmark pipelines",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "and ensure comparable results . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 11,
+            "parent": 0,
+            "text": "The Swiss NGS clinical virology community therefore decided to conduct a RT in 2018 ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "in order to benchmark current metagenomic workflows",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "used at Swiss clinical virology laboratories ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "and thereby contribute to the definition of common best practices . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 15,
+            "parent": 11,
+            "text": "The RT consisted of two parts",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "( increments ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 15,
+            "text": "in order to disentangle the variability",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "arising from the experimental",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 17,
+            "text": "compared to the bioinformatics parts of the laboratory pipeline . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 20,
+            "parent": 15,
+            "text": "In addition , the RT was also designed",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "to assess the impact of databases",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "compared to bioinformatics algorithms on the final results ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 21,
+            "text": "by asking participants to perform the bioinformatics analysis with a common database ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "in addition to using their own in - house database . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 25,
+            "parent": 11,
+            "text": "Five laboratories participated in the RT <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 26,
+            "parent": 25,
+            "text": "( seven pipelines were tested ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 27,
+            "parent": 28,
+            "text": "We observed",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 28,
+            "parent": 11,
+            "text": "that the algorithms had a stronger impact on the overall performance than the choice of the reference database . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 29,
+            "parent": 30,
+            "text": "Our results also suggest",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 30,
+            "parent": 28,
+            "text": "that differences in sample preparation can lead to significant differences in the performance ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 31,
+            "parent": 30,
+            "text": "and that laboratories should aim for at least 5 - 10 Mio reads per sample",
+            "relation": "JOINT"
+        },
+        {
+            "id": 32,
+            "parent": 31,
+            "text": "and use depth of coverage in addition to other interpretation metrics",
+            "relation": "JOINT"
+        },
+        {
+            "id": 33,
+            "parent": 32,
+            "text": "such as the percent of coverage . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 34,
+            "parent": 30,
+            "text": "Performance was generally lower",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 35,
+            "parent": 34,
+            "text": "when increasing the number of viruses per sample . <S>",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 36,
+            "parent": 11,
+            "text": "The lessons",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 37,
+            "parent": 36,
+            "text": "learned from this pilot study",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 38,
+            "parent": 36,
+            "text": "will be useful for the development of larger - scale RTs",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 39,
+            "parent": 38,
+            "text": "to serve as regular quality control tests for laboratories",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 40,
+            "parent": 39,
+            "text": "performing NGS analyses of viruses in a clinical setting . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

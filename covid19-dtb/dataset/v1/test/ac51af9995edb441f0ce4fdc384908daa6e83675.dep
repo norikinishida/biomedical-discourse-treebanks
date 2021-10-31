@@ -1,0 +1,184 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 14,
+            "text": "TREM2 variants have been identified as risk factors for Alzheimer 's disease ( AD ) and other neurodegenerative diseases ( NDDs ) . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 5,
+            "text": "Because TREM2 encodes a receptor",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "exclusively expressed on immune cells ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 5,
+            "text": "identification of these variants conclusively demonstrates",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "that the immune response can play an active role in the pathogenesis of NDDs . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 1,
+            "text": "These TREM2 variants also confer the highest risk",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "for developing Alzheimer 's disease of any risk factor",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "identified in nearly two decades ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 10,
+            "text": "suggesting",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 10,
+            "parent": 6,
+            "text": "that understanding more about TREM2 function could provide key insights into NDD pathology",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "and provide avenues for novel immune - related NDD biomarkers and therapeutics . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "The expression , signaling and function of TREM2 in NDDs have been extensively investigated in an effort",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "to understand the role of immune function in disease pathogenesis and progression . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 14,
+            "parent": 0,
+            "text": "We provide a comprehensive review of our current understanding of TREM2 biology ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "including new insights into the regulation of TREM2 expression , and TREM2 signaling and function across NDDs . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 17,
+            "text": "While many open questions remain ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 17,
+            "parent": 14,
+            "text": "the current body of literature provides clarity on several issues . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 18,
+            "parent": 19,
+            "text": "While it is still often cited that TREM2 expression is decreased by pro - inflammatory stimuli ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 19,
+            "parent": 17,
+            "text": "it is now clear that this is true in vitro ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "but inflammatory stimuli in vivo almost universally increase TREM2 expression . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 21,
+            "parent": 19,
+            "text": "Likewise ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 23,
+            "text": "while TREM2 function is classically described as promoting an anti - inflammatory phenotype ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 23,
+            "parent": 21,
+            "text": "more than half of published studies demonstrate a pro - inflammatory role for TREM2 ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 24,
+            "parent": 25,
+            "text": "suggesting",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 25,
+            "parent": 23,
+            "text": "that its role in inflammation is much more complex . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 26,
+            "parent": 21,
+            "text": "Finally , these components of TREM2 biology are applied to a discussion",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 27,
+            "parent": 26,
+            "text": "of how TREM2 impacts NDD pathologies",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 28,
+            "parent": 26,
+            "text": "and the latest assessment",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 29,
+            "parent": 28,
+            "text": "of how these findings might be applied to immune - directed clinical biomarkers and therapeutics . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

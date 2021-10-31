@@ -1,0 +1,58 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "A combination of federal and state - level decision making has shaped the response to COVID-19 in the United States . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 0,
+            "text": "In this paper we analyze the Twitter narratives around this decision making",
+            "relation": "ROOT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "by applying a dynamic topic model to COVID-19 related tweets by U.S. Governors and Presidential cabinet members . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "We use a network Hawkes binomial topic model",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "to track evolving sub - topics around risk , testing and treatment . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "We also construct influence networks amongst government officials",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "using Granger causality",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "inferred from the network Hawkes process . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

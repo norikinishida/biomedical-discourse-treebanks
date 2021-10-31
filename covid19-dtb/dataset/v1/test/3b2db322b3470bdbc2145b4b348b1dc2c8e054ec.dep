@@ -1,0 +1,106 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 12,
+            "text": "Coronavirus disease 2019",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "caused by severe acute respiratory syndrome coronavirus 2",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "has spread rapidly around the world",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "and is a significant threat to global health . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "Patients in the Neonatal Surgery Department have rapidly progressing diseases and immature immunity ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "which makes them vulnerable to pulmonary infection and a relatively higher mortality . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 7,
+            "parent": 8,
+            "text": "This means",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 8,
+            "parent": 5,
+            "text": "that these patients require multidisciplinary treatment",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "including early diagnosis , timely transport , emergency surgery and intensive critical care . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "The COVID-19 pandemic poses a threat to carrying out these treatments . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 11,
+            "parent": 12,
+            "text": "To provide support for the health protection requirements of the medical services in the Neonatal Surgery Department ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 12,
+            "parent": 0,
+            "text": "we developed recommendations",
+            "relation": "ROOT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "focusing on patient transport , surgery selection and protection requirements",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "with the aim",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "of improving treatment strategies for patients",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "and preventing infection in medical staff during the current COVID-19 pandemic . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

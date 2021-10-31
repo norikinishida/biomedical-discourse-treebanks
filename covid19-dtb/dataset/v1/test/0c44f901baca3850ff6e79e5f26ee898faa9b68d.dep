@@ -1,0 +1,136 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 15,
+            "text": "Emerging and re - emerging infectious diseases , and their determinants , have recently attracted substantial scientific and popular attention . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "HIV / AIDS , severe acute respiratory syndrome , H5N1 avian influenza , and many other emerging diseases have either proved fatal",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "or caused international alarm . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "Common and interactive co - determinants of disease emergence ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "including population growth , travel , and environmental disruption ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "have been increasingly documented",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "and studied . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 8,
+            "parent": 1,
+            "text": "Are emerging infections a new phenomenon",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "related to modern life ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "or do more basic determinants ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "transcending time , place , and human progress ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "govern disease generation ? <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 13,
+            "parent": 15,
+            "text": "By examining a number of historically notable epidemics ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 14,
+            "parent": 15,
+            "text": "we suggest",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 15,
+            "parent": 0,
+            "text": "that emerging diseases ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "similar in their novelty , impact , and elicitation of control responses ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 17,
+            "parent": 15,
+            "text": "have occurred throughout recorded history . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 18,
+            "parent": 15,
+            "text": "Fundamental determinants ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "typically acting in concert ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 18,
+            "text": "seem to underlie their emergence ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "and infections such as these are likely to continue to remain challenges to human survival . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

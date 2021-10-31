@@ -1,0 +1,184 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 11,
+            "text": "Coronavirus Disease 2019 ( COVID-19 ) spread globally in early 2020 ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "causing the world to face an existential health crisis . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "Automated detection of lung infections from computed tomography ( CT ) images offers a great potential",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to augment the traditional healthcare strategy",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "for tackling COVID-19 . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 6,
+            "parent": 3,
+            "text": "However , segmenting infected regions from CT scans faces several challenges ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "including high variation in infection characteristics , and low intensity contrast between infections and normal tissues . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "Further , collecting a large amount of data is impractical within a short time period ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "inhibiting the training of a deep model . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 10,
+            "parent": 11,
+            "text": "To address these challenges ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 11,
+            "parent": 0,
+            "text": "a novel COVID-19 Lung Infection Segmentation Deep Network ( Inf - Net ) is proposed",
+            "relation": "ROOT"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "to automatically identify infected regions from chest CT scans . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "In our Inf - Net , a parallel partial decoder is used",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "to aggregate the high - level features",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "and generate a global map . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 16,
+            "parent": 13,
+            "text": "Then , the implicit reverse attention and explicit edge - attention are utilized",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "to model the boundaries",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "and enhance the representations . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 19,
+            "parent": 11,
+            "text": "Moreover ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 21,
+            "text": "to alleviate the shortage of labeled data ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 21,
+            "parent": 19,
+            "text": "we present a semi - supervised segmentation framework",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "based on a randomly selected propagation strategy ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "which only requires a few labeled images",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "and leverages primarily unlabeled data . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 25,
+            "parent": 19,
+            "text": "Our semi - supervised framework can improve the learning ability",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 26,
+            "parent": 25,
+            "text": "and achieve a higher performance . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 27,
+            "parent": 28,
+            "text": "Extensive experiments on our COVID - SemiSeg and and real CT volumes demonstrate",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 28,
+            "parent": 11,
+            "text": "that the proposed Inf - Net outperforms most cutting - edge segmentation models",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 29,
+            "parent": 28,
+            "text": "and advances the state - of - theart performance . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

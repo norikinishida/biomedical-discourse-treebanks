@@ -1,0 +1,76 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "A molecular docking study was performed on several structurally diverse A 2A AR antagonists ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "including xanthines ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "and non - xanthine type antagonists",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "to investigate their binding modes with A 2A adenosine receptor ( AR ) ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "one of the four subtypes of AR ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "which is currently of great interest as a target for therapeutic intervention , in particular for Parkinson 's disease . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 1,
+            "text": "The high - affinity binding site was found to be a hydrophobic pocket with the involvement of hydrogen bonding interactions as well as p - p stacking interactions with the ligands . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 8,
+            "parent": 1,
+            "text": "The detailed binding modes for both xanthine and non - xanthine type A 2A antagonists were compared",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "and the essential features were extracted",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "and converted to database searchable queries for virtual screening study of novel A 2A AR antagonists . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 1,
+            "text": "Findings from this study are helpful for elucidating the binding pattern of A 2A AR antagonists and for the design of novel active ligands . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

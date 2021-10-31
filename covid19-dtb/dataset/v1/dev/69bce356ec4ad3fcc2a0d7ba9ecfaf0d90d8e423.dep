@@ -1,0 +1,130 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 5,
+            "text": "Most biological processes are described as a series of interactions between proteins and other molecules ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "and interactions are in turn described in terms of atomic structures . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 5,
+            "text": "To annotate protein functions as sets of interaction states at atomic resolution ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "and thereby to better understand the relation between protein interactions and biological functions ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 5,
+            "parent": 0,
+            "text": "we conducted exhaustive all - against - all atomic structure comparisons of all known binding sites for ligands",
+            "relation": "ROOT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "including small molecules , proteins and nucleic acids ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "and identified recurring elementary motifs . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 8,
+            "parent": 10,
+            "text": "By integrating the elementary motifs",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "associated with each subunit ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 5,
+            "text": "we defined composite motifs",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "that represent context - dependent combinations of elementary motifs . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "It is demonstrated that function similarity can be better inferred from composite motif similarity",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "compared to the similarity of protein sequences or of individual binding sites . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 16,
+            "text": "By integrating the composite motifs",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "associated with each protein function ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 10,
+            "text": "we define meta - composite motifs",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "each of which is regarded as a time - independent diagrammatic representation of a biological process . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 16,
+            "text": "It is shown that meta - composite motifs provide richer annotations of biological processes than sequence clusters . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 19,
+            "parent": 5,
+            "text": "The present results serve as a basis",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "for bridging atomic structures to higher - order biological phenomena by classification and integration of binding site structures . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

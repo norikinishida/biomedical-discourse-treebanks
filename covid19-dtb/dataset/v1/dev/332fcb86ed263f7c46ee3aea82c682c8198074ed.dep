@@ -1,0 +1,88 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 7,
+            "text": "Coronavirus 2019 is challenging nurse leaders to adopt new decisionmaking practices . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "Nurse leaders",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "who support evidence - based nursing practice",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "create a culture of inquiry",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "and lay the foundation for the use of evidence",
+            "relation": "JOINT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "to inform management decisions . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "This article uses a case study",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "to describe the evidence - based management process . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "The authors provide strategies for nurse leaders",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "to develop evidence - based management competencies",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "and build a culture",
+            "relation": "JOINT"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "to support the use of evidence",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "to inform decision - making in leadership and management . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

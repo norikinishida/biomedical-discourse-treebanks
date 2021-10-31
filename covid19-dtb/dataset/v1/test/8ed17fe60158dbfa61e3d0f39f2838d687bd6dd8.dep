@@ -1,0 +1,112 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 11,
+            "text": "A novel coronavirus ( CoV )",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "that causes a severe lower respiratory tract infection in humans ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "emerged in the Middle East region in 2012 . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "This virus ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "named Middle East respiratory syndrome ( MERS)-CoV ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "is phylogenetically related to bat CoVs ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "but other animal species like dromedary camels may potentially act as intermediate hosts",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "by spreading the virus to humans . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 9,
+            "parent": 11,
+            "text": "Although human to human transmission has been demonstrated ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 10,
+            "parent": 11,
+            "text": "analysis of human MERS clusters indicated",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 11,
+            "parent": 0,
+            "text": "that chains of transmission were not self - sustaining ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "especially when infection control was implemented . <S>",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "Thus , timely identification of new MERS cases",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "followed by their quarantine ,",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "combined with measures",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "to limit spread of the virus from the ( intermediate ) host to humans ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 17,
+            "parent": 13,
+            "text": "may be crucial in controlling the outbreak of this emerging CoV. <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 8,
+            "text": "The appearance of the novel betacoronavirus SARS - CoV-2 represents a major threat to human health ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "and its diffusion around the world is causing dramatic consequences . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "The knowledge of the 3D structures of SARS - CoV-2 proteins can facilitate the development of therapeutic and diagnostic molecules . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "Specifically , comparative analyses of the structures of SARS - CoV-2 proteins and homologous proteins from previously characterized viruses ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "such as SARS - CoV ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "can reveal the common and/or distinctive traits",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "that underlie the mechanisms of recognition of cell receptors and of molecules of the immune system . <S> <P>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 0,
+            "text": "Herein , we apply our recently developed energy - based methods for the prediction of antibodybinding epitopes and protein - protein interaction regions to the Receptor Binding Domain ( RBD ) of the Spike proteins from SARS - CoV-2 and SARS - CoV. <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "Our analysis focusses only on the study of the structure of RBDs in isolation ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "without making use of any previous knowledge of binding properties . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 11,
+            "parent": 8,
+            "text": "Importantly , our results highlight structural and sequence differences among the regions",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "that are predicted to be immunoreactive and bind / elicit antibodies . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "These results provide a rational basis to the observation",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "that several SARS - CoV RDB - specific monoclonal antibodies fail to appreciably bind the SARS - CoV-2 counterpart . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "Furthermore , we correctly identify the region of SARS - CoV-2 RBD",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "that is engaged by the cell receptor ACE2 during viral entry into host cells . <S> <P>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 8,
+            "text": "The data , sequences and structures",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "we present here",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 17,
+            "text": "can be useful for the development of novel therapeutic and diagnostic interventions . <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

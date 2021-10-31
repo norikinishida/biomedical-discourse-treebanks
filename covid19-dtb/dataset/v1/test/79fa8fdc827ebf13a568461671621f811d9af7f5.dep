@@ -1,0 +1,70 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Canine parvovirus ( CPV ) is the number one viral cause of enteritis , morbidity , and mortality in 8-week - old young puppies . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 0,
+            "text": "We have developed twin assays",
+            "relation": "ROOT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "( slide agglutination test [ SAT ] for CPV antigen and slide inhibition test [ SIT ] for CPV antibody )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "that are sensitive , specific , cost - effective , generic for all genotypes of CPV ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "and provide instant results for CPV antigen detection in feces and antibody quantification in serum . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 6,
+            "parent": 2,
+            "text": "We found these assays to be useful for routine applications in kennels with large numbers of puppies at risk . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 7,
+            "parent": 2,
+            "text": "The results of these assays are available in 1 min",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "and do not require any special instrumentation . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 9,
+            "parent": 2,
+            "text": "SAT - SIT technology will find applications in rapid screening of samples for other hemagglutinating emerging viruses of animals and humans",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "( influenza virus and severe acute respiratory syndrome coronavirus ) . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

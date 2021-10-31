@@ -1,0 +1,100 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "The goal of this article is to analyze some compartmental models",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "specially designed",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "to model the spread of a disease",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "whose transmission has the same features as COVID-19 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "The major contributions of this article are :",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "( 1 ) Rigorously find sufficient conditions for the outbreak to only have one peak ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "i.e. for no second wave of infection to form ;",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "( 2 ) Investigate the formation of other waves of infection",
+            "relation": "JOINT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "when such conditions are not met ;",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 10,
+            "parent": 6,
+            "text": "( 3 ) Use numerical simulations",
+            "relation": "JOINT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "to analyze the different roles",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "asymptomatic carriers can have . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 14,
+            "text": "We also argue",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 14,
+            "parent": 5,
+            "text": "that dividing the population into non - interacting groups leads to an effective reduction of the transmission rates . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 1,
+            "text": "As in any compartmental model , the goal of this article is to provide qualitative understanding rather than exact quantitative predictions . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 16,
+            "text": "In mammalian cells , the Golgi complex has an elaborate structure",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "consisting of stacked , flattened cisternal membranes",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "collected into a ribbon in the center of the cell . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "Amazingly , the flattened cisternae can rapidly dilate",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "to accommodate large cargo",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "as it traffics through the organelle . <S>",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 7,
+            "parent": 4,
+            "text": "The mechanism",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "by which this occurs",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "is unknown . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 10,
+            "parent": 4,
+            "text": "Exocytosis of large cargo is essential for many physiological processes ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "including collagen and lipoprotein secretion ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "and defects in the process lead to disease . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 13,
+            "parent": 10,
+            "text": "In addition , enveloped viruses",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "that bud into the endoplasmic reticulum or Golgi complex",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "must also be transported through Golgi cisternae for secretion from the infected cell . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 16,
+            "parent": 0,
+            "text": "This review summarizes our understanding of intra - Golgi transport of large cargo ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "and outlines current questions",
+            "relation": "JOINT"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "open for experimentation . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

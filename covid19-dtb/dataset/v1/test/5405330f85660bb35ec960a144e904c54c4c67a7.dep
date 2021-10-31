@@ -1,0 +1,76 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "In this demo , we introduce an interactive system ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "which effectively applies multiple criteria analysis",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "to rank association rules . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "We first use association rules techniques",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "to explore the correlations between variables in given data",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "( i.e. , database and linked data ( LD ) ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 4,
+            "text": "and secondly apply multiple criteria analysis ( MCA )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "to select the most relevant rules according to user preferences . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 9,
+            "parent": 1,
+            "text": "The developed system is flexible",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "and allows intuitive creation and execution of different algorithms for an extensive range of advanced data analysis topics . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "Furthermore , we demonstrate a case study of association rule mining and ranking on road accident data . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

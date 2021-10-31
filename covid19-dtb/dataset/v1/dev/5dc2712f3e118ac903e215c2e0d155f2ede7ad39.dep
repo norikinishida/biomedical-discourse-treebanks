@@ -1,0 +1,112 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "The pathology of 2 zoonotic human viral infections",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "that recently emerged ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "severe acute respiratory syndrome ( SARS )",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "due to coronavirus ( SARS - CoV ) and avian influenza A subtype H5N1 ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "is reviewed and compared based on the literature and the cases",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "examined by the authors . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 1,
+            "text": "Pneumocytes are the primary target of infection",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "resulting in diffuse alveolar damage . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "Systemic cytokine activation results in hemophagocytic syndrome , lymphoid depletion , and skeletal muscle fiber necrosis . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "Severe acute respiratory syndrome induces a more fibrocellular intra - alveolar organization with a bbronchiolitis obliterans",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "organizing pneumoniaQ - like pattern and presence of multinucleated histiocytes and pneumocytes . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "H5N1 causes a more fulminant and necrotizing diffuse alveolar damage with patchy and interstitial paucicellular fibrosis . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 13,
+            "parent": 10,
+            "text": "Severe acute respiratory syndrome associated coronavirus persists in the lung up to the second month ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "whereas H5N1 persists in the lung up to the third week . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "Severe acute respiratory syndrome associated coronavirus disseminates to blood , urine , feces , gastrointestinal tract , and liver . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "There is recent report of possible cerebral involvement by H5N1 and its isolation in the blood , gastrointestinal tract , and cerebrospinal fluid . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 17,
+            "parent": 1,
+            "text": "More pathologic studies are urgently needed . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

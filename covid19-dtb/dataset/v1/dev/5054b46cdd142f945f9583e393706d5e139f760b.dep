@@ -1,0 +1,64 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "This content analysis provides an overview of articles specific to technology integration in the field of counseling",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "published in American Counseling Association ( ACA ) journals between the years 2000 and 2018 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "In addition to the number of articles on this topic",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "published during this time period ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "the study identified other aspects",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "such as authors and institutional affiliations ; methodology , study locations , and application settings ; target populations and sample characteristics ; and areas and types of technology integration . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 3,
+            "text": "Recommendations are provided for counseling research in general and for future research",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "extending from specific circumstances",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "such as the COVID-19 pandemic . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

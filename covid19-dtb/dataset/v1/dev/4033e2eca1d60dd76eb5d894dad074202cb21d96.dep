@@ -1,0 +1,58 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 7,
+            "text": "The standard of reference",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "for confirming COVID-19",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "relies on microbiological tests",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "such as real - time polymerase chain reaction ( RT - PCR ) or sequencing . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "However , these tests might not be available in an emergency setting . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "Computed tomography ( CT ) can be used as an important complement for the diagnosis of COVID-19 pneumonia in the current epidemic context . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "In this review , we present the typical CT features of COVID-19 pneumonia",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "and discuss the main differential diagnosis . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

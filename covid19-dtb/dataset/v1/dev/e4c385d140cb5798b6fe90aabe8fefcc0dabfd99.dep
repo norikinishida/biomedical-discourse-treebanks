@@ -1,0 +1,70 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "Surface modified bioactive virus - mimicking organic nanovesicles represent themselves as complex biomimetic structures",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "that have abilities",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "to dissect the functions of individual entities in a complex biochemical system . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "The customized surface of nanovesicles from ( glyco)dendrimersomes has structural modifications",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "that contribute to manifest the SARS - CoV-2 and host pathogenic molecular interactions",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "that help the virus to evade the human immune system . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 1,
+            "text": "Nanovesicles also have a potential role in dynamic biomedical applications",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "such as designing galectin targeting drugs , evaluation of antibodies",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "to design antiviral therapeutics or vaccines",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 10,
+            "parent": 7,
+            "text": "and targeted delivery of drugs . <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

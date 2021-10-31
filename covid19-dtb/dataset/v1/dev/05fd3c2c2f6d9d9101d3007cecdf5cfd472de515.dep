@@ -1,0 +1,184 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 8,
+            "text": "Recently , the popularity of smart wearable technologies ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "such as Fitbit ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "has significantly increased . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "There are numerous potential benefits",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "in using these devices ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "especially among seniors . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 7,
+            "parent": 4,
+            "text": "Yet , little is known about seniors ' adoption behavior . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 8,
+            "parent": 0,
+            "text": "Through a mixed - methods approach , this study investigates the factors",
+            "relation": "ROOT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "that impact seniors ' intention",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "to use wearable devices . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 12,
+            "text": "Results from an online survey and interviews showed",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 12,
+            "parent": 8,
+            "text": "that seniors ' perception of the complexity",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "of working with these devices",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "is a barrier to their adoption decisions . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 15,
+            "parent": 16,
+            "text": "Looking more deeply into the role of complexity revealed",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 16,
+            "parent": 12,
+            "text": "that seniors ' concern about the complexity",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "of reading and interpreting the output of wearable devices",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 16,
+            "text": "is the main deterring element . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 19,
+            "parent": 8,
+            "text": "Furthermore , we explored the role of two important elements :",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "seniors ' cognitive age , and the influence of their subjective well - being on their adoption behavior . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 22,
+            "text": "Results demonstrated",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 22,
+            "parent": 19,
+            "text": "that cognitive age does not significantly impact use intention by itself ;",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "nonetheless , subjective wellbeing moderates its effect . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 24,
+            "parent": 22,
+            "text": "This result revealed an interesting finding ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 25,
+            "parent": 24,
+            "text": "which is that the influence of cognitive age on seniors ' use intention depends on seniors ' level of subjective well - being . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 26,
+            "parent": 27,
+            "text": "When seniors ' subjective well - being is low ,",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 27,
+            "parent": 24,
+            "text": "surprisingly , cognitive age increases seniors ' intention",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 28,
+            "parent": 27,
+            "text": "to use the device . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 29,
+            "parent": 8,
+            "text": "These findings provide interesting implications for practice and future research . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

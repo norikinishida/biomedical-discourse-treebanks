@@ -1,0 +1,142 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 4,
+            "text": "COVID-19 has emerged as global medical emergency in recentdecades . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "The spread scenario of this pandemic has shown many variations . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 4,
+            "text": "Keeping all this in mind ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 4,
+            "parent": 0,
+            "text": "this article is written after various studies and analysis on the latest data on COVID-19 spread ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "which also includes the demographic and environmental factors . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 7,
+            "text": "After gathering data from various resources ,",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 7,
+            "parent": 4,
+            "text": "all data are integrated and passed into different Machine Learning Models",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "to check the fit . <S> <P>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 9,
+            "parent": 4,
+            "text": "Ensemble Learning Technique , Random Forest , gives a good evaluation score on the test data . <S> <P>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "Through this technique , various important factors are recognised",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "and their contribution to the spread is analysed . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "Also , linear relationship between various features is plotted through heatmap of Pearson Correlation matrix . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "Finally , Kalman Filter is used",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "to estimate future spread of COVID19 ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "which shows good result on test data . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 16,
+            "parent": 13,
+            "text": "The inferences from Random Forest feature importance and Pearson Correlation gives many similarities and some dissimilarities ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "and these techniques successfully identify the different contributing factors . <S> <P>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 16,
+            "text": "The Kalman Filter gives a satisfying result for short term estimation ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "but not so good performance for long term forecasting . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 20,
+            "parent": 4,
+            "text": "Overall , the analysis , plots , inferences and forecast are satisfying",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "and can help a lot",
+            "relation": "JOINT"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "in fighting the spread of the virus . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

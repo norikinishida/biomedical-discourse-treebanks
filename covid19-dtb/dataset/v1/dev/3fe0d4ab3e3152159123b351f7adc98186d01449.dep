@@ -1,0 +1,130 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 14,
+            "text": "Coronavirus disease 2019 , i.e. COVID-19 has imposed the public health measure",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "of keeping social distancing",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "for preventing mass transmission of COVID-19 . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 4,
+            "parent": 6,
+            "text": "For monitoring the social distancing",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "and keeping the trace of transmission ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 6,
+            "parent": 1,
+            "text": "we are obligated to develop various types of digital surveillance systems ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "which include contact tracing systems and drone - based monitoring systems . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 9,
+            "text": "Due to the inconvenience of manual labor ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 9,
+            "parent": 6,
+            "text": "traditional contact tracing systems are gradually replaced by the efficient automated contact tracing applications",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "that are developed for smartphones . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "However , the commencement of automated contact tracing applications introduces the inevitable privacy and security challenges . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "Nevertheless , unawareness and/or lack of smartphone usage among mass people lead to drone - based monitoring systems . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "These systems also invite unwelcomed privacy and security challenges . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 14,
+            "parent": 0,
+            "text": "This paper discusses the recently designed and developed digital surveillance system applications with their protocols",
+            "relation": "ROOT"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "deployed in several countries around the world . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "Their privacy and security challenges are discussed as well as analyzed from the viewpoint of privacy acts . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "Several recommendations are suggested separately for automated contact tracing systems and drone - based monitoring systems ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "which could further be explored and implemented afterwards",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "to prevent any possible privacy violation",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "and protect an unsuspecting person from any potential cyber attack . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

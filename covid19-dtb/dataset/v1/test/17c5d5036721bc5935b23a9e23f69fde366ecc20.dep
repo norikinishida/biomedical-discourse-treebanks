@@ -1,0 +1,166 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "We investigate the difference in the spread of COVID-19 between the states",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "won by Donald Trump ( Red )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "and the states",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "won by Hillary Clinton ( Blue ) in the 2016 presidential election ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "by mining transportation patterns of US residents from March 2020 to July 2020 . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 6,
+            "parent": 7,
+            "text": "To ensure a fair comparison ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 7,
+            "parent": 1,
+            "text": "we first use a K - means clustering method",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "to group the 50 states into five clusters according to their population , area and population density . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "We then characterize daily transportation patterns of the residents of different states",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "using the mean percentage of residents",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "traveling",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "and the number of trips per person . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 13,
+            "parent": 9,
+            "text": "For each state , we study the correlations between travel patterns and infection rate for a 2-month period before and after the official states reopening dates . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 15,
+            "text": "We observe",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 15,
+            "parent": 1,
+            "text": "that during the lock - down , Red and Blue states both displayed strong positive correlations between their travel patterns and infection rates . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "However ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 17,
+            "parent": 19,
+            "text": "after states reopened",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 18,
+            "parent": 19,
+            "text": "we find",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 19,
+            "parent": 16,
+            "text": "that Red states had higher travel - infection correlations than Blue states in all five state clusters . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 20,
+            "parent": 21,
+            "text": "We find",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 21,
+            "parent": 16,
+            "text": "that the residents of both Red and Blue states displayed similar travel patterns during the period post the reopening of states ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 23,
+            "text": "leading us to conclude",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 23,
+            "parent": 21,
+            "text": "that , on average , the residents in Red states might be mobilizing less safely than the residents in Blue states . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 24,
+            "parent": 21,
+            "text": "Furthermore , we use temperature data",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 25,
+            "parent": 24,
+            "text": "to attempt to explain the difference in the way",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 26,
+            "parent": 25,
+            "text": "residents travel and practice safety measures . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

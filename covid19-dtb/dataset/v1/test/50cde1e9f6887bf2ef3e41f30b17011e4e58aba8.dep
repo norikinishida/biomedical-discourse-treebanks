@@ -1,0 +1,118 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "In order to survey the infectious situation of canine coronavirus ( CCV ) in giant panda population ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 2,
+            "parent": 0,
+            "text": "a virus neutralization test",
+            "relation": "ROOT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "detecting specific antibodies against CCV in giant panda 's sera",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "was established",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "by using two - fold dilutions of serum and 100 TCIDso of the virus . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 6,
+            "parent": 2,
+            "text": "The 62 sera samples of giant pandas ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "which were gathered from zoos and reserve region of Sichuan Province , China",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "were detected . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 9,
+            "parent": 2,
+            "text": "The neutralization antibody titer of 1:4 was recognized as the positive criterion ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "8 sera samples were detected to be positive ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "and the positive rate was 12.9 % . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 12,
+            "parent": 9,
+            "text": "The titers of neutralizing antibody ranged from 1:8 to 1:32 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 9,
+            "text": "It was the first comprehensive investigation on neutralization antibodies against CCV in giant panda population in China . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 15,
+            "text": "The results of study showed",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 15,
+            "parent": 2,
+            "text": "that the infection of CCV in giant panda population was universal ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "which has posed a threat to the health of giant panda . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 15,
+            "text": "Therefore , it is incumbent on us to study safe and effective vaccines",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "to protect giant panda against CCV infection . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

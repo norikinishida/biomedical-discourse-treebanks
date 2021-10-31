@@ -1,0 +1,106 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 3,
+            "text": "Genomics - based neoantigen discovery can be enhanced by proteomic evidence ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "but there remains a lack of consensus on the performance of different quality control methods for variant peptide identification in proteogenomics . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "We propose to use the difference between accurately predicted and observed retention times for each peptide as a metric",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to evaluate different quality control methods . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "To this end , we develop AutoRT ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "a deep learning algorithm with high accuracy in retention time prediction . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 3,
+            "text": "Analysis of three cancer data sets with a total of 287 tumor samples",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "using different quality control strategies",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "results in substantially different numbers of identified variant peptides and putative neoantigens . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 10,
+            "parent": 3,
+            "text": "Our systematic evaluation ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "using the proposed retention time metric ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "provides insights and practical guidance on the selection of quality control strategies . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 13,
+            "parent": 10,
+            "text": "We implement the recommended strategy in a computational workflow",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "named NeoFlow",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "to support proteogenomics - based neoantigen prioritization ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 16,
+            "parent": 13,
+            "text": "enabling more sensitive discovery of putative neoantigens . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

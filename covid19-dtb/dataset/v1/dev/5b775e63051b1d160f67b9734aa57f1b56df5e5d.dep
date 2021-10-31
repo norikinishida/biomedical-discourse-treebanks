@@ -1,0 +1,100 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 4,
+            "text": "Invasive , non - native species are a major threat to global biodiversity . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "Stoats were introduced from Britain to New Zealand in the 1880s",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "and have since caused grave conservation problems . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 4,
+            "parent": 0,
+            "text": "A histopathological and serological survey of disease and infection in stoats from New Zealand was undertaken",
+            "relation": "ROOT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "to identify agents",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "that might be used or modified",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "to control this population . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 8,
+            "parent": 4,
+            "text": "Of 60 stoats examined , 63 % exhibited inflammation of the lung ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "mostly occurring as local or diffuse interstitial pneumonia ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "30 % showed signs of inflammatory liver disease",
+            "relation": "JOINT"
+        },
+        {
+            "id": 11,
+            "parent": 8,
+            "text": "and 14 % were positive for antibodies reactive with feline calicivirus . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 12,
+            "parent": 8,
+            "text": "In Britain only 11 % of 44 stoats exhibited symptoms of pulmonary inflammatory disease ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "suggesting higher rates of infection or compromise of the pulmonary immune system among invasive stoats ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "possibly related to genetic founder effects or environmental variation . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 4,
+            "text": "These findings could be exploited in biological control programmes . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

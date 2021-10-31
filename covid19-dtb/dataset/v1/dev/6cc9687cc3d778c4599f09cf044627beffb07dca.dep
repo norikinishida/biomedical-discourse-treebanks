@@ -1,0 +1,118 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 11,
+            "text": "There is an urgent need",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "for new therapeutic strategies to contain the spread of the novel coronavirus disease 2019",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "and to curtail its most severe complications . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "Severely ill patients experience pathologic manifestations of acute respiratory distress syndrome ( ARDS ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "and clinical reports demonstrate striking neutrophilia , elevated levels of multiple cytokines , and an exaggerated inflammatory response in fatal COVID-19 . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "Mechanical respirator devices are the most widely applied therapy for ARDS in COVID-19 ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "yet mechanical ventilation achieves strikingly poor survival . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "Many patients ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "who recover ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "experience impaired cognition or physical disability . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 11,
+            "parent": 0,
+            "text": "In this review , we argue the need",
+            "relation": "ROOT"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "to develop therapies",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "aimed at inhibiting neutrophil recruitment , activation , degranulation , and neutrophil extracellular trap ( NET ) release . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 14,
+            "parent": 15,
+            "text": "Moreover , we suggest",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 15,
+            "parent": 11,
+            "text": "that currently available pharmacologic approaches should be tested as treatments for ARDS in COVID-19 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 11,
+            "text": "In our view , targeting host - mediated immunopathology holds promise",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "to alleviate progressive pathologic complications of ARDS",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "and reduce morbidities and mortalities in severely ill patients with COVID-19 . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

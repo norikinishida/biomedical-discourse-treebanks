@@ -1,0 +1,82 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 10,
+            "text": "As intracellular parasites , viruses require a host cell",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "in order to replicate . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "However , they face a series of cellular responses against infection . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "One of these responses is the activation of the double - stranded RNA ( dsRNA)-activated protein kinase R ( PKR ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "PKR phosphorylates the \u03b1 subunit of eukaryotic translation initiation factor 2 ( eIF2\u03b1 ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "which in turn results in global protein synthesis inhibition and formation of stress granules ( SGs ) . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 7,
+            "parent": 8,
+            "text": "Recent studies have shown",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "that SGs can interfere with the replicative cycle of certain viruses . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 10,
+            "text": "This review addresses",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 10,
+            "parent": 0,
+            "text": "how viruses have evolved different control strategies at the SG level",
+            "relation": "ROOT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "to ensure an efficient replication cycle during the cellular stress response",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "triggered by the viral infection . <S> <P>",
+            "relation": "CAUSE-RESULT"
+        }
+    ]
+}

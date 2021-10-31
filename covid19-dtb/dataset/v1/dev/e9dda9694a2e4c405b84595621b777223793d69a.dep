@@ -1,0 +1,82 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Functional protein microarrays are emerging as a promising new tool for large - scale and highthroughput studies . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 0,
+            "text": "In this article , we will review their applications in basic proteomics research ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "where various types of assays have been developed",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to probe binding activities to other biomolecules ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "such as proteins , DNA , RNA , small molecules , and glycans . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 2,
+            "text": "We will also report recent progress",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "of using functional protein microarrays",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "in profiling protein posttranslational modifications ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "including phosphorylation , ubiquitylation , acetylation , and nitrosylation . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 6,
+            "text": "Finally , we will discuss potential of functional protein microarrays in biomarker identification and clinical diagnostics . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 12,
+            "text": "We strongly believe",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 12,
+            "parent": 2,
+            "text": "that functional protein microarrays will soon become an indispensible and invaluable tool in proteomics research and systems biology . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 6,
+            "text": "Porcine epidemic diarrhea virus ( PEDV ) ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "which emerged in the United States in 2013 ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "has spread throughout North America . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "Limited availability of PEDV complete genomes worldwide has impeded our understanding of PEDV introduction into the United States . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 6,
+            "text": "To determine the relationship between the North American strains and global emerging and historic PEDV strains ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 6,
+            "parent": 0,
+            "text": "we sequenced and analyzed complete genomes of 74 strains from North America ;",
+            "relation": "ROOT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "the strains clustered into 2 distinct clades . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 8,
+            "parent": 9,
+            "text": "Compared with the initially reported virulent US PEDV strains ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 9,
+            "parent": 6,
+            "text": "7",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "( 9.7 % )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "strains from 4 states contained insertions and deletions in the spike gene ( S INDELs ) . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 12,
+            "parent": 9,
+            "text": "These S INDEL strains share 99.8%-100 % nt identity with each other and 96.2%-96.7 % nt identity with the initial US strains . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "Furthermore , the S IN - DEL strains form a distinct cluster within North American clade II , sharing 98.6%-100 % nt identity overall . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 6,
+            "text": "In the United States , the S INDEL and original PEDV strains are cocirculating",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "and could have been introduced simultaneously . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

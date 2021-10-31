@@ -1,0 +1,58 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "This study explores the divergence pattern of SARS - CoV-2",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "using whole genome sequences of the isolates from various COVID-19 affected countries . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "The phylogenomic analysis indicates the presence of at least four distinct groups of the SARS - CoV-2 genomes . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "The emergent groups have been found to be associated with signature structural changes in specific proteins . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "Also , this study reveals the differential levels of divergence patterns for the protein coding regions . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "Moreover , we have predicted the impact of structural changes on a couple of important viral proteins via structural modelling techniques . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "This study further advocates for more viral genetic studies with associated clinical outcomes and hosts ' response for better understanding of SARS - CoV-2 pathogenesis",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "enabling better mitigation of this pandemic situation . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

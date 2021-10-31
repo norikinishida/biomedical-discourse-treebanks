@@ -1,0 +1,100 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 3,
+            "text": "Mucosal vaccination is an effective strategy",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "for generating antigen - specific immune responses against mucosal infections of foot - and - mouth disease virus ( FMDV ) . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "In this study , Lactobacillus plantarum strains NC8 and WCFS1 were used as oral delivery vehicles",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "containing a pSIP411-VP1 recombinant plasmid",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "to initiate mucosal and systemic immune responses in guinea pigs . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 6,
+            "parent": 3,
+            "text": "Guinea pigs were orally vaccinated",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "( three doses )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "with NC8-pSIP411 , NC8-pSIP411-VP1 , WCFS1-pSIP411 , WCFS1-pSIP411-VP1 or milk . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 9,
+            "parent": 3,
+            "text": "Animals",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "immunized with NC8-pSIP411-VP1 and WCFS1-pSIP411-VP1",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "developed high levels of antigen - specific serum IgG , IgA , IgM , mucosal secretory IgA ( sIgA ) and neutralizing antibodies ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "and revealed stronger cell - mediated immune responses",
+            "relation": "JOINT"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "and enhanced protection against FMDV challenge",
+            "relation": "JOINT"
+        },
+        {
+            "id": 14,
+            "parent": 11,
+            "text": "compared with control groups . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 15,
+            "parent": 9,
+            "text": "The recombinant pSIP411-VP1 effectively improved immunoprotection against FMDV in guinea pigs . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

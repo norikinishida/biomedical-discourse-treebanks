@@ -1,0 +1,88 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 3,
+            "text": "Porcine epidemic diarrhea virus ( PEDV ) is a burdensome pathogen in the swine industry . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "Wild boar population poses a high risk for reservoir of viral pathogen . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "Two hundred eighty seven samples from wild boar ( Sus scrofa )",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "collected in South Korea during 2010/11",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "were analyzed",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "using RT - PCR ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "revealing a PEDV infection rate of 9.75 % ( 28/287 ) . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 8,
+            "parent": 3,
+            "text": "PEDV positive samples were distributed throughout the mainland of South Korea ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "clustering at the northern border adjacent to the Demilitarized Zone ( DMZ ) and in mountainous regions . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "PEDV in wild boar was genetically similar to Chinese PEDV strains in phylogenetic investigations . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 12,
+            "text": "Our results indicated",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 12,
+            "parent": 3,
+            "text": "that PEDV is circulating in the wild boar",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "and provided a novel knowledge into epidemiology of PEDV infection . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

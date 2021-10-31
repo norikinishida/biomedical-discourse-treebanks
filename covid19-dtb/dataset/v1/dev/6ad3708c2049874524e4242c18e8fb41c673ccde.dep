@@ -1,0 +1,64 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 6,
+            "text": "Interferons ( IFNs ) are secreted proteins of the cytokine family",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "that regulate innate and adaptive immune responses to infection . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 4,
+            "text": "Although the importance of IFNs in the antiviral response has long been appreciated ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "their role in bacterial infections is more complex",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "and is currently a major focus of investigation . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 6,
+            "parent": 0,
+            "text": "This review summarizes our current knowledge of the role of these cytokines in host defense against the bacterial pathogen Listeria monocytogenes",
+            "relation": "ROOT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "and highlights recent discoveries on the molecular mechanisms",
+            "relation": "JOINT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "evolved by this intracellular bacterium",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "to subvert IFN responses . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

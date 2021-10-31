@@ -1,0 +1,82 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "This paper presents the dataset of a survey on workplace health and safety training , employees ' risk perceptions , behavioral safety compliance , and perceived job insecurity in Vietnam during COVID-19 pandemic . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "The data were collected through an online questionnaire",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "completed by Vietnamese full - time employees between April and June 2020 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 5,
+            "text": "Using E - mail , LinkedIn , and Facebook ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 5,
+            "parent": 2,
+            "text": "the online questionnaire was sent to respondents",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "who filled it out voluntarily . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "A twowave survey was conducted",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "in order to lessen the common method bias . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 9,
+            "parent": 2,
+            "text": "Totally , we received complete matched data for 732 full - time employees . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "All data were processed through SPSS 22.0 , AMOS 23.0 and Smart PLS 3.0 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 1,
+            "text": "Besides descriptive statistics , the results of the explanatory factor analysis and the confirmation factor analysis were included in this paper ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "which may serve as a good reference for future studies . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

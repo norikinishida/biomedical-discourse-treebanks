@@ -1,0 +1,226 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Background <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 2,
+            "parent": 10,
+            "text": "Surgical site infections ( SSI ) are the commonest healthcare associated infections . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "They severely compromise patient safety ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "are a significant burden on healthcare resources",
+            "relation": "JOINT"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "and have an adverse impact on patient quality of life . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 6,
+            "parent": 3,
+            "text": "The incidence of SSIs can be as high as 10 % after colorectal procedures . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "The laparoscopic approach is being increasingly used",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "to undertake colorectal procedures . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "It provides advantages over the traditional open approach with smaller incisions , shorter hospital stay and equal oncological outcomes . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 0,
+            "text": "The aim of this meta - analysis was to evaluate whether the laparoscopic approach for colorectal procedures reduces the incidence of SSI",
+            "relation": "ROOT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "compared to the open approach . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 12,
+            "parent": 13,
+            "text": "Methods <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 13,
+            "parent": 10,
+            "text": "Randomised controlled trials ( RCTs )",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "comparing the two approaches",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "published since 2000",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 13,
+            "text": "were included in the review . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 17,
+            "parent": 13,
+            "text": "Revman 5.3 software was used",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "to carry out the review . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 19,
+            "parent": 17,
+            "text": "Data were pooled",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "and the results were shown as risk ratios with 95 % confidence intervals",
+            "relation": "JOINT"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "using the fixed effects model . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 22,
+            "parent": 23,
+            "text": "Results <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 23,
+            "parent": 13,
+            "text": "Sixteen RCT 's were included in the analysis",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "comprising 5797 patients . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 25,
+            "parent": 23,
+            "text": "These covered a range of colorectal pathologies",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 26,
+            "parent": 25,
+            "text": "including colon cancer , rectal cancer , inflammatory bowel disease and familial adenomatous polyposis syndrome . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 27,
+            "parent": 10,
+            "text": "Analysis showed significantly lower wound infection rates",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 28,
+            "parent": 27,
+            "text": "( RR : 0.72 , 95 % confidence interval : 0.60 - 0.88 , p = 0.001 )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 29,
+            "parent": 27,
+            "text": "and lower abdominal abscess rates",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 30,
+            "parent": 29,
+            "text": "( RR : 0.88 , 95 % CI 0.62 - 1.27 , p = 0.51 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 31,
+            "parent": 27,
+            "text": "The combined SSI rate was significantly lower in laparoscopic",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 32,
+            "parent": 31,
+            "text": "compared to open surgery",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 33,
+            "parent": 32,
+            "text": "( RR : 0.76 , 95 % CI 0.64 - 0.90 , p = 0.001 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 34,
+            "parent": 35,
+            "text": "Conclusions <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 35,
+            "parent": 10,
+            "text": "Laparoscopic colorectal surgery significantly lowers the incidence of SSI",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 36,
+            "parent": 35,
+            "text": "compared to open surgery . <S> <P>",
+            "relation": "COMPARISON"
+        }
+    ]
+}

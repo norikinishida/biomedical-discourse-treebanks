@@ -1,0 +1,130 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "In this study , we explore the usage of e - scooter sharing services in Austin , Texas over about a sixmonth period . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "The study is based on trip records of all the shared e - scooter operators in Austin",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "and includes trip start and end locations . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "We use both analysis of trip patterns and spatial regression techniques",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "to examine how the built environment , land use , and demographics affect escooter trip generation . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 6,
+            "parent": 7,
+            "text": "Our findings show",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 7,
+            "parent": 1,
+            "text": "that people use e - scooters almost exclusively in central Austin . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "Commuting does not seem to be the main trip purpose ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "and usage of e - scooters is associated with areas with high employment rates , and in areas with bicycle infrastructure . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "People use e - scooter sharing",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "regardless of the affluence of the neighborhood ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "although less affluent areas with high usage rates have large student populations ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 13,
+            "parent": 14,
+            "text": "suggesting",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "that students use this mode of travel . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 15,
+            "parent": 16,
+            "text": "Implications for planners suggest",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 16,
+            "parent": 0,
+            "text": "that better bicycle infrastructure will facilitate e - scooter usage ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "college towns are a ready market for e - scooter sharing services ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 18,
+            "parent": 16,
+            "text": "and e - scooters may be a substitute for some short non - work trips ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "reducing car usage ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "and benefiting the environment . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

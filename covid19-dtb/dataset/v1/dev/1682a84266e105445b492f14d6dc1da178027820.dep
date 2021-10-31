@@ -1,0 +1,70 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "The 2020 COVID-19 crisis can spur research on firms ' corporate finance decisions and their macroeconomic implications ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "similar to the wave of important research on banking and household finance",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "triggered by the 2008 financial crisis . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "What are the relevant corporate finance mechanisms in this crisis ? <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "Modeling dynamics and timing considerations are likely important ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "as is integrating corporate financing considerations into modern quantifiable macroeconomics models . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "Recent empirical work ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "including articles in this special issue ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "on the drag from debt in the COVID-19 crisis provides a first glimpse into the new research agenda . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 10,
+            "parent": 1,
+            "text": "( JEL E22 , E44 , G32 , G33 ) <S> <P>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        }
+    ]
+}

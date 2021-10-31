@@ -1,0 +1,100 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 7,
+            "text": "For infectious - disease outbreaks , clinical solutions typically focus on efficient pathogen destruction . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "However , the COVID-19 pandemic provides a reminder",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "that infectious diseases are complex , multisystem conditions ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "and a holistic understanding will be necessary",
+            "relation": "JOINT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "to maximize survival . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 6,
+            "parent": 2,
+            "text": "For COVID-19 and all other infectious diseases , metabolic processes are intimately connected to the mechanisms of disease pathogenesis and the resulting pathology and pathophysiology , as well as the host defence response to the infection . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "Here , I examine the relationship between metabolism and COVID-19 . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "I discuss why preexisting metabolic abnormalities ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "such as type 2 diabetes and hypertension ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "may be important risk factors for severe and critical cases of infection ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "highlighting parallels between the pathophysiology of these metabolic abnormalities and the disease course of COVID-19 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 8,
+            "text": "I also discuss how metabolism at the cellular , tissue and organ levels might be harnessed",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "to promote defence against the infection ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "with a focus on disease - tolerance mechanisms ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 15,
+            "parent": 12,
+            "text": "and speculate on the long - term metabolic consequences for survivors of COVID-19 . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 7,
+            "text": "The COVID-19 epidemic has resulted in many hospitals and practices to cancel in - person outpatient clinic visits ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "where head and neck patients receive their critical longitudinal care . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "Out of necessity , most practices have been encouraged to use telemedicine as a method",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to maintain a continuum of care with their patients . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "As a result , the prevalence of telemedicine has grown rapidly during this pandemic ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "without allowing the physicians and patients to be adequately educated on how best to utilize the services . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "There is a steep learning curve as we have learned ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "and our goal is to provide guidelines for both patients and physicians , as well as a valuable patient handout in preparation for their visit . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

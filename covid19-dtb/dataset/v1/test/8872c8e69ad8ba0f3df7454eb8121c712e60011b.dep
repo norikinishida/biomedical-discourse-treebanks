@@ -1,0 +1,142 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "A central nervous system ( CNS ) disorder",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "characterized by non - suppurative encephalomyelitis with neurological signs",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "was induced experimentally in gnotobiotic pigs by intravenous and oral or intranasal inoculation of the porcine teschovirus ( PTV ) Toyama 2002 strain",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "isolated from breeding pigs in Japan . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "Lesions",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "consisting of perivascular cuffing of mononuclear cells , focal gliosis , neuronal necrosis and neuronophagia",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "were observed in the brainstem , cerebellum and spinal cord . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 8,
+            "parent": 5,
+            "text": "Non - suppurative ganglionitis in the spinal ganglion and neuritis in the spinal root were also observed . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 10,
+            "text": "Regardless of the route of inoculation ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 10,
+            "parent": 5,
+            "text": "all pigs",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "infected experimentally with PTV",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "showed a similar distribution of CNS lesions . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 13,
+            "parent": 10,
+            "text": "Histological lesions in the CNS",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "caused by oral or intranasal inoculation of the virus",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "were mild",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "compared with those",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "induced by intravenous infection . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 13,
+            "text": "Immunohistochemically , the distribution of PTV antigens corresponded closely with the distribution of brain lesions . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "PTV particles were detected via electron microscopy in the cytoplasm of nerve cells and the endothelial cells of blood vessels in the spinal cord of inoculated pigs . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "Polymerase chain reaction analysis demonstrated the presence of PTV RNA in the CNS , tonsils and large intestines of 21 of the 22 pigs inoculated . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "Direct CNS invasion via the blood vessels appears to be a major route of infection for PTV . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 1,
+            "text": "The gnotobiotic pig provides a useful model for further study of PTV pathogenesis . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

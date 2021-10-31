@@ -1,0 +1,124 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 3,
+            "text": "Use of pecan shell fiber in human food is presently limited ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "but could increase pending demonstration of safety . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "In a 91-day rat study , pecan shell fiber was administered at dietary concentrations of 0 ( control ) , 50 000 , 100 000 or 150 000 ppm . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "There was no effect of the ingredient on body weight of males or females or food consumption of females . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "Statistically significant increases in food consumption were observed throughout the study in 100 000 and 150 000 ppm males ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "resulting in intermittent decreases in food efficiency",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "( 150 000 ppm males only )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "that were not biologically relevant . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 4,
+            "text": "All animals survived",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "and no adverse clinical signs or functional changes were attributable to the test material . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "There were no toxicologically relevant changes in hematology , clinical chemistry or urinalysis parameters or organ weights in rats",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "ingesting pecan shell fiber . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "Any macroscopic or microscopic findings were incidental , of normal variation and/or of minimal magnitude for test substance association . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "Pecan shell fiber was non - mutagenic in a bacterial reverse mutation test and non - clastogenic in a mouse peripheral blood micronucleus test . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 16,
+            "text": "Based on these results ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 3,
+            "text": "pecan shell fiber has an oral subchronic",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "( 13-week )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 16,
+            "text": "no observable adverse effect level ( NOAEL ) of 150 000 ppm in rats",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 19,
+            "parent": 16,
+            "text": "and is not genotoxic at the doses analyzed . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

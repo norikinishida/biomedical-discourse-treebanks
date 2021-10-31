@@ -1,0 +1,82 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 8,
+            "text": "Mesenchymal stem cells ( MSCs ) have been extensively investigated for the treatment of various diseases . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "The therapeutic potential of MSCs is attributed to complex cellular and molecular mechanisms of action",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "including differentiation into multiple cell lineages and regulation of immune responses via immunomodulation . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "The plasticity of MSCs in immunomodulation allow these cells to exert different immune effects",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "depending on different diseases . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 1,
+            "text": "Understanding the biology of MSCs and their role in treatment is critical",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "to determine their potential for various therapeutic applications and for the development of MSC - based regenerative medicine . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 8,
+            "parent": 0,
+            "text": "This review summarizes the recent progress of particular mechanisms",
+            "relation": "ROOT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "underlying the tissue regenerative properties and immunomodulatory effects of MSCs . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "We focused on discussing the functional roles of paracrine activities , direct cell - cell contact , mitochondrial transfer , and extracellular vesicles",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "related to MSC - mediated effects on immune cell responses , cell survival , and regeneration . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 8,
+            "text": "This will provide an overview of the current research on the rapid development of MSC - based therapies . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

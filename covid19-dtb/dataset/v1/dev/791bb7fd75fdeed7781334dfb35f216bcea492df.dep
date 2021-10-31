@@ -1,0 +1,40 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 5,
+            "text": "The carbamate group is a key structural motif in many approved drugs and prodrugs . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "There is an increasing use of carbamates in medicinal chemistry",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "and many derivatives are specifically designed",
+            "relation": "JOINT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to make drug\u2212target interactions through their carbamate moiety . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 0,
+            "text": "In this Perspective , we present properties and stabilities of carbamates , reagents and chemical methodologies for the synthesis of carbamates , and recent applications of carbamates in drug design and medicinal chemistry . <S> <P>",
+            "relation": "ROOT"
+        }
+    ]
+}

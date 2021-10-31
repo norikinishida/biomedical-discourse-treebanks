@@ -1,0 +1,142 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Introduction : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 2,
+            "parent": 9,
+            "text": "Myocarditis is rarely reported as an extra - pulmonary manifestation of influenza",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "while pregnancy is a rare cause of cardiomyopathy . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "Pregnancy was identified as a major risk factor for increased mortality and morbidity",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "due to H 1 N 1 influenza in the pandemic of 2009 to 2010 . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "However , to the best of our knowledge there are no previous reports in the literature",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "linking H 1 N 1 with myocarditis in pregnancy . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 9,
+            "text": "Case presentation : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 9,
+            "parent": 0,
+            "text": "We report the cases of two pregnant Caucasian women",
+            "relation": "ROOT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "( aged 29 and 30 ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "with no preexisting illness ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 12,
+            "parent": 9,
+            "text": "presenting with respiratory manifestations of H 1 N 1 influenza virus infection in their third trimester . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 9,
+            "text": "Both women developed evidence of myocarditis . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "One woman developed acute respiratory distress syndrome ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "almost reaching the point of requiring extra - corporeal membrane oxygenation ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "and subsequently developed persistent cardiomyopathy ; <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 14,
+            "text": "the other recovered without any long - term consequence . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 18,
+            "parent": 20,
+            "text": "Conclusions : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 19,
+            "parent": 20,
+            "text": "While it is not possible to ascertain retrospectively if myocarditis was caused by either infection with H 1 N 1 virus or as a result of pregnancy ( in the absence of endomyocardial biopsies ) ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 20,
+            "parent": 9,
+            "text": "the significant association with myocardial involvement in both women demonstrates the increased risk of exposure to H 1 N 1 influenza virus in pregnant women . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "This highlights the need for health care providers to increase awareness amongst caregivers",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "to target this ' at risk ' group aggressively with vaccination and prompt treatment . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

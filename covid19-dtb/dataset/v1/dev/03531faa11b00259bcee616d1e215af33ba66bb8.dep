@@ -1,0 +1,52 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "The analysis of 26 longevity curves of different populations of inbred ( Fischer 344 ) and outbred ( Sprague - Dawley ) rats highlighted a remarkable betweenpopulations variability in survival parameters . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "This variability is independent of the breeding characteristics of the strain . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "The two strains differed in the slope of the survival curves , with Fischer 344 rats",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "showing a higher survival over the second year of life as well as a lower interindividual variability . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "A model - free approach",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "based on principal component analysis",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "allowed us to quantify these differences and to highlight some limitations of the classical Gompertzian approach . <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

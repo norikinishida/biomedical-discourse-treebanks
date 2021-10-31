@@ -1,0 +1,70 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "This review summarizes the current knowledge on the physiological action of endogenous and exogenous pulmonary surfactant , the role of different types of animal - derived and synthetic surfactants for RDS therapy , different modes of administration , potential risks and strategies of ventilation ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "and highlights the most promising aims for future development . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "Scientists have clarified the physicochemical properties and functions of the different components of surfactant ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "and part of this successful research is derived from the characterization of genetic diseases",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "affecting surfactant composition or function . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 3,
+            "text": "Knowledge from functional tests of surfactant action , its immunochemistry , kinetics and homeostasis are important",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "also for improving therapy with animal - derived surfactant preparations and for the development of modified surfactants . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "In the past decade newly designed artificial surfactants and additives have gained much attention",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "and have proven different advantages ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "but their particular role still has to be defined . <S> <P>",
+            "relation": "COMPARISON"
+        }
+    ]
+}

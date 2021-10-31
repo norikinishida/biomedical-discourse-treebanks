@@ -1,0 +1,148 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 12,
+            "text": "The epidemic threshold of the susceptible - infected - recovered model is a boundary separating parameters",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "that permit epidemics from those",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "that do not . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "This threshold corresponds to parameters",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "where the system 's equilibrium becomes unstable . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "Consequently , we use the average rate",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "at which deviations from the equilibrium shrink",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "to define a distance to this threshold . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 9,
+            "parent": 6,
+            "text": "However , the vital dynamics of the host population may occur slowly",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "even when transmission is far from threshold levels . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 11,
+            "parent": 12,
+            "text": "Here , we show analytically",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 12,
+            "parent": 0,
+            "text": "how such slow dynamics can prevent estimation of the distance to the threshold from fluctuations in the susceptible population . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 13,
+            "parent": 15,
+            "text": "Although these results are exact only in the limit of long - term observation of a large system ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 14,
+            "parent": 15,
+            "text": "simulations show",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 15,
+            "parent": 12,
+            "text": "that they still provide useful insight into systems with a range of population sizes , environmental noise and observation schemes . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 16,
+            "parent": 19,
+            "text": "Having established some guidelines",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "about when estimates are accurate ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 19,
+            "text": "we then illustrate",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 19,
+            "parent": 12,
+            "text": "how multiple distance estimates can be used",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "to estimate the rate of approach to the threshold . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 21,
+            "parent": 12,
+            "text": "The estimation approach is general",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "and may be applicable to zoonotic pathogens",
+            "relation": "JOINT"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "such as Middle East respiratory syndrome - related coronavirus ( MERS - CoV ) as well as vaccine - preventable diseases like measles . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

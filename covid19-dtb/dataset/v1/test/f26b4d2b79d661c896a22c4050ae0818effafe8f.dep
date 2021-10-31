@@ -1,0 +1,76 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 9,
+            "text": "Porcine reproductive and respiratory syndrome virus ( PRRSV ) is an economically important swine pathogen . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "Since its discovery in the early 1990s , tremendous progresses have been made in understanding the molecular biology and pathogenesis of PRRSV . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 4,
+            "text": "Although modified live - attenuated vaccines ( MLVs ) and inactivated vaccines against PRRSV have been available for more than a decade ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "the disease remains difficult to control . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "The efficacies of these vaccines especially against heterologous strains remain questionable : <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "the MLVs were generally effective against homologous strains but variable in success against heterologous strains ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "and the outcomes of inactivated vaccines in the field are not very promising . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 8,
+            "parent": 5,
+            "text": "With the development of PRRSV reverse genetics systems and the acquisition of new understanding on anti - PRRSV immunity , rational design of the next generation of PRRSV vaccines can now be explored . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 9,
+            "parent": 0,
+            "text": "In this review , we discussed the recent advances in anti - PRRSV immunity and vaccinology , the recent progresses in PRRSV vaccine development particularly the reverse genetics system - based vaccine development ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "and provided a perspective on potential novel strategies and approaches",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "that may be applicable to the development of the next generation of PRRSV vaccines . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

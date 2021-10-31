@@ -1,0 +1,64 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "The HIV-1 frameshift - stimulating ( FSS ) RNA , a regulatory RNA of critical importance in the virus ' life cycle , has been posited as a novel target for anti - HIV drug development . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 0,
+            "text": "We report the synthesis and evaluation of triazole - containing compounds",
+            "relation": "ROOT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "able to bind the FSS with high affinity and selectivity . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "Readily accessible synthetically , these compounds are less toxic than previously reported olefin congeners . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 6,
+            "text": "We show for the first time",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 6,
+            "parent": 2,
+            "text": "that FSS - targeting compounds have antiviral activity against replication - competent HIV in human cells ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "including a highly cytopathic , multidrug - resistant strain . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "These results support the viability of the HIV-1 FSS RNA as a therapeutic target",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "and more generally highlight opportunities for synthetic molecule - mediated interference with protein recoding in a wide range of organisms . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

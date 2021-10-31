@@ -1,0 +1,112 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 9,
+            "text": "The uncertainties of healthcare payment and delivery reform on income and care process have created a sense of foreboding , concern , and fear",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "that a career in medicine is not what it used to be",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "and that a career in infectious diseases in particular may no longer be viable . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "Fears have been raised",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "that the need for infectious diseases consultation and management will be curtailed",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "because we provide cognitive services",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "that are not perceived as being needed in a health system",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "filled with intensivists , hospitalists , and skilled nursing facility physicians . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 0,
+            "text": "Now is the time for us to reframe our role in the health system",
+            "relation": "ROOT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "that is evolving to a process of care",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "focused on population health and patient safety",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "that pays providers for value",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "they bring",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "to achieve those goals . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 15,
+            "parent": 9,
+            "text": "Specific suggestions are made",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "to enhance the infectious diseases physician 's profile with the intent",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "of encouraging debate , discussion , and action . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

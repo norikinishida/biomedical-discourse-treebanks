@@ -1,0 +1,178 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Background : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 2,
+            "parent": 6,
+            "text": "Human immunodeficiency virus type 1 ( HIV-1 ) has infected more than 40 million people worldwide , mainly in sub - Saharan Africa . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "The high prevalence of HIV-1 subtype C in southern Africa necessitates the development of cheap , effective vaccines . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "One means of production is the use of plants ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "for which a number of different techniques have been successfully developed . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 0,
+            "text": "HIV-1 Pr55Gag is a promising HIV-1 vaccine candidate : <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "we compared the expression of this and a truncated Gag ( p17 / p24 ) and the p24 capsid subunit in Nicotiana spp .",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "using transgenic plants and transient expression via Agrobacterium tumefaciens and recombinant tobamovirus vectors . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "We also investigated the influence of subcellular localisation of recombinant protein to the chloroplast and the endoplasmic reticulum ( ER ) on protein yield . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 7,
+            "text": "We partially purified a selected vaccine candidate",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "and tested its stimulation of a humoral and cellular immune response in mice . <S> <P>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 6,
+            "text": "Both transient and transgenic expression of the HIV antigens were successful ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "although expression of Pr55Gag was low in all systems ; <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "however , the Agrobacterium - mediated transient expression of p24 and p17 / p24 yielded best , to more than 1 mg p24 / kg fresh weight . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "Chloroplast targeted protein levels were highest in transient and transgenic expression of p24 and p17 / p24 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "The transiently - expressed p17 / p24 was not immunogenic in mice as a homologous vaccine ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "but it significantly boosted a humoral and T cell immune response",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "primed by a gag DNA vaccine , pTHGagC. <S> <P>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 20,
+            "text": "Conclusion : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 20,
+            "parent": 6,
+            "text": "Transient agroinfiltration was best for expression of all of the recombinant proteins tested ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "and p24 and p17 / p24 were expressed at much higher levels than Pr55Gag . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 22,
+            "parent": 20,
+            "text": "Our results highlight the usefulness of plastid signal peptides",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "in enhancing the production of recombinant proteins",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "meant for use as vaccines . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 25,
+            "parent": 22,
+            "text": "The p17 / p24 protein effectively boosted T cell and humoral responses in mice",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 26,
+            "parent": 25,
+            "text": "primed by the DNA vaccine pTHGagC ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 27,
+            "parent": 28,
+            "text": "showing",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 28,
+            "parent": 25,
+            "text": "that this plant - produced protein has potential for use as a vaccine . <S> <P>",
+            "relation": "CAUSE-RESULT"
+        }
+    ]
+}

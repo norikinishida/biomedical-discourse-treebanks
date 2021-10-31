@@ -1,0 +1,88 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "The optimization problem of fishing for a stochastic logistic model is studied in this paper . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "Besides a standard geometric Brownian motion , another two driving processes are taken into account :",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "a stationary Poisson point process and a continuous - time finite - state Markov chain . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "The classical harvesting problem for this model is a big difficult puzzle",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "since the corresponding Fokker - Planck equations with three types of noise are very difficult to solve . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 6,
+            "parent": 1,
+            "text": "Our main goal of this paper is to work out the optimization problem with respect to stationary probability density . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "One of the main contributions is to provide a new equivalent approach",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "to overcome this problem . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "More precisely , an ergodic method is used",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "to show the almost surely equivalency between the time averaging yield and sustainable yield . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 11,
+            "parent": 12,
+            "text": "Results show",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 12,
+            "parent": 1,
+            "text": "that the optimal strategy changes with environment . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "An interesting thing is that the optimal strategy for each state is equivalent to the global optimality . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

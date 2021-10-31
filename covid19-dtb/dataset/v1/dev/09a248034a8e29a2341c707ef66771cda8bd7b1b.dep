@@ -1,0 +1,154 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "In this paper the authors question whether the development of a vaccine against cryptosporidiosis could be taken into consideration . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "The necessity and feasibility of such a vaccine for human and veterinary application is discussed . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "Developmental stages within the life cycle of the parasite",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "that might act as possible targets for vaccine development",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "are summarised , as well as the target antigens",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "oered by molecular biology and immunology studies . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 3,
+            "text": "Vaccination trials against cryptosporidiosis",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "carried out so far ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "including the active and passive immunisation approach ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 7,
+            "text": "are also overviewed . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 11,
+            "parent": 1,
+            "text": "It seems that with respect to a Cryptosporidium vaccine two target groups can be considered :",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "children of the developing world and neonatal ruminants . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "Antigens",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "representing possible candidates for a subunit vaccine",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "were identi \u00ae e",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "based on their function , location and/or the immune response",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "they evoke . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 19,
+            "text": "While the active vaccination of newborn calves , lambs and goat kids has to face a number of important limitations ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 19,
+            "parent": 13,
+            "text": "the passive immunisation approach ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "where dams were immunised",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "to protect their progeny by colostral transfer ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 22,
+            "parent": 19,
+            "text": "was proven to be a valuable alternative . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 23,
+            "parent": 19,
+            "text": "Finally , a number of points of action for the near future are put forward . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "# <S> <P>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        }
+    ]
+}

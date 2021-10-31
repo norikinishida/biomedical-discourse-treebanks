@@ -1,0 +1,46 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 5,
+            "text": "The novel coronavirus disease-2019 ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "caused by severe acute respiratory syndrome coronavirus-2 ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "has spread worldwide from China . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "There are no case reports from Asia of COVID-19 with facial paralysis and olfactory disturbance . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 0,
+            "text": "We herein report a case of COVID-19 pneumonia in a Japanese woman",
+            "relation": "ROOT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "who showed facial nerve palsy and olfactory disturbance . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

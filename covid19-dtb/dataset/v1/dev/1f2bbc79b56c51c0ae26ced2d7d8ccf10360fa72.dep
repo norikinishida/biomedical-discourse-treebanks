@@ -1,0 +1,148 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 7,
+            "text": "Ribonuclease L ( RNase L ) is a metal - ion - independent endoribonuclease",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "associated with antiviral and antibacterial defense , cancer and lifespan . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 4,
+            "text": "Despite the biological significance of RNase L ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "the RNAs",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "cleaved by this enzyme",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "are poorly defined . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "In this study , we used deep sequencing methods",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "to reveal the frequency and location of RNase L cleavage sites within host and viral RNAs . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 9,
+            "parent": 10,
+            "text": "To make cDNA libraries ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 10,
+            "parent": 7,
+            "text": "we exploited the 2 0 , 3 0 -cyclic phosphate at the end of RNA fragments",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "produced by RNase L and other metal - ion - independent endoribonucleases . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "We optimized and validated 2 0 , 3 0 -cyclic phosphate cDNA synthesis and Illumina sequencing methods",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "using viral RNAs",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "cleaved with purified RNase L ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "viral RNAs",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "cleaved with purified RNase A",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 15,
+            "text": "and RNA from uninfected and poliovirus - infected HeLa cells . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 18,
+            "parent": 19,
+            "text": "Using these methods ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 19,
+            "parent": 7,
+            "text": "we identified ( i ) discrete regions of hepatitis C virus and poliovirus RNA genomes",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "that were profoundly susceptible to RNase L and other single - strand specific endoribonucleases ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 19,
+            "text": "( ii ) RNase L - dependent and RNase L - independent cleavage sites within ribosomal RNAs ( rRNAs ) and ( iii ) 2 0 , 3 0 -cyclic phosphates at the ends of 5S rRNA and U6 snRNA . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 22,
+            "parent": 23,
+            "text": "Monitoring the frequency and location of metal - ion - independent endoribonuclease cleavage sites within host and viral RNAs reveals ,",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 23,
+            "parent": 7,
+            "text": "in part , how these enzymes contribute to health and disease . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

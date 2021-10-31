@@ -1,0 +1,142 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Background : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 2,
+            "parent": 0,
+            "text": "In this study we evaluated the RespoCheck Mycoplasma triplex real - time PCR for the detection in bronchoalveolar lavage fluid ( BALF ) of Mycoplasma ( M. ) dispar , M. bovis and M. bovirhinis ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "all three associated with bovine respiratory disease ( BRD ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "Primers and probes of the RespoCheck Mycoplasma triplex real - time PCR are based on the V3 / V4 region of the 16S rRNA gene of the three Mycoplasma species . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 6,
+            "text": "Results : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 6,
+            "parent": 2,
+            "text": "The analytical sensitivity of the RespoCheck triplex real - time PCR was ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "as determined by spiking experiments of the Mycoplasma strains in Phosphate Buffered Saline ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "300 colony forming units ( cfu)/mL for M. dispar , and 30 cfu / mL for M. bovis or M. bovirhinis . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 9,
+            "parent": 6,
+            "text": "The analytical sensitivity of the RespoCheck Mycoplasma triplex real - time PCR was ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "as determined on purified DNA ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "10 fg DNA per assay for M. dispar and 100 fg fo rM. bovis and M. bovirhinis . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 12,
+            "parent": 6,
+            "text": "The analytical specificity of the RespoCheck Mycoplasma triplex real - time PCR was ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "as determined by testing Mycoplasmas strains",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "( n = 17 )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "and other bacterial strains",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "( n = 107 ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 12,
+            "text": "100 , 98.2 and 99.1 % for M. bovis , M. dispar and M. bovirhinis respectively . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 18,
+            "parent": 6,
+            "text": "The RespoCheck Mycoplasma triplex real - time PCR was compared with the PCR / DGGE analysis for M. bovis , M. dispar and M. bovirhinis respectively",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "by testing 44 BALF samples from calves . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 20,
+            "parent": 21,
+            "text": "Conclusion : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 21,
+            "parent": 2,
+            "text": "In conclusion , the RespoCheck PCR assay can be a valuable tool for timely and accurate detection of three Mycoplasma species",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "associated with in bovine respiratory disease . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 4,
+            "text": "Activation of the thrombotic and complement systems is the main recognition and effector mechanisms in the multiple adverse biological responses",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "triggered",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "when biomaterials or therapeutic cells come into blood contact . <S>",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 4,
+            "parent": 0,
+            "text": "We have created a surface",
+            "relation": "ROOT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "which is auto - protective to human innate immunity",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "by combining three fundamentally different strategies ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "all developed by us previously ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "which have been shown to induce substantial , but incomplete hemocompatibility",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "when used separately . <S>",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 10,
+            "parent": 4,
+            "text": "In summary , we have conjugated a factor Hebinding peptide ; and an ADP - degrading enzyme ;",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "using a PEG linker on both material and cellular surfaces . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 12,
+            "parent": 13,
+            "text": "When exposed to human whole blood ,",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 13,
+            "parent": 10,
+            "text": "factor H was specifically recruited to the modified surfaces",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "and inhibited complement attack . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "In addition , activation of platelets and coagulation was efficiently attenuated ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "by degrading ADP . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 17,
+            "parent": 10,
+            "text": "Thus ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 20,
+            "text": "by inhibiting thromboinflammation",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "using a multicomponent approach ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 20,
+            "parent": 17,
+            "text": "we have created a hybrid surface with the potential",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "to greatly reduce incompatibility reactions",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "involving biomaterials and transplantation . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

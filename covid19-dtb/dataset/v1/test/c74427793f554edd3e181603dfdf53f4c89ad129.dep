@@ -1,0 +1,130 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 15,
+            "text": "The treatment of surgical patients",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "who are confirmed or suspected of coronavirus disease 2019 ( COVID-19 )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "is a challenge for all anesthesiologists . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "The safety of both patients and healthcare workers should be taken into consideration",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "when performing anesthesia management for patients with COVID-19 . <S>",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "General anesthesia",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "requiring airway intervention",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "may exacerbate COVID-19 pneumonia ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "and aerosol generation during airway intervention risks COVID-19 transmission to medical staff . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 10,
+            "parent": 6,
+            "text": "However , regional anesthesia is not an aerosol - generating procedure . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "The neuraxial anesthesia may have little adverse influence on clinical outcomes in patients with COVID-19",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "after reviewing previous case reports . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "Regional anesthesia may have some advantages over general anesthesia for this group of patients ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "but unplanned conversion to general anesthesia during surgery is not preferred . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 15,
+            "parent": 0,
+            "text": "Thus , careful consideration should be given",
+            "relation": "ROOT"
+        },
+        {
+            "id": 16,
+            "parent": 17,
+            "text": "to ensure",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 17,
+            "parent": 15,
+            "text": "that the surgery is performed entirely under regional anesthesia . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 18,
+            "parent": 15,
+            "text": "The use of ultrasound guidance and the performance by an experienced physician may reduce the incidence of failed block and complications . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "The use of long - acting local anesthetic prolongs the anesthetic effect of regional anesthesia . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "Besides , a safe and sufficient dose of local anesthetic should be used . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "This review highlights the clinical scoring tools",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "used for the management of acute pharyngotonsillitis in primary care clinics . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "It will include the prevalence of group A pharyngotonsillitis among children and adults worldwide and the selective tests",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "employed",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "for diagnosing group A streptococcal pharyngotonsillitis . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 6,
+            "parent": 1,
+            "text": "Pharyngotonsillitis is one of the common reasons for visits to primary care clinics worldwide ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "and physicians tend to prescribe antibiotics according to the clinical symptoms ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "which leads to overprescribing antibiotics . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 9,
+            "parent": 6,
+            "text": "This in turn may lead to serious health impacts and severe reactions",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "and may promote antibiotic resistance . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "These significantly add on to the health care costs . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 12,
+            "parent": 6,
+            "text": "The available information from health organisations and previous studies has indicated the need",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "to manage the diagnosis of pharyngotonsillitis",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "to improve prescribing habits in primary care clinics . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

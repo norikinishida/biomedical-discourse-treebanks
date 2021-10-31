@@ -1,0 +1,22 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "In the paper , by virtue of the binomial inversion formula , a general formula of higher order derivatives for a ratio of two differentiable function , and other techniques , the authors compute several sums in terms of the beta function and its partial derivatives , polygamma functions , the Gauss hypergeometric function , and a determinant . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "These results generalize known ones in combinatorics . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

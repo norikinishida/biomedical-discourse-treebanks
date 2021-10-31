@@ -1,0 +1,94 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 3,
+            "text": "RNA interference ( RNAi ) is a process",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "in which double - stranded RNA induces the post - transcriptional sequence - specific degradation of homologous messenger RNA . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "The present study was carried out",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to apply the RNAi technology",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "to inhibit the replication of feline immunodeficiency virus ( FIV ) . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 6,
+            "parent": 3,
+            "text": "Four small interfering RNAs ( siRNAs ) homologous to the FIV gag gene were synthesized",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "and transfected into a feline fibroblastic cell line",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "chronically infected with FIV ( CRFK / FIV ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 6,
+            "text": "These synthetic siRNAs efficiently inhibited the replication of FIV . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 10,
+            "parent": 6,
+            "text": "Next , we examined the effect of retroviral vector - mediated transfer of FIVspecific short hairpin RNA ( shRNA ) on the replication of FIV in a feline T - cell line",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "chronically infected with FIV ( FL4 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "The retroviral vector - mediated transfer of FIV - specific shRNA was shown to markedly inhibit the replication of FIV in the FL4 cells . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 13,
+            "parent": 3,
+            "text": "These results provide useful information for the development of RNAi - based gene therapy strategy",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "to control FIV infection . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

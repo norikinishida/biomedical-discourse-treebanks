@@ -1,0 +1,196 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Background : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 2,
+            "parent": 10,
+            "text": "EU Decision 1082/2013 / EU on serious cross - border health threats provides a legal basis for collaboration between EU Member States , and between international and European level institutions on preparedness , prevention , and mitigation in the event of a public health emergency . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "The Decision provides a context for the present study ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "which aims to identify good practices and lessons",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "learned in preparedness and response to Middle East Respiratory Syndrome ( MERS ) ( in UK , Greece , and Spain ) and poliomyelitis ( in Poland and Cyprus ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 10,
+            "text": "Methods : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 7,
+            "parent": 10,
+            "text": "Based on a documentary review ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "followed by five week - long country visits",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "involving a total of 61 interviews and group discussions with experts from both the health and non - health sectors ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 0,
+            "text": "this qualitative case study has investigated six issues",
+            "relation": "ROOT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "related to preparedness and response to MERS and poliomyelitis :",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "national plans and overall preparedness capacity ; training and exercises ; risk communication ; linking policy and implementation ; interoperability between the health and non - health sectors ; and cross - border collaboration . <S> <P>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 14,
+            "text": "Results : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 14,
+            "parent": 10,
+            "text": "Preparedness and response plans for MERS and poliomyelitis were in place in the participating countries ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "with a high level of technical expertise available to implement them . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "Nevertheless , formal evaluation of the responses to previous public health emergencies have sometimes been limited ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "so lessons learned may not be reflected in updated plans ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "thereby risking mistakes",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "being repeated in future . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 14,
+            "text": "The nature and extent of intersectoral collaboration varied according to the sectors involved , with those sectors",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "that have traditionally had good collaboration",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "( e.g. animal health and food safety ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 20,
+            "text": "as well as those",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "that have a financial incentive for controlling infectious diseases",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 25,
+            "parent": 24,
+            "text": "( e.g. agriculture , tourism , and air travel )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 26,
+            "parent": 24,
+            "text": "seen as most likely to have integrated public health preparedness and response plans . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 27,
+            "parent": 28,
+            "text": "Although the formal protocols for inter - sectoral collaboration were not always up to date ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 28,
+            "parent": 20,
+            "text": "good personal relations were reported within the relevant professional networks ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 29,
+            "parent": 28,
+            "text": "which could be brought into play in the event of a public health emergency . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 30,
+            "parent": 20,
+            "text": "Cross - border collaboration was greatly facilitated",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 31,
+            "parent": 30,
+            "text": "if the neighbouring country was a fellow EU Member State . <S> <P>",
+            "relation": "CONDITION"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "In a preliminary clinical study , we observed",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 2,
+            "parent": 0,
+            "text": "that the combination of hydroxychloroquine and azithromycin was effective against SARS - CoV-2",
+            "relation": "ROOT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "by shortening the duration of viral load in Covid-19 patients . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "It is of paramount importance to define when a treated patient can be considered as no longer contagious . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 6,
+            "text": "Correlation between successful isolation of virus in cell culture and Ct value of quantitative RT - PCR targeting E gene suggests",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 6,
+            "parent": 2,
+            "text": "that patients with Ct above 33 - 34",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "using our RT - PCR system",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "are not contagious",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "and thus can be discharged from hospital care or strict confinement for non - hospitalized patients . <S> <P>",
+            "relation": "CAUSE-RESULT"
+        }
+    ]
+}

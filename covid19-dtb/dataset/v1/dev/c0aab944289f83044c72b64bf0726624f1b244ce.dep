@@ -1,0 +1,154 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 6,
+            "text": "Recently developed vaccines provide a new way",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "of controlling rotavirus in sub - Saharan Africa . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "Models for the transmission dynamics of rotavirus are critical",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "both for estimating current burden from imperfect surveillance",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "and for assessing potential effects of vaccine intervention strategies . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 6,
+            "parent": 0,
+            "text": "We examine rotavirus infection in the Maradi area in southern Niger",
+            "relation": "ROOT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "using hospital surveillance data",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "provided by Epicentre",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "collected over two years . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 6,
+            "text": "Additionally , a cluster survey of households in the region allows us to estimate the proportion of children with diarrhea",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "who consulted at a health structure . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "Model fit and future projections are necessarily particular to a given model ; <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 14,
+            "text": "thus , where there are competing models for the underlying epidemiology",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "an ensemble approach can account for that uncertainty . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 12,
+            "text": "We compare our results across several variants of Susceptible - Infectious - Recovered ( SIR ) compartmental models",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "to quantify the impact of modeling assumptions on our estimates . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 17,
+            "parent": 15,
+            "text": "Model - specific parameters are estimated by Bayesian inference",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "using Markov chain Monte Carlo . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 19,
+            "parent": 17,
+            "text": "We then use Bayesian model averaging",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "to generate ensemble estimates of the current dynamics ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "including estimates of R 0 , the burden of infection in the region , as well as the impact of vaccination on both the short - term dynamics and the long - term reduction of rotavirus incidence under varying levels of coverage . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 23,
+            "text": "The ensemble of models predicts",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 23,
+            "parent": 6,
+            "text": "that the current burden of severe rotavirus disease is 2.6 - 3.7 % of the population each year",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "and that a 2-dose vaccine schedule achieving 70 % coverage could reduce burden by 39 - 42 % . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

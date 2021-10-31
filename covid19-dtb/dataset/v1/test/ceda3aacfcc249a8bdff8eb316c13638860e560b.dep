@@ -1,0 +1,70 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "I use the COVID-19 death rate in South Korea and a method",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "relating the ratio of death rates in a U.S. state to its share of cumulative positive tests",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "to estimate the total cases of COVID-19 in the U.S.",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "and to estimate the extent of infection and the unidentified share of the infected population in each of the lower-48 states and in New York City in mid - April , 2020 . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "I identify a logarithmic relationship between the cumulative death rate in a state and its cumulative positive share of tests . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 6,
+            "parent": 7,
+            "text": "Using this relationship ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 7,
+            "parent": 8,
+            "text": "I find",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 8,
+            "parent": 5,
+            "text": "that 4.3 - 5.4 million people , 1.4 - 1.7 % of the U.S. population , were infected , with rates of infection",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "that ranged from 0.1 % in more rural states to 8 - 10 % in New York state and 11 - 13 % in New York City . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "Only 16 - 20 % of these infected individuals were identified later through testing . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

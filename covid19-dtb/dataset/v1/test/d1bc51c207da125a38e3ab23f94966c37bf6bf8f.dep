@@ -1,0 +1,76 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "This paper employs syndemics theory",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "to explain high rates of sexually transmitted disease among inner city African American and Puerto Rican heterosexual young adults in Hartford , CT , USA . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "Syndemic theory helps to elucidate the tendency for multiple co - terminus and interacting epidemics",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to develop under conditions of health and social disparity . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 6,
+            "text": "Based on enhanced focus group and in - depth interview data ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 6,
+            "parent": 7,
+            "text": "the paper argues",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 7,
+            "parent": 1,
+            "text": "that respondents employed a cultural logic of risk assessment",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "which put them at high risk for STD infection . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "This cultural logic was shaped by their experiences",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "of growing up in the inner city",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "which included : coming of age in an impoverished family , living in a broken home , experiencing domestic violence , limited expectations of the future , limited exposure to positive role models , lack of expectation of the dependency of others , and fear of intimacy . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "Current research is an attempt",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "to understand the CoVID-19 pandemic curve through statistical approach of probability density function with associated skewness and kurtosis measures , change point detection and polynomial fitting",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "to estimate infected population along with 30 days projection . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "The pandemic curve has been explored for above average affected countries , six regions and global scale during 64 days of 22nd January to 24th March , 2020 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "The global cases infection as well as recovery rate curves remained in the ranged of 0 -9.89 and 0 -8.89 % , respectively . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "The confirmed cases probability density curve is high positive skewed and leptokurtic with mean global infected daily population of 6620 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "The recovered cases showed bimodal positive skewed curve of leptokurtic type with daily recovery of 1708 . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 8,
+            "parent": 5,
+            "text": "The change point detection helped to understand the CoVID-19 curve in term of sudden change in term of mean or mean with variance . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 10,
+            "text": "This pointed out",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "disease curve is consist of three phases and last segment",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "that varies in term of day lengths . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "The mean with variance based change detection is better in differentiating phases and associated segment length",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "as compared to mean . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 14,
+            "parent": 1,
+            "text": "Global infected population might rise in the range of 0.750 to 4.680 million by 24 th April 2020 ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "depending upon the pandemic curve progress beyond 24th March , 2020 . <S>",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "Expected most affected countries will be USA , and UK with at least infected population of over 0.100 million . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "Infected population polynomial projection errors remained in the range of -78.8 to 49.0 % . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

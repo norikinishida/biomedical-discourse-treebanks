@@ -1,0 +1,118 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "In the present studies , we report the cloning and structural characterization of the HFGL2 gene and its functional role in human fulminant hepatitis . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "The HFGL2 gene is approximately 7 kb in length with 2 exons . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "The putative promoter contains cis element consensus sequences",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "that strongly suggest the inducibility of its expression . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "From the nucleotide sequence of the human gene , a 439-amino acid long protein is predicted . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "The overall identity between the murine fgl2 and hfgl2 coded proteins is over 70 % . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "About 225 amino acids at the carboxyl end of these molecules are almost 90 % identical ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "and correspond to a well - conserved fibrinogen - related domain . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "Both HFGL2 and FGL2 encode a type II transmembrane protein with a predicted catalytic domain toward the amino terminus of the protein . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 6,
+            "text": "Transient transfection of Chinese hamster ovary ( CHO ) cells with a fulllength cDNA of HFGL2 coding region resulted in high levels of prothrombinase activity . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 5,
+            "text": "Livers from 8 patients",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "transplanted for fulminant viral hepatitis",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "were examined for extent of necrosis , inflammation , fibrin deposition , and HFGL2 induction . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "In situ hybridization showed positive staining of macrophages in areas of active hepatocellular necrosis . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "Fibrin stained positively in these areas",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "and was confirmed by electron microscopy . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 17,
+            "parent": 1,
+            "text": "These studies define a unique prothrombinase gene ( HFGL2 )",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "and implicate its importance in the pathogenesis of fulminant viral hepatitis . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

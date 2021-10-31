@@ -1,0 +1,226 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Background : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 2,
+            "parent": 5,
+            "text": "Viral respiratory infection ( VRI ) is a common contraindication to elective surgery . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "Asymptomatic shedding among pediatric surgery patients ( PSPs ) could potentially lead to progression of symptomatic diseases",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "and cause outbreaks of respiratory diseases . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 5,
+            "parent": 0,
+            "text": "The aim of this study is to investigate the incidence of infection among mild symptomatic PSP group and asymptomatic PSP group after surgical procedure . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 6,
+            "parent": 7,
+            "text": "Methods : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "We collected the induced sputum from enrolled 1629 children",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "( under 18 years of age )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "with no respiratory symptom prior to pediatric surgery between March 2017 and February 2019 . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 10,
+            "parent": 7,
+            "text": "We tested 16 different respiratory virus infections in post - surgery mild symptomatic PSP group and asymptomatic PSP group",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "using a quantitative real - time reverse transcriptase polymerase chain reaction ( qRT - PCR ) assay panel . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "We analyzed symptom data and quantitative viral load",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "to investigate the association between viruses , symptoms and viral quantity in qRT - PCR - positive PSPs . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 14,
+            "parent": 15,
+            "text": "Results : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 15,
+            "parent": 5,
+            "text": "Out of 1629 children enrolled , a total of 204 respiratory viruses were present in 171",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "( 10.50 % )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 15,
+            "text": "PSPs",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "including 47 patients with mild symptoms and 124 with no symptoms after surgery . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 15,
+            "text": "Commonly detected viruses were human rhino / enterovirus",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "( HRV / EV , 42.19 % ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 19,
+            "text": "parainfluenza virus 3",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "( PIV3 , 24.48 % ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 21,
+            "text": "coronavirus",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "( CoV NL63 , OC43 , HKU1 , 11.46 % ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 25,
+            "parent": 23,
+            "text": "and respiratory syncytial virus",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 26,
+            "parent": 25,
+            "text": "( RSV , 9.9 % ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 27,
+            "parent": 19,
+            "text": "PIV3 infection with a higher viral load was frequently found in PSPs",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 28,
+            "parent": 27,
+            "text": "presenting with mild symptoms ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 29,
+            "parent": 27,
+            "text": "progressing to pneumonia with radiographic evidence after surgery . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 30,
+            "parent": 27,
+            "text": "HRV / EV were the most commonly detected pathogens in both asymptomatic and mild symptomatic PSPs . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 31,
+            "parent": 27,
+            "text": "CoV ( OC43 , HKU1 ) infections with a higher viral load were mostly observed in asymptomatic PSPs progressing to alveolar or interstitial infiltration . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 32,
+            "parent": 34,
+            "text": "Conclusions : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 33,
+            "parent": 34,
+            "text": "Our study suggested",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 34,
+            "parent": 5,
+            "text": "that PIV3 is a new risk factor for VRI in PSPs . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 35,
+            "parent": 34,
+            "text": "Employing a more comprehensive , sensitive and quantitative method should be considered for preoperative testing of respiratory viruses",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 36,
+            "parent": 35,
+            "text": "in order to guide optimal surgical timing . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

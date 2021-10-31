@@ -1,0 +1,124 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 16,
+            "text": "Human coronavirus HKU1 ( HCoV - HKU1 ) ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "which mainly causes acute selflimited respiratory - tract infections ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "belongs to group A of the Betacoronavirus genus . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "Coronavirus genomes encode 16 nonstructural proteins ( nsp1 - 16 ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "which assemble into a large replication - transcription complex mediating virus propagation . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "Nonstructural protein 9 ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "which binds to the single - stranded DNA / RNA ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "has been shown to be indispensible for viral replication . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 9,
+            "parent": 6,
+            "text": "Interestingly , a functional mutant",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "( N60 K )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "of nsp9 was identified to compensate for a 6 nt insertion mutation of the 3 0 -untranslated region ( UTR ) ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "which is critical for viral RNA synthesis . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 9,
+            "text": "It has been proposed that the N60 K mutation may cause certain conformational changes of nsp9",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "to rescue the defective insertion mutant . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 15,
+            "parent": 16,
+            "text": "To further investigate the underlying structural mechanism ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 16,
+            "parent": 0,
+            "text": "the N60 K mutant of nsp9 from HCoV - HKU1 was successfully crystallized in this study . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "The crystals diffracted to 2.6 \u00c5 resolution",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "and belonged to space group P2 1 2 1 2 1 , with unit - cell parameters a = 31.9 , b = 85.0 , c = 95.0 \u00c5 . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 19,
+            "parent": 17,
+            "text": "Two molecules were identified per asymmetric unit . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

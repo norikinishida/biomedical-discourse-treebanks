@@ -1,0 +1,76 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "Acquired myasthenia gravis was diagnosed in a five - year - old domestic shorthair , neutered , female cat with generalised muscle weakness , tremors , dysphagia and alterations in voice . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "Radiographs indicated the presence of a mass in the anterior thorax . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "A response to edrophonium chloride , and raised levels of anti - acetylcholine receptor antibodies in the serum , confirmed the diagnosis",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "and indicated an immune - mediated aetiology . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "Clinical remission occurred",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "following thymectomy and the use of immunosuppressive corticosteroids . <S>",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 7,
+            "parent": 1,
+            "text": "This is the first fully - documented case of acquired feline myasthenia gravis",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "associated with the presence of a thymic abnormality",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "in the United Kingdom . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 7,
+            "text": "The clinical features , laboratory findings and response to treatment are compared with those",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "reported previously in cats and other species . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

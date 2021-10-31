@@ -1,0 +1,70 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 8,
+            "text": "Coronaviruses are positive stranded RNA viruses",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "that cause respiratory , enteric and central nervous system diseases in many species ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "including humans . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "Until recently , the relatively low burden of disease in humans",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "caused by few of these viruses",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "impeded the development of coronavirus specific therapeutics . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 7,
+            "parent": 4,
+            "text": "However , the emergence of severe acute respiratory syndrome coronavirus ( SARS - CoV ) , and more recently , Middle East respiratory syndrome coronavirus ( MERS - CoV ) , has impelled the development of such drugs . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 8,
+            "parent": 0,
+            "text": "This review focuses on some newly identified SARS - CoV inhibitors , with known mechanisms of action and their potential",
+            "relation": "ROOT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "to inhibit the novel MERS - CoV. <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "The clinical development of optimized versions of such compounds could be beneficial for the treatment and control of SARS - CoV , the current MERS - CoV and other future SARS - like epidemics . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 7,
+            "text": "A convex polyhedron is the convex hull of a finite set of points in R 3 . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "A triangulation of a convex polyhedron is a decomposition into a finite number of 3-simplices",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "such that any two intersect in a common face",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "or are disjoint . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 5,
+            "parent": 2,
+            "text": "A simplicial dissection is a decomposition into a finite number of 3-simplices",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "such that no two share an interior point . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "We present an algorithm",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "to classify the simplicial dissections of a regular polyhedron under the symmetry group of the prolyhedron . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

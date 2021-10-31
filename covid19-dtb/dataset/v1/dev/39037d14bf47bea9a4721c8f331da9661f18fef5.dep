@@ -1,0 +1,154 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "In this work we construct a mathematical model for the transmission and spread of coronavirus disease 2019 or COVID-19 . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "Our model features delay terms",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "to account for ( a ) the time lapse or latency period between contracting the disease and displaying symptoms , and ( b ) the time lag",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "in testing patients for the virus",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "due to the limited numbers of testing facilities currently available . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 6,
+            "parent": 7,
+            "text": "We find",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 7,
+            "parent": 1,
+            "text": "that the delay introduces a significant disparity between the actual and reported time - trajectories of cases in a particular region . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "Specifically , the reported case histories lag the actual histories by a few days . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "Hence ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 10,
+            "parent": 11,
+            "text": "to minimize the spread of the disease ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "lockdowns and similarly drastic social isolation measures need to be imposed",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "some time before the reported figures are approaching their peak values . <S>",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 13,
+            "parent": 1,
+            "text": "We then account for the social reality",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "that lockdowns can only be of a limited duration in view of practical considerations . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 16,
+            "text": "We find",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 16,
+            "parent": 13,
+            "text": "that the most effective interval",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "for imposing such a limited - time lockdown",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 18,
+            "parent": 16,
+            "text": "is one",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "where the midpoint of the lockdown period coincides with the actual peak of the spread of the disease in the absence of the lockdown . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 21,
+            "text": "We further show",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 21,
+            "parent": 16,
+            "text": "that the true effectivity",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "of imposing a lockdown",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 21,
+            "text": "may be misrepresented and grossly underestimated by the reported case trajectories in the days",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "following the action . <S> <P>",
+            "relation": "TEMPORAL"
+        }
+    ]
+}

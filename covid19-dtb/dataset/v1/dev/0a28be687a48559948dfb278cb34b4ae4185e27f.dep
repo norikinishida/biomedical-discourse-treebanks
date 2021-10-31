@@ -1,0 +1,70 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "The purpose of this form is to provide readers of your manuscript with information about your other interests",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "that could influence how they receive and understand your work . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "The form is designed",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to be completed electronically",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "and stored electronically . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 6,
+            "parent": 3,
+            "text": "It contains programming",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "that allows appropriate data display . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "Each author should submit a separate form",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "and is responsible for the accuracy and completeness of the submitted information . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "The form is in six parts . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

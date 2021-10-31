@@ -1,0 +1,106 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 13,
+            "text": "The development of synthetic peptide - based vaccines has many advantages",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "in comparison with vaccines",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "based on live attenuated organisms , inactivated or killed organism , or toxins . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "Peptide - based vaccines can not revert to a virulent form ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "allow a better conservation ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "and are produced more easily and safely . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 7,
+            "parent": 1,
+            "text": "However , they generate a weaker immune response than other vaccines ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "and the inclusion of adjuvants and/or the use of vaccine delivery systems is almost always needed . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "Among vaccine delivery systems , micro - and nanoparticulated ones are attractive ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "because their particulate nature can increase cross - presentation of the peptide . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "In addition , they can be passively or actively targeted to antigen presenting cells . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "Furthermore , particulate adjuvants are able to directly activate innate immune system in vivo . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 0,
+            "text": "Here , we summarize micro - and nanoparticulated vaccine delivery systems",
+            "relation": "ROOT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "used in the field of synthetic peptide - based vaccines",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "as well as strategies",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "to increase their immunogenicity . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

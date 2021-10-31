@@ -1,0 +1,202 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 20,
+            "text": "Increasing a ceiling fan 's speed from its lowest setting of 61 rpm ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "which resulted in 0.77 m 3 /s of airflow ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "to its highest setting of 176 rpm ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "which resulted in 2.5 m 3 /s of airflow ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "or having the fan blow either upward or downward had no statistically significant effect on the efficacy of upper - room ultraviolet germicidal irradiation ( UVGI ) . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 6,
+            "parent": 7,
+            "text": "This outcome suggests",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 7,
+            "parent": 1,
+            "text": "that air circulation",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "due to the ceiling fan",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "was sufficient",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 10,
+            "parent": 7,
+            "text": "and that any additional increase would not improve efficacy . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 11,
+            "parent": 1,
+            "text": "Numerous experimental studies on upper - room UVGI",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "in which fans were used",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "to provide air mixing",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 14,
+            "parent": 11,
+            "text": "have been published . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 15,
+            "parent": 11,
+            "text": "However , none have quantified the air movement",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "produced by these fans",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 15,
+            "text": "or described their tests in sufficient detail",
+            "relation": "JOINT"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "to allow results to be compared to predictions",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "using computational fluid dynamics ( CFD ) . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 20,
+            "parent": 0,
+            "text": "The present work provides the required information . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "In addition to the usual boundary conditions",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "needed for CFD ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 23,
+            "parent": 21,
+            "text": "we made experimental measurements of UV susceptibility of the microorganisms",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "used in the upper - room UVGI tests . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 25,
+            "parent": 20,
+            "text": "We measured UV susceptibilities for Mycobacterium parafortuitum and Bacillus atrophaeus spores to be 0.074 and 0.018 m 2 /J , respectively . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 26,
+            "parent": 29,
+            "text": "In a previous publication , we reported the spatial distribution of fluence rate ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 27,
+            "parent": 26,
+            "text": "which is also needed",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 28,
+            "parent": 27,
+            "text": "for predicting efficacy from CFD . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 29,
+            "parent": 20,
+            "text": "In a companion paper",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 30,
+            "parent": 29,
+            "text": "referred to as Part II ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 31,
+            "parent": 29,
+            "text": "upper - room UVGI efficacy was predicted by both Eulerian and Lagrangian CFD",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 32,
+            "parent": 31,
+            "text": "and compared to the experimental results from the present study . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

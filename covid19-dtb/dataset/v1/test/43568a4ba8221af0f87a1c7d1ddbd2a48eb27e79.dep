@@ -1,0 +1,82 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "Objectives of this study were to determine prevalence of infection in feral cats in Northern Florida with a select group of infectious organisms and to determine risk factors for infection . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "Blood samples or sera from 553 cats were tested with a panel of antibody , antigen or PCR assays . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "Male cats were at higher risk for FIV , Mycoplasma haemofelis , and M. haemominutum . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "Infection with either FeLV or FIV was associated with increased risk for coinfection with the other retrovirus , M. haemofelis , or M. haemominutum . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "Bartonella henselae had the highest prevalence",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "and was the only organism",
+            "relation": "JOINT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "that did not have any associated risk for coinfection with other organisms . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 5,
+            "text": "Feral cats in this study had similar or lower prevalence rates of infections than those",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "published for pet cats in the United States . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "Thus , feral cats",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "assessed in this study",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "appear to be of no greater risk to human beings or other cats than pet cats . <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 5,
+            "text": "The Scutellaria species ( Lamiaceae ) is used as a source of flavonoids",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "to treat a variety of diseases in traditional medicine . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 3,
+            "parent": 4,
+            "text": "In spite of many reports about the cytotoxic and antitumor effects of some species of this genus ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "anticancer researches on one of the Iranian species S. litwinowii have not yet been conducted . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 0,
+            "text": "The cytotoxic properties of total methanol extract of S. litwinowii and its fractions were investigated on different cancer cell lines",
+            "relation": "ROOT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "including AGS , HeLa , MCF-7 , PC12 and NIH 3T3 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "Meanwhile , the role of apoptosis in this toxicity was explored . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 5,
+            "text": "The cells were cultured in DMEM medium",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "and incubated with different concentrations of herb plant extracts . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "Cell viability was quantitated by MTT assay . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "Apoptotic cells were determined",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "using propidium iodide staining of DNA fragmentation by flow cytometry ( sub - G1 peak ) . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 13,
+            "parent": 5,
+            "text": "Scutellaria litwinowii inhibited the growth of malignant cells in a dose - dependent manner . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "Among solvent fractions of S. litwinowii , the methylene chloride fraction was found to be more toxic",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "compared to other fractions . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "The IC 50 values of this fraction against AGS , HeLa , MCF-7 and PC12 cell lines after 24 h were determined , 121.2 \u00b1 3.1 , 40.9 \u00b1 2.5 , 115.9 \u00b1 3.5 and 64.5 \u00b1 3.4 \u03bcg / ml , respectively . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "Scutellaria litwinowii induced a sub - G1 peak in the flow cytometry histogram of treated cells",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "compared to control cells",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 19,
+            "parent": 20,
+            "text": "indicating",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 20,
+            "parent": 17,
+            "text": "that apoptotic cell death is involved in S. litwinowii toxicity . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 21,
+            "parent": 5,
+            "text": "Scutellaria litwinowii exerts cytotoxic and proapototic effects in a variety of malignant cell lines",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "and could be considered as a potential chemotherapeutic agent in cancer treatment . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

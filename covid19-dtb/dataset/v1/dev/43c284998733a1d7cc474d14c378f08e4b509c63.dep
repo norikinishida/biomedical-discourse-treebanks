@@ -1,0 +1,160 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 9,
+            "text": "The mosquito - borne chikungunya virus ( CHIKV ) causes chikungunya fever , with clinical presentations",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "such as severe back and small joint pain , and debilitating arthritis",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "associated with crippling pains",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "that persist for weeks and even years . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 7,
+            "text": "Although there are several studies",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "to evaluate the efficacy of drugs against CHIKV ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 7,
+            "parent": 1,
+            "text": "the treatment for chikungunya fever is mainly symptom - based",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "and no effective licensed vaccine or antiviral are available . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 9,
+            "parent": 0,
+            "text": "Here , we investigated the antiviral activity of three types of flavonoids against CHIKV in vitro replication . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "Three compounds :",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "silymarin , quercetin and kaempferol",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "were evaluated for their in vitro antiviral activities against CHIKV",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "using a CHIKV replicon cell line and clinical isolate of CHIKV of Central / East African genotype . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 14,
+            "parent": 10,
+            "text": "A cytopathic effect inhibition assay was used",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "to determine their activities on CHIKV viral replication",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "and quantitative reverse transcription PCR was used",
+            "relation": "JOINT"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "to calculate virus yield . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 18,
+            "parent": 10,
+            "text": "Antiviral activity of effective compound was further investigated by evaluation of CHIKV protein expression",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "using western blotting for CHIKV nsP1 , nsP3 , and E2E1 proteins . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 20,
+            "parent": 9,
+            "text": "Briefly , silymarin exhibited significant antiviral activity against CHIKV ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "reducing both CHIKV replication efficiency and down - regulating production of viral proteins",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "involved in replication . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 9,
+            "text": "This study may have important consequence",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "for broaden the chance",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 25,
+            "parent": 24,
+            "text": "of getting the effective antiviral for CHIKV infection . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

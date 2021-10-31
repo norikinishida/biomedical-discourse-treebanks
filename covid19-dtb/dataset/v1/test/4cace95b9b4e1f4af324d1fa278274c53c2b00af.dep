@@ -1,0 +1,94 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "We report the design and synthesis of a series of dipeptide - type inhibitors with novel P3 scaffolds",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "that display potent inhibitory activity against SARS - CoV 3CL pro . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "A docking study",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "involving binding between the dipeptidic lead compound 4 and 3CL pro",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "suggested the modification of a structurally flexible P3 N-(3methoxyphenyl)glycine with various rigid P3 moieties in 4 . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 6,
+            "parent": 3,
+            "text": "The modifications led to the identification of several potent derivatives ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "including 5cek and 5n with the inhibitory activities ( K i or IC 50 ) in the submicromolar to nanomolar range . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "Compound 5h , in particular , displayed the most potent inhibitory activity , with a K i value of 0.006 mM. <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "This potency was 65-fold higher than the potency of the lead compound 4 ( K i \u00bc 0.39 mM ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "In addition , the K i value of 5h was in very good agreement with the binding affinity ( 16 nM )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "observed in isothermal titration calorimetry ( ITC ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 3,
+            "text": "A SAR study around the P3 group in the lead 4 led to the identification of a rigid indole-2-carbonyl unit as one of the best P3 moieties ( 5c ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 14,
+            "text": "Further optimization showed",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "that a methoxy substitution at the 4-position on the indole unit was highly favorable for enhancing the inhibitory potency . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

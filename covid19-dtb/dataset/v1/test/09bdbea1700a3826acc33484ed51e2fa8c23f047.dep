@@ -1,0 +1,82 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 3,
+            "text": "Data - centric models of COVID-19 have been tried ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "but have certain limitations . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "In this work , we propose an agent - based model of the epidemic in a confined space of agents representing humans . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "An extension to the SEIR model allows us to consider the difference between the appearance ( black - box view ) of the spread of disease , and the real situation ( glass - box view ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "Our model allows for simulations of lockdowns , social distancing , personal hygiene , quarantine , and hospitalization , with further considerations of different parameters",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "such as the extent",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "to which hygiene and social distancing are observed in a population . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 3,
+            "text": "Our results give qualitative indications of the effects of various policies and parameters ;",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "for instance , that lockdowns by themselves are extremely unlikely to bring an end to an epidemic",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "and may indeed make things worse ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "that social distancing matters more than personal hygiene ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 12,
+            "parent": 9,
+            "text": "and that the growth of infection comes down significantly for moderately high levels of social distancing and hygiene , even in the absence of herd immunity . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

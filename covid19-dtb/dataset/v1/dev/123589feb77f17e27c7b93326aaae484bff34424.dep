@@ -1,0 +1,148 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "This study is aimed at defining the relationship between a set of environmental factors and childhood HFMD and then at estimating the related effect . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "The 16 environmental factors included meteorological , air pollution , and sunspot . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "A traditional TSR",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "modified",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "by using susceptible - infectious - recovery models and distribution lag nonlinear model",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 6,
+            "parent": 3,
+            "text": "was applied",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "to estimate the short - term effects of daily environmental factors on children HFMD occurrence in 2014 - 2018 with adjustment of potential confounding factors . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 8,
+            "parent": 3,
+            "text": "A total of 70,027 children aged 0 - 15 years with HFMD were enrolled . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 1,
+            "text": "No significant effect was observed for daily sunspot numbers and average visibility . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "We found positive effects of the ambient average temperature , with an approximately m - shaped curve of the overall cumulative relationship ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "peaking at 25.6 \u00b0 C with a relative risk ( RR ) of 1.45",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "( 95 % confidence intervals 1.21 - 1.73 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 10,
+            "text": "The largest RR value of hot effect was achieved on the current day",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "and then decreased by 2 days",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "( total group , male group , and scatter group )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "or 1 day",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "( female group and nursery group ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 16,
+            "text": "and the effect lasted about 6 to 8 days from the lag 4 or lag 6 day . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 13,
+            "text": "A greater association of temperature with HFMD for the female group and the scattered group was observed . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 21,
+            "text": "This study suggests",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 21,
+            "parent": 1,
+            "text": "that ambient average temperature might be a risk factor for children HFMD in Tianjin . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "Further studies are warranted",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "to confirm these findings . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

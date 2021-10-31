@@ -1,0 +1,100 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "As the ongoing COVID-19 pandemic posed a huge challenge to global public health ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 2,
+            "parent": 12,
+            "text": "emphasis on personal hygiene caused extraordinary daily use of detergents and household cleaning products . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 5,
+            "text": "Since antibacterial cleaning products have the capacity",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to change the environmental microbiome ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 2,
+            "text": "increased exposure to household disinfectants could be associated with alterations in human microbiota composition and function . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "Moreover , the emerging links between household cleaning products and occurrence of non - communicable diseases and antibiotic resistance may involve the gut microbiome . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "The mediating effects of disturbed gut microbiota on associations between home use of cleaning products and life - long health consequences have been documented in some observational studies . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 9,
+            "text": "Regarding the evidence associated reduction in exposure to non - pathogenic commensal bacteria and gut dysbiosis ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "further study is required",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "to assess the effect of massive use of cleaning products during COVID-19 pandemic on long - term host health",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "mediated by the altered microbiota . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 0,
+            "text": "In this context , recommendations",
+            "relation": "ROOT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "to consume probiotics and fermented foods",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "might reverse the consequences",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "by alleviating dysbiosis . <S> <P>",
+            "relation": "MANNER-MEANS"
+        }
+    ]
+}

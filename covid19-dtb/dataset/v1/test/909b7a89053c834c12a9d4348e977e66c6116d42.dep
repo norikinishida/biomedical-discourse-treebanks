@@ -1,0 +1,136 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 20,
+            "text": "Among coronaviruses , several members are able to interact with sialic acids . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "For bovine coronavirus ( BCoV ) and related viruses , binding to cell surface components",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "containing N -acetyl-9-O - acetylneuraminic acid",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "is essential for initiation of an infection . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 5,
+            "parent": 2,
+            "text": "These viruses resemble influenza C viruses",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "because they share not only the receptor determinant ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "but also the presence of an acetylesterase",
+            "relation": "JOINT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "that releases the 9-O - acetyl group from sialic acid",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "and thus abolishes the ability of the respective sialoglycoconjugate to function as a receptor for BCoV. <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "As in the case of influenza viruses , the receptor - destroying enzyme of BCoV is believed to facilitate the spread of virus infection",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "by removing receptor determinants from the surface of infected cells",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "and by preventing the formation of virus aggregates . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 13,
+            "parent": 2,
+            "text": "Another coronavirus , porcine transmissible gastroenteritis virus ( TGEV ) preferentially recognizes N -glycolylneuraminic acid . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "TGEV does not contain a receptor - destroying enzyme",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "and does not depend on the sialic acid binding activity for infection of cultured cells . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "However , binding to sialic acids is required for the enteropathogenicity of TGEV . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "Interaction with sialoglycoconjugates may help the virus to pass through the sialic acid - rich mucus layer",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "that covers the viral target cells in the epithelium of the small intestine . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 20,
+            "text": "We discuss",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 20,
+            "parent": 0,
+            "text": "that the BCoV group of viruses may have evolved from a TGEV - like ancestor",
+            "relation": "ROOT"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "by acquiring an acetylesterase gene through heterologous recombination . <S> <P>",
+            "relation": "MANNER-MEANS"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 3,
+            "text": "The computational search of chemical libraries has been used as a powerful tool for the rapid discovery of candidate compounds . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 3,
+            "text": "To find small molecules with anti - feline infectious peritonitis virus ( FIPV ) properties ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "we utilized a virtual screening technique",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to identify the active site on the viral protease for the binding of the available natural compounds . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "The protease 3CL ( 3CL pro ) plays an important role in the replication cycle of FIPV and other viruses within the family Coronaviridae . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "The 15 best - ranked candidate consensus compounds ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "based on three docking tools ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "were evaluated for further assays . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 9,
+            "parent": 6,
+            "text": "The protease inhibitor assay on recombinant FIPV 3CL pro was performed",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "to screen the inhibitory effect of the candidate compounds with IC 50",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "ranging from 6.36 \u00b1 2.15 to 78.40 \u00b1 2.60 \u03bcM. <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 13,
+            "text": "As determined by the cell - based assay ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 13,
+            "parent": 3,
+            "text": "the compounds NSC345647 , NSC87511 , and NSC343256 showed better EC 50 values than the broad - spectrum antiviral drug ribavirin and the protease inhibitor lopinavir , under all the test conditions",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "including pre - viral entry , post - viral entry , and prophylactic activity . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "The NSC87511 particularly yielded the best selective index",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "( > 4 ; range of SI = 13.80 - 22.90 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 18,
+            "text": "These results indicated",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 18,
+            "parent": 13,
+            "text": "that the natural small - molecular compounds specifically targeted the 3CL pro of FIPV",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "and inhibited its replication . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 18,
+            "text": "Structural modification of these compounds may generate a higher anti - viral potency for the further development of a novel therapy against FIP . <S> <P>",
+            "relation": "CAUSE-RESULT"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 6,
+            "text": "The control of infectious diseases",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "such as swine influenza viruses ( SwIV )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "plays an important role in food production both from the animal health and from the public health point of view . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "Probiotic microorganisms and other health improving food supplements have been given increasing attention in recent years ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "but , no information on the effects of probiotics on swine influenza virus is available . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 6,
+            "parent": 0,
+            "text": "Here we address this question",
+            "relation": "ROOT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "by assessing the inhibitory potential of the probiotic Enterococcus faecium NCIMB 10415 ( E. faecium ) on the replication of two porcine strains of influenza virus",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "( H1N1 and H3N2 strain )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "in a continuous porcine macrophage cell line",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "( 3D4/21 )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "and in MDBK cells . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 12,
+            "parent": 6,
+            "text": "Cell cultures were treated with E. faecium at the nontoxic concentration of 1610 6 CFU / ml in growth medium for 60 to 90 min before , during and after SwIV infection . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "After further incubation of cultures in probiotic - free growth medium , cell viability and virus propagation were determined at 48 h or 96 h post infection . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 6,
+            "text": "The results",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "obtained",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "reveal an almost complete recovery of viability of SwIV infected cells and an inhibition of virus multiplication by up to four log units in the E. faecium treated cells . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 17,
+            "parent": 14,
+            "text": "In both 3D4/21-and MDBK - cells a 60 min treatment with E. faecium stimulated nitric oxide ( NO ) release",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "which is in line with published evidence for an antiviral function of NO . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 17,
+            "text": "Furthermore , E. faecium caused a modified cellular expression of selected mediators of defence in 3D4-cells : <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "while the expression of TNF - a , TLR-3 and IL-6 were decreased in the SwIV - infected and probiotic treated cells ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "IL-10 was found to be increased . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 23,
+            "text": "Since we obtained experimental evidence for the direct adsorptive trapping of SwIV through E. faecium ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 23,
+            "parent": 6,
+            "text": "this probiotic microorganism inhibits influenza viruses by at least two mechanisms , direct physical interaction and strengthening of innate defence at the cellular level . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 3,
+            "text": "There is limited evidence",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "as to how COVID-19 infection fatality rates ( IFR ) may vary by ethnicity . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "We combine demographic and health data for ethnic groupings in Aotearoa New Zealand with international data on IFR for different age groups",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to estimate inequities in IFR by ethnicity . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 6,
+            "text": "We find",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 6,
+            "parent": 3,
+            "text": "that ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 7,
+            "parent": 8,
+            "text": "if age is the dominant factor determining IFR ,",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "estimated IFR for M\u0101ori is around 50 % higher than non - M\u0101ori . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 9,
+            "parent": 10,
+            "text": "If underlying health conditions are more important than age per se ,",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 10,
+            "parent": 6,
+            "text": "then estimated IFR for M\u0101ori is more than 2.5 times that of New Zealand European ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "and estimated IFR for Pasifika is almost double that of New Zealand European . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "IFRs for M\u0101ori and Pasifika are likely to be increased above these estimates by racism within the healthcare system and other inequities",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "not reflected in official data . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "IFR does not account for differences among ethnicities in COVID-19 incidence ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "which could be higher in M\u0101ori and Pasifik",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "as a result of crowded housing and higher intergenerational contact rates . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 17,
+            "parent": 3,
+            "text": "These factors should be included in future disease incidence modelling . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "The communities at the highest risk will be those with elderly populations , and M\u0101ori and Pasifika communities ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "where the compounded effects of underlying health conditions , socioeconomic disadvantage , and structural racism result in imbricated risk",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "of contracting COVID-19 ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "becoming unwell , and death . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

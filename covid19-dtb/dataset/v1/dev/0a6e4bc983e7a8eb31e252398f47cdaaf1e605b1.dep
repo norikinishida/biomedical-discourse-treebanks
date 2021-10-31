@@ -1,0 +1,40 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 5,
+            "text": "Serine proteases of the trypsin - like family have long been recognized to be critical effectors of biological processes as diverse as digestion , blood coagulation , fibrinolysis , and immunity . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "In recent years , a subgroup of these enzymes has been identified that are anchored directly to plasma membranes , either by a carboxy - terminal transmembrane domain ( Type I ) , an amino - terminal transmembrane domain with a cytoplasmic extension ( Type II or TTSP ) , or through a glycosylphosphatidylinositol ( GPI ) linkage . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 4,
+            "text": "Recent biochemical , cellular , and in vivo analyses have now established",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "that membrane - anchored serine proteases are key pericellular contributors to processes vital for development and the maintenance of homeostasis . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 0,
+            "text": "This chapter will review our current knowledge of the biological and physiological functions of these proteases , their molecular substrates , and their contributions to disease . <S> <P>",
+            "relation": "ROOT"
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Background : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 2,
+            "parent": 4,
+            "text": "Acute viral necrosis virus ( AVNV ) is the causative agent of a serious disease",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "resulting in high mortality in cultured Chinese scallops , Chlamys farreri . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 4,
+            "parent": 0,
+            "text": "We have sequenced and analyzed the complete genome of AVNV . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 5,
+            "parent": 6,
+            "text": "Results : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "The AVNV genome is a linear , double - stranded DNA molecule of 210,993 bp with a nucleotide composition of 38.5 % G + C. <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "A total of 123 open reading frames were predicted",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "to encode functional proteins ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "ranging from 41 to 1,878 amino acid residues . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 6,
+            "text": "The DNA sequence of AVNV is 97 % identical to that of ostreid herpesvirus 1 ( OsHV-1 ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "and the amino acid sequences of the encoded proteins of these two viruses are 94 - 100 % identical . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "The genomic organization of AVNV is similar to that of OsHV-1 ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "and consists of two unique regions",
+            "relation": "JOINT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "( 170.4 kb and 3.4 kb , respectively ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "each flanked by two inverted repeats",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "( 7.6 kb and 10.2 kb , respectively ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 13,
+            "text": "with a third unique region",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "( 1.5 kb )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 17,
+            "text": "situated between the two internal repeats . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 22,
+            "text": "Conclusions : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 21,
+            "parent": 22,
+            "text": "Our results indicate",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 22,
+            "parent": 4,
+            "text": "that AVNV is a variant of OsHV-1 . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "The AVNV genome sequence provides information",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "useful for understanding the evolution and divergence of OsHV-1 in marine molluscs . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

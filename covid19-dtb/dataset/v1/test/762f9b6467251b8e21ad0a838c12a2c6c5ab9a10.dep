@@ -1,0 +1,112 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 9,
+            "text": "Avian infectious bronchitis virus ( IBV ) is a member of the group III coronaviruses ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "which differ from the other groups of coronaviruses",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "in that they do not encode the essential pathogenic factor nonstructural protein 1 ( nsp1 )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "and instead start with nsp2 . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "IBV nsp2 is one of the first replicase proteins",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "to be translated and processed in the viral life cycle ; <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "however , it has an entirely unknown function . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 8,
+            "parent": 9,
+            "text": "In order to better understand the structural details and functional mechanism of IBV nsp2 ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 9,
+            "parent": 0,
+            "text": "the recombinant protein was cloned ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "overexpressed in Escherichia coli ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "purified",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "and crystallized . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 9,
+            "text": "The crystals diffracted to 2.8 \u00c5 resolution",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "and belonged to space group P2 1 , with unit - cell parameters a = 57.0 , b = 192.3 , c = 105.7 \u00c5 , = 90.8 . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "Two molecules were found in the asymmetric unit ; <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "the Matthews coefficient was 3.9 \u00c5 3 Da \u00c01 ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "corresponding to a solvent content of 68.2 % . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

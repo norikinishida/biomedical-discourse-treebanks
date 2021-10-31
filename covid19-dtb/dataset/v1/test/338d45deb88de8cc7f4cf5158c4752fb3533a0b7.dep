@@ -1,0 +1,136 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 5,
+            "text": "A Resequencing Pathogen Microarray ( RPM ) is a single , highly multiplexed assay",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "for detecting and differentiating similarly related pathogens",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "by using closely overlapping probe sets",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to determine a target organism 's nucleotide sequence . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 0,
+            "text": "In this study , a new RPM ( RPM - IVDC1 )",
+            "relation": "ROOT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "that consisted of 224-bp detector tiles",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "corresponding to 9 influenza A subtypes , 11 rhinoviruses , 28 enteroviruses and 38 other respiratory viruses",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 5,
+            "text": "was developed and optimized",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "to provide individual and simultaneous detection sensitivities",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "ranging from 15 to 750 genomic copies for 16 common respiratory pathogens . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 5,
+            "text": "A total of 110 consecutive patients with community - acquired pneumonia ( CAP )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "admitted to 5 district general hospitals in Beijing during a 1-year period",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "were assessed using the new assay . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 14,
+            "parent": 5,
+            "text": "Among the children ( under age 5 ) and adult patients ( above age 18 ) , respiratory syncytial virus ( RSV ) and rhinovirus ( RV ) were the most common etiological agents , respectively ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "which is consistent with reference assays . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "Atypical pathogens",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "that may cause CAP - like illness ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "including rubella virus , measles virus , influenza type C virus , human herpesvirus ( HHV )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 16,
+            "text": "were also detected . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 20,
+            "parent": 5,
+            "text": "The results show the capability of RPM - IVDC1 for the accurate detection and identification of multiple virus types ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "which may be of significant use in epidemic surveillance and outbreak investigations of atypical pathogens . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

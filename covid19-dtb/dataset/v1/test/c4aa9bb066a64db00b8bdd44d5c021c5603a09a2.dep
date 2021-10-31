@@ -1,0 +1,250 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Background . <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 2,
+            "parent": 7,
+            "text": "Influenza A(H7N9 ) viruses",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "isolated from humans",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "show features",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "suggesting partial adaptation to mammals . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 6,
+            "parent": 7,
+            "text": "To provide insights into the pathogenesis of H7N9 virus infection ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "we compared risk factors , clinical presentation , and progression of patients",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "hospitalized with H7N9 , H5N1 , and 2009 pandemic H1N1 ( pH1N1 ) virus infections . <S> <P>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 10,
+            "text": "Methods . <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 10,
+            "parent": 7,
+            "text": "We compared individual - level data from patients",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "hospitalized with infection by H7N9",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "( n = 123 ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "H5N1",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "( n = 119 ; 43 China , 76 Vietnam )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": ", and pH1N1",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "( n = 3486 )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 15,
+            "text": "viruses . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 18,
+            "parent": 10,
+            "text": "We assessed risk factors for hospitalization after adjustment for age - and sex - specific prevalence of risk factors in the general Chinese population . <S> <P>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 20,
+            "text": "Results . <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 20,
+            "parent": 7,
+            "text": "The median age of patients with H7N9 virus infection was older than other patient groups",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "( 63 years ; P < .001 )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 20,
+            "text": "and a higher proportion was male",
+            "relation": "JOINT"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "( 71 % ; P < .02 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 20,
+            "text": "After adjustment for age and sex , chronic heart disease was associated with an increased risk of hospitalization with H7N9",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 25,
+            "parent": 24,
+            "text": "( relative risk , 9.68 ; 95 % confidence interval , 5.24 - 17.9 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 26,
+            "parent": 24,
+            "text": "H7N9 patients had similar patterns of leukopenia , thrombocytopenia , and elevated alanine aminotransferase , creatinine kinase , C - reactive protein , and lactate dehydrogenase to those",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 27,
+            "parent": 26,
+            "text": "seen in H5N1 patients ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 28,
+            "parent": 27,
+            "text": "which were all significantly different from pH1N1 patients",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 29,
+            "parent": 28,
+            "text": "( P < .005 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 30,
+            "parent": 26,
+            "text": "H7N9 patients had a longer duration of hospitalization than either H5N1 or pH1N1 patients",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 31,
+            "parent": 30,
+            "text": "( P < .001 ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 32,
+            "parent": 30,
+            "text": "and the median time from onset to death was 18 days for H7N9",
+            "relation": "JOINT"
+        },
+        {
+            "id": 33,
+            "parent": 32,
+            "text": "( P = .002 )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 34,
+            "parent": 32,
+            "text": "vs 11 days for H5N1 and 15 days for pH1N1",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 35,
+            "parent": 34,
+            "text": "( P = .154 ) . <S> <P>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 36,
+            "parent": 40,
+            "text": "Conclusions . <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 37,
+            "parent": 40,
+            "text": "The identification of known risk factors for severe seasonal influenza and the more protracted clinical course",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 38,
+            "parent": 37,
+            "text": "compared with that of H5N1",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 39,
+            "parent": 37,
+            "text": "suggests",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 40,
+            "parent": 7,
+            "text": "that host factors are an important contributor to H7N9 severity . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

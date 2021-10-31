@@ -1,0 +1,268 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Background <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 2,
+            "parent": 0,
+            "text": "The objectives of this study were to analyze the clinical features of coronavirus disease 2019",
+            "relation": "ROOT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "and evaluate the diagnosis and treatment . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 4,
+            "parent": 5,
+            "text": "Methods <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 5,
+            "parent": 2,
+            "text": "A retrospective analysis of the clinical manifestation and auxiliary examination of 19 patients with COVID-19 from the Liyuan Hospital intensive care unit ( ICU ) between January 16 , 2020 and February 20 , 2020 was undertaken . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 6,
+            "parent": 7,
+            "text": "Results <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 7,
+            "parent": 2,
+            "text": "There were 11 male and 8 female cases among the patients . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "The median ( range ) age was 73",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "( 38 - 91 )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "years . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 11,
+            "parent": 8,
+            "text": "Of these patients , 8",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "( 42.1 % )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "had died",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "and the median duration from ICU admission to death was 2",
+            "relation": "JOINT"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "( interquartile range ( IQR ) : 1 - 10.75 )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "days . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 17,
+            "parent": 11,
+            "text": "Seven of these 8 patients had underlying diseases . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 11,
+            "text": "The auxiliary examination showed fever",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "( 68.4 % ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 18,
+            "text": "dry cough",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "( 15.8 % ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 20,
+            "text": "dyspnea",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "( 10.5 % ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 22,
+            "text": "and diarrhea ( 5.3 % ) . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 25,
+            "parent": 18,
+            "text": "All 19 cases showed ground - glass changes on chest computed tomography . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 26,
+            "parent": 25,
+            "text": "Serum hypersensitive C - reactive protein ( hs - CRP ) and serum amylase A ( SAA ) were clearly increased in all of the cases . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 27,
+            "parent": 26,
+            "text": "Among the 19 cases , there were 16",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 28,
+            "parent": 27,
+            "text": "( 84.2 % )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 29,
+            "parent": 27,
+            "text": "cases",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 30,
+            "parent": 29,
+            "text": "in which the total number of lymphocytes decreased ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 31,
+            "parent": 29,
+            "text": "12 cases",
+            "relation": "JOINT"
+        },
+        {
+            "id": 32,
+            "parent": 31,
+            "text": "( 63 % )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 33,
+            "parent": 31,
+            "text": "had reduced liver function ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 34,
+            "parent": 29,
+            "text": "and 11 cases",
+            "relation": "JOINT"
+        },
+        {
+            "id": 35,
+            "parent": 34,
+            "text": "( 58 % )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 36,
+            "parent": 34,
+            "text": "had deviant results for fibrinogen ( FIB ) and D - dimer ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 37,
+            "parent": 36,
+            "text": "in particular , the D - dimer level was significantly higher in the non - survivors",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 38,
+            "parent": 37,
+            "text": "compared with the survivors . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 39,
+            "parent": 40,
+            "text": "Conclusion <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 40,
+            "parent": 2,
+            "text": "There were more men than women among critically ill patients . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 41,
+            "parent": 40,
+            "text": "All of the cases showed ground - glass changes on chest computed tomography",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 42,
+            "parent": 41,
+            "text": "and the vast majority of patients displayed fever and dry cough . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 43,
+            "parent": 41,
+            "text": "The clinical laboratory indices change significantly , especially the D - dimer level among non - survivors . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 12,
+            "text": "Novel pathogens have the potential",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "to become critical issues of national security , public health and economic welfare . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 4,
+            "text": "As demonstrated by the response to Severe Acute Respiratory Syndrome ( SARS ) and influenza ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "genomic sequencing has become an important method",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "for diagnosing agents of infectious disease . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 6,
+            "parent": 8,
+            "text": "Despite the value of genomic sequences",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "in characterizing novel pathogens ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 4,
+            "text": "raw data on their own do not provide the information",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "needed by public health officials and researchers . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "One must integrate knowledge of the genomes of pathogens with host biology and geography",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "to understand the etiology of epidemics . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 12,
+            "parent": 0,
+            "text": "To these ends , we have created an application",
+            "relation": "ROOT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "called Supramap",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "( http://supramap.osu.edu )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 12,
+            "text": "to put information on the spread of pathogens and key mutations across time , space and various hosts into a geographic information system ( GIS ) . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 16,
+            "parent": 17,
+            "text": "To build this application ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 17,
+            "parent": 12,
+            "text": "we created a web service for integrated sequence alignment and phylogenetic analysis as well as methods",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "to describe the tree , mutations , and host shifts in Keyhole Markup Language ( KML ) . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 19,
+            "parent": 12,
+            "text": "We apply the application to 239 sequences of the polymerase basic 2 ( PB2 ) gene of recent isolates of avian influenza ( H5N1 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "We map a mutation , glutamic acid to lysine at position 627 in the PB2 protein ( E627 K ) , in H5N1 influenza",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "that allows for increased replication of the virus in mammals . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 22,
+            "parent": 20,
+            "text": "We use a statistical test",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "to support the hypothesis of a correlation of E627 K mutations with avian - mammalian host shifts",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "but reject the hypothesis",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 25,
+            "parent": 24,
+            "text": "that lineages with E627 K are moving westward . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 26,
+            "parent": 12,
+            "text": "Data , instructions for use , and visualizations are included as supplemental materials at : <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

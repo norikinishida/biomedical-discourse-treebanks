@@ -1,0 +1,106 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 12,
+            "text": "Low - and middle - income countries ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "where emerging diseases often make their debut ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "are also likely to bear the harshest consequences of a potential influenza pandemic . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "Yet public health systems in developing countries are underfunded , understaffed , and in many cases struggling to deal with the existing burden of disease . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "As a result , developed countries are beginning to expand assistance for emergency preparedness to the developing world . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 6,
+            "parent": 7,
+            "text": "Given developing countries ' weak infrastructure and many competing public health priorities ,",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "it is not clear how to best direct these resources . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 8,
+            "parent": 9,
+            "text": "Evidence from the U.S. and other developed countries suggests",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "that some investments in bioterror and pandemic emergency preparedness ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "although initially implemented as vertical programs ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "have the potential to strengthen the general public health infrastructure . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 12,
+            "parent": 0,
+            "text": "This experience may hold some lessons for",
+            "relation": "ROOT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "how global funds for emergency preparedness could be invested in developing countries",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "to support struggling public health systems",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "in responding to current health priorities as well as potential future public health threats . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 12,
+            "text": "( Am J Prev Med 2008;34(6):529 -534 ) <S> <P>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "In this study , we investigated turkey reovirus ( TReoV ) in tissue samples from young birds ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "aged 15 days . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "RT - PCR for TReoV detected 3.3 % positive samples",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "and TReoV was successfully isolated in Vero cells . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "Histological analysis of positive bursa of Fabricius ( BF ) revealed atrophied follicles and lymphocyte depletion . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "The number of CD8 ? , CD4 ? and IgM ? cells was lower in infected BF . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 10,
+            "text": "Phylogenetic analysis",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "based on S3 gene",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "showed",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 10,
+            "parent": 5,
+            "text": "that the Brazilian TReoV isolates clustered in a single group with 98 - 100 % similarity to TReoV strains",
+            "relation": "JOINT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "circulating in the United States . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 1,
+            "text": "This is the first indication",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "that TReoV infection may be a contributing factor to immunosuppression in young birds . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

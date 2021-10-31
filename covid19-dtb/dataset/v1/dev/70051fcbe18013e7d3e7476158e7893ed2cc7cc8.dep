@@ -1,0 +1,100 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 10,
+            "text": "Knowledge about the molecular basis of SARS - CoV-2 infection is incipient . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 3,
+            "text": "However , recent experimental results about the virus interactome have shown",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "that this single - positive stranded RNA virus produces a set of about 28 specific proteins",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "grouped into 16 non - structural proteins",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "( Nsp1 to Nsp16 ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "four structural proteins",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "( E , M , N , and S ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "and eight accessory proteins",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "( orf3a , orf6 , orf7a , orf7b , orf8 , orf9b , orf9c , and orf10 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 0,
+            "text": "In this brief communication , the network model of the interactome of these viral proteins with the host proteins is analyzed . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 11,
+            "parent": 12,
+            "text": "The statistical analysis of this network shows",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "that it has a modular scale - free topology",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "in which the virus proteins orf8 , M , and Nsp7 are the three nodes with the most connections ( links ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 10,
+            "text": "This result suggests the possibility",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "that a simultaneous pharmacological attack on these hubs could assure the destruction of the network and the elimination of the virus . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

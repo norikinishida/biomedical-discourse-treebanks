@@ -1,0 +1,106 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 4,
+            "text": "Until recently , conventional culture techniques and immunofluorecence assays were considered the gold standard for the detection of respiratory viruses ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "even though results are mostly available too late",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "or lacked specificity and sensitivity . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 4,
+            "parent": 0,
+            "text": "These methods are now widely replaced with appropriate DNA - and RNA - based amplification techniques , in particular real time PCR amplification , for the detection of an extended number of agents responsible for acute respiratory infections . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "Real - time PCR offers rapid results , efficiencies in work flow and a reduced risk of false positive results",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "due to contamination . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "As a result , better patient management or reduction of unnecessary antibiotic administration will be possible",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "leading to enhanced efficiencies in health care . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 9,
+            "parent": 10,
+            "text": "In applying molecular methods to diagnostic use ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 4,
+            "text": "the laboratory can optimise its diagnostic strategy",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "by applying a combination of real - time amplification tests for respiratory viruses and the non - viral respiratory bacterial pathogens . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "However this must be done within a context of resource availability , technical expertise available and clinical utility . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 13,
+            "parent": 4,
+            "text": "It seems certain that molecular microbiology will continue to develop ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "leading to further applications in diagnostic technology ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "thereby improving our understanding of disease processes",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "and enhancing our knowledge of the pathogens responsible . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

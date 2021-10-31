@@ -1,0 +1,124 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 12,
+            "text": "It is increasingly evident that China has attached more attention to discursive power in foreign policy since the early 21st century . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "Both top leaders and government agencies have been active",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "in advocating for a new discourse on various international occasions . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "Previously , China has been reluctant to join the debate in international affairs ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "and been instead preoccupied with domestic affairs since the late 1970s . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "The situation has changed since 2009",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "because of China 's rapid rise",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "to become the world 's second largest economy . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 10,
+            "text": "With regard to the motivations behind the Chinese government 's support for discursive power ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 6,
+            "text": "the dominant explanation is based on the ' ' rise of China ' ' argument . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "However , this argument does not explain the causal relationship between China 's rise and its discursive power strategy . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 12,
+            "parent": 0,
+            "text": "So , this paper aims to clarify the motivation behind China 's discursive power strategy through document reviews and interviews with mainstream scholars . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 13,
+            "parent": 14,
+            "text": "It concludes",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "that a discursive power strategy has been the fundamental principle of the Communist Party of China since its establishment in 1921 . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "Since China 's adoption of an opening - up policy in 1978 , this tradition has been suppressed",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "but not eliminated entirely by top leaders . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 17,
+            "parent": 18,
+            "text": "As China continues to rise on the world stage ,",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 18,
+            "parent": 15,
+            "text": "the principle will drive China to create a new political model",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "rather than be a mere follower of the established political order . <S> <P>",
+            "relation": "COMPARISON"
+        }
+    ]
+}

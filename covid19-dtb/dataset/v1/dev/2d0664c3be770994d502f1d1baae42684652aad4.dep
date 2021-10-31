@@ -1,0 +1,136 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 18,
+            "text": "Vaccination is one of the cheapest health - care interventions",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "that have saved more lives than any other drugs or therapies . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 4,
+            "text": "Due to successful immunization programs",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "we rarely hear about some of the common diseases of the early twentieth century",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "including small pox and polio . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 1,
+            "text": "Vaccination programs have also helped to increase food production notably poultry , cattle , and milk production",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "due to lower incidence of infectious diseases in farm animals . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 8,
+            "parent": 10,
+            "text": "Though vaccination programs have eradicated several diseases",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "and increased the quality of life",
+            "relation": "JOINT"
+        },
+        {
+            "id": 10,
+            "parent": 1,
+            "text": "there are several diseases that have no effective vaccines . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "Currently there are no vaccines for cancer , neurodegenerative diseases , autoimmune diseases , as well as infectious diseases like tuberculosis , AIDS , and parasitic diseases",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "including malaria . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 10,
+            "text": "Abuse of antibiotics has resulted in the generation of several antibiotic - resistant bacterial strains ;",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "hence there is a need to develop novel vaccines for antibiotic - resistant microorganisms . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 15,
+            "parent": 10,
+            "text": "Changes in climate is another concern for vaccinologists . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "Climate change could lead to generation of new strains of infectious microorganisms",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "that would require development of novel vaccines . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 0,
+            "text": "Use of conventional vaccination strategies",
+            "relation": "ROOT"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "to develop vaccines",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 20,
+            "parent": 18,
+            "text": "has severe limitations ;",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 21,
+            "parent": 18,
+            "text": "hence innovative strategies are essential in the development of novel and effective vaccines . <S> <P>",
+            "relation": "CAUSE-RESULT"
+        }
+    ]
+}

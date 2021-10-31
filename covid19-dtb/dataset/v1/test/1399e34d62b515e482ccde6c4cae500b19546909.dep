@@ -1,0 +1,40 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Influenza viruses are among the major infectious disease threats of animal and human health . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 0,
+            "text": "This review examines the recent discovery of novel influenza viruses in bats and cattle , the evolving complexity of influenza virus host range",
+            "relation": "ROOT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "including the ability",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to cross species barriers and geographic boundaries ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 2,
+            "text": "and implications to animal and human health . <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

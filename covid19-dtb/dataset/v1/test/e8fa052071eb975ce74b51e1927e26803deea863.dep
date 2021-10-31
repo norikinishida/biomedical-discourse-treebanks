@@ -1,0 +1,136 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 8,
+            "text": "Alanyl aminopeptidase ( APN ) is a surface - bound metallopeptidase",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "that processes the N - terminals of biologically active peptides",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "such as enkephalins , angiotensins , neurokinins , and cytokines . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "It exerts profound activity on vital processes",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "such as immune response , cellular growth , and blood pressure control . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "Inhibition of either APN gene expression or its enzymatic activity severely affects leukocyte growth and function . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 8,
+            "text": "We show here",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 8,
+            "parent": 0,
+            "text": "that oxidoreductasemediated modulations of the cell surface thiol status affect the enzymatic activity of APN . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "Additional evidence for the pivotal role of extracellular cysteines in the APN molecule was obtained",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "when substitution of any of these six cysteines caused complete loss of surface expression and enzymatic activity . <S>",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "In contrast , the transmembrane Cys24 appears to have no similar function . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 12,
+            "parent": 9,
+            "text": "Enzymatically inactive cysteine mutants were retained in the endoplasmic reticulum",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "as shown by high - resolution imaging and Endoglycosidase H digestion . <S>",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "In the absence of any crystal - structure data , the demonstration",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "that individual extracellular cysteines contribute to APN expression and function",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "appears to be of particular importance . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 17,
+            "parent": 8,
+            "text": "The data are the first",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "to show thiol - dependent modulation of the activity of a typical surfacebound peptidase at the cell surface ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "probably reflecting a general regulating mechanism . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 17,
+            "text": "This may relate to various disease processes",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "such as inflammation or malignant transformation . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

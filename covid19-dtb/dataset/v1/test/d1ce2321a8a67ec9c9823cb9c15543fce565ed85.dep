@@ -1,0 +1,118 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 7,
+            "text": "Typical enteropathogenic E. coli ( tEPEC ) carries the highest hazard of death in children with diarrhea",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "and atypical EPEC ( aEPEC ) was recently identified as significantly associated with diarrheal mortality in kittens . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "In both children and kittens there is a significant association between aEPEC burden and diarrheal disease ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "however the infection can be found in individuals with and without diarrhea . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "It remains unclear to what extent , under what conditions , or by what mechanisms aEPEC serves as a primary pathogen in individuals with diarrhea . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "It seems likely that a combination of host and bacterial factors enable aEPEC to cause disease in some individuals and not in others . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "The purpose of this study was to determine the impact of aEPEC on intestinal function and diarrhea in kittens",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "following experimentally - induced carriage",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "and the influence of a disrupted intestinal microbiota on disease susceptibility . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 10,
+            "parent": 7,
+            "text": "Results of this study identify aEPEC as a potential pathogen in kittens . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 11,
+            "parent": 12,
+            "text": "In the absence of disruption to the intestinal microbiota ,",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "kittens are resistant to clinical signs of aEPEC carriage",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "but demonstrate significant occult changes in intestinal absorption and permeability . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "Antibiotic - induced disruption of the intestinal microbiota prior to infection increases subsequent intestinal water loss",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "as determined by % fecal wet weight . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "Enrichment of the intestinal microbiota with a commensal member of the feline mucosa - associated microbiota , Enterococcus hirae , ameliorated the effects of aEPEC experimental infection on intestinal function and water loss . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 7,
+            "text": "These observations begin to unravel the mechanisms",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "by which aEPEC infection may be able to exploit susceptible hosts . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

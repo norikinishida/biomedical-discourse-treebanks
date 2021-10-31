@@ -1,0 +1,106 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 6,
+            "text": "COVID-19 can affect the hematopoietic system . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "Thrombocytopenia at admission was prevalent ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "while late - phase or delayed - phase thrombocytopenia",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "( occurred 14 days after symptom onset )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "is obscure . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 6,
+            "parent": 0,
+            "text": "This retrospective single - center study screened 450 COVID-19 patients",
+            "relation": "ROOT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "and enrolled 271 patients at the Union Hospital , Wuhan , China , from January 25th to March 9th , 2020 . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "COVID-19 associated delayed - phase thrombocytopenia occurred in 11.8 % percent of enrolling patients . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "The delayed - phase thrombocytopenia in COVID-19 is prone to develop in elderly patients or patients with low lymphocyte count on admission . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "The delayed - phase thrombocytopenia is significantly associated with increased length of hospital stay and higher mortality rate . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "Delayed - phase nadir platelet counts demonstrated a significantly negative correlation with B cell percentages . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 6,
+            "text": "We also presented bone marrow aspiration pathology of three patients with delayed - phase thrombocytopenia ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "showing impaired maturation of megakaryocytes . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 15,
+            "text": "We speculated",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 15,
+            "parent": 6,
+            "text": "that immune mediated platelet destruction might account for the delayed - phase thrombocytopenia in a group of patients . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "Besides , clinicians need to pay attention to the delayed - phase thrombocytopenia especially at 3 - 4 weeks after symptom onset . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

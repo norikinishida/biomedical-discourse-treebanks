@@ -1,0 +1,124 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 4,
+            "text": "The major physiological function of milk is the transport of amino acids , carbohydrates , lipids and minerals to mammalian offspring . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "Caseins , the major milk proteins , are secreted in the form of a micelle",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "consisting of protein and calciumphosphate . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 0,
+            "text": "We have analysed the role of the milk protein a - casein",
+            "relation": "ROOT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "by inactivating the corresponding gene in mice . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "Absence of a - casein protein significantly curtails secretion of other milk proteins and calcium - phosphate ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "suggesting a role for a - casein in the establishment of casein micelles . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "In contrast , secretion of albumin ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "which is not synthesized in the mammary epithelium ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "into milk is not reduced . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 11,
+            "parent": 6,
+            "text": "The absence of a - casein also significantly inhibits transcription of the other casein genes . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "a - Casein deficiency severely delays pup growth during lactation",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "and results in a life - long body size reduction",
+            "relation": "JOINT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "compared to control animals ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 15,
+            "parent": 12,
+            "text": "but has only transient effects on physical and behavioural development of the pups . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 16,
+            "parent": 4,
+            "text": "The data support a critical role for a - casein in casein micelle assembly . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "The results also confirm lactation as a critical window of metabolic programming",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "and suggest milk protein concentration as a decisive factor",
+            "relation": "JOINT"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "in determining adult body weight . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

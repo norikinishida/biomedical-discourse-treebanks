@@ -1,0 +1,136 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 6,
+            "text": "In early 2013 , a novel avian - origin influenza A(H7N9 ) virus emerged in China ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "and has caused sporadic human infections . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "The incubation period is the delay from infection until onset of symptoms ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "and varies from person to person . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "Few previous studies have examined whether the duration of the incubation period correlates with subsequent disease severity . <S> <P>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 0,
+            "text": "We analyzed data of period of exposure on 395 human cases of laboratory - confirmed influenza A(H7N9 ) virus infection in China in a Bayesian framework",
+            "relation": "ROOT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "using a Weibull distribution . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "We found a longer incubation period for the 173 fatal cases with a mean of 3.7 days",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "( 95 % credibility interval , CrI : 3.4 - 4.1 ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "compared to a mean of 3.3 days",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "( 95 % CrI : 2.9 - 3.6 )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "for the 222 non - fatal cases ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 13,
+            "parent": 8,
+            "text": "and the difference in means was marginally significant at 0.47 days",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "( 95 % CrI : -0.04 , 0.99 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 8,
+            "text": "There was a statistically significant correlation between a longer incubation period and an increased risk of death after adjustment for age , sex , geographical location and underlying medical conditions <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "( adjusted odds ratio 1.70 per day increase in incubation period ;",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "95 % credibility interval 1.47 - 1.97 ) . <S> <P>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 15,
+            "text": "We found a significant association between a longer incubation period and a greater risk of death among human H7N9 cases . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "The underlying biological mechanisms",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "leading to this association",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 21,
+            "parent": 19,
+            "text": "deserve further exploration . <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 12,
+            "text": "Herein , the LASSBio Chemical Library is presented as a valuable source of compounds for screening",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "to identify hits suitable for subsequent hit - to - lead optimization stages . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "A feature of the LASSBio Chemical Library worth highlighting is the fact",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "that it is a smart library",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "designed by medicinal chemists with pharmacological activity as the main priority . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 1,
+            "text": "The great majority of the compounds part of this library have shown in vivo activity in animal models ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "which is an indication",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "that they possess overall favorable bioavailability properties and , hence , adequate pharmacokinetic profiles . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 6,
+            "text": "This , in turn , is supported by the fact",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "that approximately 85 % of the compounds are compliant with Lipinski 's rule of five and ca . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "95 % are compliant with Veber 's rules , two important guidelines for oral bioavailability . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 0,
+            "text": "In this work it is presented a virtual screening methodology",
+            "relation": "ROOT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "combining a pharmacophore - based model and an empirical Gibbs free energy - based model for the ligand - protein interaction",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "to explore the LASSBio Chemical Library as a source of new hits for the inhibition of the phosphatidylinositol 4-kinase III\u03b2 ( PI4KIII\u03b2 ) enzyme ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "which is related to the development of viral infections",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "( including enteroviruses , SARS coronavirus , and hepatitis C virus ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 15,
+            "text": "cancers and neurological diseases . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 18,
+            "parent": 12,
+            "text": "The approach resulted in the identification of two hits , LASSBio-1799 ( 7 ) and LASSBio-1814 ( 10 ) ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "which inhibited the target enzyme with IC 50 values of 3.66 \u03bcM and IC 50 and 6.09 \u03bcM , respectively . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 18,
+            "text": "This study also enabled the determination of the structural requirements for interactions with the active site of PI4KIII\u03b2 ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "demonstrating the importance of both acceptor and donor hydrogen bonding groups",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "for forming interactions with binding site residues Val598 and Lys549 . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

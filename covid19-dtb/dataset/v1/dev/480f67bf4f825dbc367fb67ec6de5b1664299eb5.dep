@@ -1,0 +1,130 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 17,
+            "text": "A highly infectious disease ( HID )",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "that is transmissible from person to person",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "causes life - threatening illness",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "and presents a serious hazard in the healthcare setting and in the community",
+            "relation": "JOINT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "that requires specific control measures . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 7,
+            "text": "Due to environmental factors , changes in lifestyle and many other unknown factors ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 7,
+            "parent": 1,
+            "text": "the emergence of such HIDs is becoming more and more likely . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 9,
+            "text": "As has already been demonstrated during the SARS outbreak ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 9,
+            "parent": 1,
+            "text": "healthcare facilities are likely to be the origin of future HID outbreaks . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "Preparedness planning will be essential",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "in helping facilities manage future outbreaks of emerging or resurgent infectious diseases . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "Guidelines have been developed by national and international institutions . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 14,
+            "text": "To avoid contamination of healthcare workers ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "the care of HID patients should follow the same infection control rules",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "that are applied to laboratory workers",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "exposed to similar agents . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 0,
+            "text": "Here , the current knowledge",
+            "relation": "ROOT"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "concerning the clinical care of patients with HIDs",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 17,
+            "text": "is reviewed ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "and specific aspects of the management of such diseases are introduced . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 3,
+            "text": "Localization of neutralizing , serotype specific epitopes of infectious bronchitis virus has been difficult",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "because these epitopes are conformationally dependent . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "We identified amino acids",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "involved in a serotype specific , conformationally dependent epitope",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "by analysis of the S1 gene of 13 monoclonal antibody - neutralization - resistant mutants . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 6,
+            "parent": 3,
+            "text": "Substitutions in the predicted amino acid sequence of these mutants were located at residues 304 and/or 386 . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "Most of the substitutions at residue 304 were from threonine to isoleucine ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "whereas the substitutions at residue 386 were from arginine to proline , histidine , cysteine , or tryptophan . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 9,
+            "parent": 10,
+            "text": "Based on this data ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 10,
+            "parent": 3,
+            "text": "it appears that AA residues at 304 and 386 on the S1 glycoprotein are involved in a virus neutralizing serotype specific epitope . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

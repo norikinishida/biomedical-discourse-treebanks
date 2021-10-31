@@ -1,0 +1,118 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 9,
+            "text": "It is a much desirable skill among physicians that clinical practice should be guided by ethical norms . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "The dissection room experience provides an opportunity",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "for nurturing the principles of ethical practice among medical students early in the curriculum . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 5,
+            "text": "When the exercise of human dissection is followed within the boundaries of ethics",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 5,
+            "parent": 2,
+            "text": "it effectively props an ideal example for the young minds",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "to emulate in the future . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 7,
+            "parent": 2,
+            "text": "Hence in every stage of dissection room activity precious human body needs to be handled in an ethical manner",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "so as to set a standard for the students <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 9,
+            "parent": 0,
+            "text": "The present review is an attempt",
+            "relation": "ROOT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "to collate the recommendations",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "documented by researchers as per ethical guidelines in the context of human dissection . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 9,
+            "text": "The review highlights on the ethical norms",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "which needs to be adhered to",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "while receiving the human body of a donor and during preservation of the same . <S>",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 15,
+            "parent": 12,
+            "text": "It reflects on ideal ethical behaviour in the dissection room during the act of dissection",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "and finally emphasize on the respectful disposal of the human remains in an ethical manner . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 9,
+            "text": "The intended purpose of this article is to support uniform adoption of the recommendations for ethical handling of human bodies",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "used in anatomical dissection . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

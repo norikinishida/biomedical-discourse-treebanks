@@ -1,0 +1,82 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 5,
+            "text": "Basing on existence of the mathematically sequential reduction of the three - compartmental",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "( Susceptible - Infected - Recovered / Removed )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "model to the Verhulst ( logistic ) equation with the parameters",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "determined by the basic characteristic of epidemic process ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 0,
+            "text": "this model is tested in application to the recent data on COVID-19 outbreak",
+            "relation": "ROOT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "reported by the European Centre for Disease Prevention and Control . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "It is shown that such a simple model adequately reproduces the epidemic dynamics not only qualitatively but for a number of countries quantitatively with a high degree of correlation",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "that allows to use it for predictive estimations . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 9,
+            "parent": 5,
+            "text": "In addition , some features of SIR model are discussed in the context ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "how its parameters and conditions reflect measures",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "attempted for the disease growth prevention",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "that is also clearly indicated by deviations from such model solutions . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 7,
+            "text": "Feline infectious peritonitis is a devastating , fatal disease of domestic cats",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "caused by a pathogenic mutant virus",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "derived from the ubiquitous feline enteric coronavirus ( FECV ) . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "Infection by FECV is generally subclinical ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "and little is known about the mucosal immune response",
+            "relation": "JOINT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "that controls and eliminates the virus . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "We investigated the mucosal immune response against FECV in an endemically infected breeding colony over a seven - month period . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "Thirty - three cats were grouped according to FECV seropositivity and fecal virus shedding into na\u00efve / immunologically quiescent , convalescent and actively infected groups . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "Blood , fecal samples and colon biopsies were collected",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "to assess the mucosal and systemic immunologic and virologic profile . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 11,
+            "parent": 12,
+            "text": "Results showed",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 12,
+            "parent": 7,
+            "text": "that cats with active FECV infections have strong systemic IgG and mucosal IgA responses",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "that wane after virus clearance . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "Significant FECV - specific mucosal T cell IFN\u03b3 responses were not detected in any of the three groups . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "A shift toward an inflammatory state in the mucosa was suggested by increased IL17 : FoxP3 expression . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "However , no histologic abnormalities were observed ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "and no shifts in lymphocyte subpopulation phenotype or proliferation were noted . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 18,
+            "parent": 19,
+            "text": "Together , the results suggest",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 19,
+            "parent": 7,
+            "text": "that control of FECV is mediated by humoral mucosal and systemic responses",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "and that perturbations in the primary reservoir organ ( colon ) are minimal . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

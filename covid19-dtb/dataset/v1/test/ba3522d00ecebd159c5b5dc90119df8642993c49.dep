@@ -1,0 +1,82 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 5,
+            "text": "The type II transmembrane serine proteases TMPRSS2 and HAT activate influenza viruses and the SARS - coronavirus ( TMPRSS2 ) in cell culture",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "and may play an important role in viral spread and pathogenesis in the infected host . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "However , it is at present largely unclear to what extent these proteases are expressed in viral target cells in human tissues . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 4,
+            "parent": 5,
+            "text": "Here , we show",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 5,
+            "parent": 0,
+            "text": "that both HAT and TMPRSS2 are coexpressed with 2,6-linked sialic acids , the major receptor determinant of human influenza viruses , throughout the human respiratory tract . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "Similarly , coexpression of ACE2 , the SARS - coronavirus receptor , and TMPRSS2 was frequently found in the upper and lower aerodigestive tract , with the exception of the vocal folds , epiglottis and trachea . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "Finally , activation of influenza virus was conserved between human , avian and porcine TMPRSS2 ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 9,
+            "text": "suggesting",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "that this protease might activate influenza virus in reservoir- , intermediate - and human hosts . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 10,
+            "parent": 11,
+            "text": "In sum , our results show",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 11,
+            "parent": 5,
+            "text": "that TMPRSS2 and HAT are expressed by important influenza and SARS - coronavirus target cells",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "and could thus support viral spread in the human host . <S> <P>",
+            "relation": "CAUSE-RESULT"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "The availability of monoclonal antibodies ( mAbs ) specific for the SARS - coronavirus ( SARS - CoV ) is important for the development of both diagnostic tools and treatment of infection . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 0,
+            "text": "A molecular characterization of nine monoclonal antibodies",
+            "relation": "ROOT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "raised in immune mice ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 5,
+            "text": "using highly purified , inactivated SARS - CoV as the inoculating antigen ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 5,
+            "parent": 2,
+            "text": "is presented in this report . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 6,
+            "parent": 2,
+            "text": "These antibodies are specific for numerous viral protein targets ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "and six of them are able to effectively neutralize SARS - CoV in vitro ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "including one with a neutralizing titre of 0.075 nM. <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 10,
+            "text": "A phylogenetic analysis of the heavy and light chain sequences reveals",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 10,
+            "parent": 6,
+            "text": "that the mAbs share considerable homology . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "The majority of the heavy chains belong to a single Ig germline V - gene family ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "while considerably more sequence variation is evident in the light chain sequences . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 13,
+            "parent": 14,
+            "text": "These analyses demonstrate",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 14,
+            "parent": 2,
+            "text": "that neutralization ability can be correlated with specific murine V H -gene alleles . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "For instance , one evident trend is high sequence conservation in the V H chains of the neutralizing mAbs , particularly in CDR-1 and CDR-2 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 17,
+            "text": "The results suggest",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 17,
+            "parent": 14,
+            "text": "that optimization of murine mAbs for neutralization of SARS - CoV infection will likely be possible ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "and will aid in the development of diagnostic tools and passive treatments for SARS - CoV infection . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

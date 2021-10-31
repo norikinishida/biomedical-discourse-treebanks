@@ -1,0 +1,76 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Patients with severe acute respiratory syndrome ( SARS ) may present with extra - pulmonary symptoms . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 0,
+            "text": "We report a 16-year - old adolescent with SARS",
+            "relation": "ROOT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "who presented with diarrhoea . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "Treatment",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "directed against SARS",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "was prompted by an epidemiological link and the clinical picture",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "as the disease evolved . <S>",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 8,
+            "parent": 4,
+            "text": "This atypical presentation posed a diagnostic challenge for physicians . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 10,
+            "text": "Conclusion : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 10,
+            "parent": 2,
+            "text": "Proper disposal of patient excreta is important",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "to prevent the spread of severe acute respiratory syndrome . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

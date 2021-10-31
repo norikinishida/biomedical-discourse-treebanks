@@ -1,0 +1,118 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 3,
+            "text": "In late 2019 , the world encountered an unexpected new virus ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "resulting in a highly challenging new pandemic . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "The case",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "presented here",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "involves a 73-year - old man",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "experiencing fever and respiratory distress ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "who was ultimately diagnosed with COVID-19 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 3,
+            "text": "During the course of his hospitalization , the patient developed acute respiratory distress syndrome ( ARDS ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "followed by being intubated",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "due to his breathing difficulties . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 11,
+            "parent": 12,
+            "text": "Because of variations in the patient 's clinical features ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 12,
+            "parent": 8,
+            "text": "we decided to perform hemoperfusion",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "to remove cytokines . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "Afterward , his clinical status improved significantly ,",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "and he was discharged in stable condition . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "However , 26 days later , fever and respiratory distress manifested again . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "After evaluation , pulmonary thromboembolism was confirmed through computed tomography",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "( ie , CT scan ) . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

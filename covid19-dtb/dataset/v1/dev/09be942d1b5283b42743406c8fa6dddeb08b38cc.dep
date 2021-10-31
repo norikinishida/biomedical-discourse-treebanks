@@ -1,0 +1,160 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 12,
+            "text": "In December 2019 , a novel coronavirus",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "called SARS - CoV-2",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "was reported to be responsible for a cluster of acute atypical respiratory pneumonia cases in Wuhan , in Hubei province , China . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "The disease",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "caused by this virus",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "is called COVID-19 ( coronavirus disease 2019 ) . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 7,
+            "parent": 4,
+            "text": "The virus is transmitted between humans",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "and the outbreak was declared a pandemic by the World Health Organization ( WHO ) on 11 March 2020 . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "Coagulopathy is a common abnormality in patients with COVID-19",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "due to inflammation , hypoxia , immobilisation , endothelial damage and diffuse intravascular coagulation . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "However , the data on this topic are still limited . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 12,
+            "parent": 0,
+            "text": "Here we report the case of a man",
+            "relation": "ROOT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "presenting with pneumonia",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "complicated by bilateral pulmonary embolism <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 16,
+            "text": "LEARNING POINTS <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 16,
+            "parent": 12,
+            "text": "\u2022SARS - CoV-2 is a novel infectious agent",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "that causes COVID-19 ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "which can manifest in several ways ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "affecting endothelial cells and most organs . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 16,
+            "text": "\u2022There is growing evidenc",
+            "relation": "JOINT"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "that SARS - CoV-2-mediated endothelial damage is due to direct viral injury and the systemic inflammatory response , possibly together with a cytokine storm . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 24,
+            "text": "\u2022As endothelial damage can manifest as thromboembolic disease ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "such as pulmonary thromboembolism ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 16,
+            "text": "appropriate anti - thrombotic preventive strategies should be followed ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 25,
+            "parent": 24,
+            "text": "and proper screening and treatment for thromboembolic complications should be implemented . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

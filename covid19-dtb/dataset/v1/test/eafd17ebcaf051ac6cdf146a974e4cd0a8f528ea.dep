@@ -1,0 +1,46 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Although information on efficacy and adverse drug reactions is lacking ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 2,
+            "parent": 3,
+            "text": "ribavirin has been used empirically for the treatment of severe acute respiratory syndrome ( SARS ) . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "We report common adverse events in 110 patients with suspected or probable SARS",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "who were treated with ribavirin . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "Sixty - one percent of the patients had evidence of hemolytic anemia ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "and hypocalcemia and hypomagnesmia were reported in 58 % and 46 % of patients , respectively . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

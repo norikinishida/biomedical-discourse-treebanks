@@ -1,0 +1,130 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Previous analysis of porcine respiratory coronavirus ( PRCV ) mRNA species showed",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 2,
+            "parent": 8,
+            "text": "that mRNAs 2 and 3 were smaller than the corresponding transmissible gastroenteritis virus ( TGEV ) mRNA species ( Page et al . ( 1991 ) J. Gen. Virol . 72 , 579 - 587 ) . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 4,
+            "text": "Sequence analysis showed",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "that mRNA 3 was smaller",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "due to the presence of a new putative RNA - leader binding site upstream of the PRCV ORF-3 gene . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "However , this observation did not explain the deletion",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "observed in PRCV mRNA 2 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 0,
+            "text": "Polymerase chain reaction ( PCR ) was used",
+            "relation": "ROOT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "to generate cDNA from the 3 ' coding region of the putative polymerase gene to the poly ( A ) tail of PRCV for comparison to the equivalent region from TGEV . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "The PRCV S protein was found to consist of 1225 amino acids ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "which had 98 % similarity to the TGEV S protein . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "However , the PRCV S gene contained a 672 nucleotide deletion ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "corresponding to 224 amino acids",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "( residues 21 to 245 in TGEV S protein ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "59 nucleotides downstream of the S gene initiation codon . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 16,
+            "parent": 8,
+            "text": "The PRCV genome from the ORF-3 gene to the poly ( A ) tail was sequenced for comparison to TGEV",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "in order to identify other potential differences between the two viruses . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 18,
+            "parent": 16,
+            "text": "Four ORFs were identified",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "that showed 98 % similarity to the TGEV ORF-4 , M , N and ORF-7 genes . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 18,
+            "text": "No other deletions or any PRCV specific sequences were identified . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

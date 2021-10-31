@@ -1,0 +1,112 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "Chemical denaturant sensitivity of the dimeric main protease from severe acute respiratory syndrome ( SARS ) coronavirus to guanidinium chloride was examined in terms of fluorescence spectroscopy , circular dichroism , analytical ultracentrifuge , and enzyme activity change . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "The dimeric enzyme dissociated at guanidinium chloride concentration of , 0.4 M ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "at which the enzymatic activity loss showed close correlation with the subunit dissociation . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "Further increase in guanidinium chloride induced a reversible biphasic unfolding of the enzyme . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "The unfolding of the C - terminal domain - truncated enzyme , on the other hand , followed a monophasic unfolding curve . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 6,
+            "parent": 1,
+            "text": "Different mutants of the full - length protease",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "( W31 and W207 / W218 ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "with tryptophanyl residue(s )",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "mutated to phenylalanine at the C - terminal or N - terminal domain , respectively ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "were constructed . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 11,
+            "parent": 6,
+            "text": "Unfolding curves of these mutants were monophasic",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "but corresponded to the first and second phases of the protease , respectively . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "The unfolding intermediate of the protease thus represented a folded C - terminal domain but an unfolded N - terminal domain ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "which is enzymatically inactive",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "due to loss of regulatory properties . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 16,
+            "parent": 1,
+            "text": "The various enzyme forms were characterized in terms of hydrophobicity and size - and - shape distributions . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 1,
+            "text": "We provide direct evidence for the functional role of C - terminal domain in stabilization of the catalytic N - terminal domain of SARS coronavirus main protease . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

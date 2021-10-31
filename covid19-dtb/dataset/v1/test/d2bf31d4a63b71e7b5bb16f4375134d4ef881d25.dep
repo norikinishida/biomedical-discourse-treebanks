@@ -1,0 +1,118 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 5,
+            "text": "Studies of SARS coronavirus ( SARS - CoV)",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "- the causative agent of severe acute respiratory syndrome ( SARS) -",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "have been hampered by its high transmission rate and the pathogenicity of this virus . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 5,
+            "text": "To permit analysis of the host range and entry mechanism of SARS - CoV ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 0,
+            "text": "we incorporated the humanized SARS - CoV spike ( S ) glycoprotein into HIV particles",
+            "relation": "ROOT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "to generate a highly infectious SARS - CoV pseudotyped virus . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "The infection on Vero E6",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "- a permissive cell line to SARS - CoV -",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "could be neutralized by sera from convalescent SARS patients ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 10,
+            "parent": 7,
+            "text": "and the entry was a pH - dependent process . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 5,
+            "text": "With these highly infectious SARS - CoV pseudotypes , several cell lines",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "derived from various tissues",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "were revealed as susceptible to SARS - CoV ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "which were highly corresponding to the expression pattern of virus\u00d5s receptor angiotensin - converting enzyme 2 ( ACE2 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 16,
+            "text": "In addition , we also demonstrated",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 16,
+            "parent": 11,
+            "text": "angiotensin 1 converting enzyme ( ACE)",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "- the homologue of ACE2",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 16,
+            "text": "could not function as a receptor for SARS - CoV. <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

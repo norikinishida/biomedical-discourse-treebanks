@@ -1,0 +1,136 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "This is an extensive review on epiphytic plants",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "that have been used traditionally as medicines . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "It provides information on 185 epiphytes and their traditional medicinal uses , regions",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "where Indigenous people use the plants ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "parts of the plants",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "used as medicines",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "and their preparation , and their reported phytochemical properties and pharmacological properties",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "aligned with their traditional uses . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 1,
+            "text": "These epiphytic medicinal plants are able to produce a range of secondary metabolites ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "including alkaloids ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "and a total of 842 phytochemicals have been identified to date . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 12,
+            "parent": 1,
+            "text": "As many as 71 epiphytic medicinal plants were studied for their biological activities ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "showing promising pharmacological activities ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "including as anti - inflammatory , antimicrobial , and anticancer agents . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 12,
+            "text": "There are several species",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "that were not investigated for their activities",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "and are worthy of exploration . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 18,
+            "parent": 15,
+            "text": "These epipythes have the potential",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "to furnish drug lead compounds ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "especially for treating cancers ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 18,
+            "text": "and thus warrant indepth investigations . <S> <P>",
+            "relation": "CAUSE-RESULT"
+        }
+    ]
+}

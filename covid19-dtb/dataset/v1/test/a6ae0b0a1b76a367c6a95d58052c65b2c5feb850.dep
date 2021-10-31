@@ -1,0 +1,136 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 18,
+            "text": "Multiple sclerosis ( MS ) is an autoimmune disease of the central nervous system ( CNS )",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "that affects about 0.1 % of the worldwide population . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "This deleterious disease is marked by infiltration of myelinspecific T cells",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "that attack the protective myelin sheath",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "that surrounds CNS nerve axons . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 3,
+            "text": "Upon demyelination , saltatory nerve conduction is disrupted ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "and patients experience neurologic deficiencies . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 8,
+            "parent": 1,
+            "text": "The exact cause for MS remains unknown ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "although most evidence supports the hypothesis",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "that both genetic and environmental factors contribute to disease development . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "Epidemiologic evidence supports a role for environmental pathogens ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "such as viruses ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "as potentially key contributors to MS induction . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 14,
+            "parent": 11,
+            "text": "Pathogens can induce autoimmunity via several well - studied mechanisms with the most postulated being molecular mimicry . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "Molecular mimicry occurs",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "when T cells specific for peptide epitopes derived from pathogens cross - react with selfepitopes ,",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 17,
+            "parent": 15,
+            "text": "leading to autoimmune tissue destruction . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 18,
+            "parent": 0,
+            "text": "In this review , we discuss an in vivo virusinduced mouse model of MS",
+            "relation": "ROOT"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "developed in our laboratory ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 18,
+            "text": "which has contributed greatly to our understanding of the mechanisms",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "underlying molecular mimicry - induced CNS autoimmunity . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

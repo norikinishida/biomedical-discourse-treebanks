@@ -1,0 +1,58 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 6,
+            "text": "In the time of COVID-19 epidemic , Italy was found unprepared to manage lockdown patients with chronic diseases ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "due to limited availability and diffusion of large - scale telemedicine solutions . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "The scattered distribution and heterogeneity of available tools , the lack of integration with the electronic health record of the national health system , the poor interconnection between telemedicine services",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "operating at different levels ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "the lack of a real multidisciplinary approach to the patient 's management , the heavy privacy regulations , and lack of clear guidelines , together with the lack of reimbursement , all hinder the implementation of effective telemedicine solutions for long - term patients ' management . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 6,
+            "parent": 0,
+            "text": "This COVID-19 epidemic should help promote better use and a larger integration of telemedicine services in the armamentarium of health care services . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "Telemedicine must no longer be considered as an option or add - on",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "to react to an emergency . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

@@ -1,0 +1,190 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Motivated by the covid-19 pandemic ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 2,
+            "parent": 0,
+            "text": "we developed a novel Shewhart chart",
+            "relation": "ROOT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "to visualize and learn from variation in reported deaths in an epidemic . <S> <P>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 4,
+            "parent": 7,
+            "text": "Without a method",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "to understand if day - to - day variation in outcomes may be attributed to meaningful signals of change",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "- rather than variability we would expect -",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 7,
+            "parent": 2,
+            "text": "care providers , improvement leaders , policy - makers , and the public will struggle to recognize if epidemic conditions are improving . <S> <P>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 8,
+            "parent": 2,
+            "text": "We developed a novel hybrid C - Chart and I - Chart",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "to detect within a geographic area the start and end of exponential growth in reported deaths . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "Reported deaths were the unit of analysis",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "owing to erratic reporting of cases from variability in local testing strategies . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 12,
+            "parent": 8,
+            "text": "We used simulation and case studies",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "to assess chart performance",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "and define technical parameters . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 15,
+            "parent": 8,
+            "text": "This approach also applies to other critical measures",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "related to a pandemic",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 15,
+            "text": "when high - quality data are available . <S> <P>",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 18,
+            "parent": 2,
+            "text": "The hybrid chart detected the start of exponential growth",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "and identified early signals",
+            "relation": "JOINT"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "that the growth phase was ending . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 18,
+            "text": "During a pandemic , timely reliable signals",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "that an epidemic is waxing or waning",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 21,
+            "text": "may have mortal implications . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 24,
+            "parent": 2,
+            "text": "This novel chart offers a practical tool ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 25,
+            "parent": 24,
+            "text": "accessible to system leaders and front - line teams ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 26,
+            "parent": 24,
+            "text": "to visualize and learn from daily reported deaths during an epidemic . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 27,
+            "parent": 28,
+            "text": "Without Shewhart charts and , more broadly , a theory of variation in our epidemiological arsenal ,",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 28,
+            "parent": 24,
+            "text": "we lack a scientific method for real - time assessment of local conditions . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 29,
+            "parent": 28,
+            "text": "Shewhart charts should become a standard method",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 30,
+            "parent": 29,
+            "text": "for learning from data in the context of a pandemic or epidemic . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

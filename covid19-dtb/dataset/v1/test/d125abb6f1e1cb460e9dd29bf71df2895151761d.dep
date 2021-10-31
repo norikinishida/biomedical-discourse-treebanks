@@ -1,0 +1,100 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Background : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 2,
+            "parent": 7,
+            "text": "Intimate partner violence ( IPV ) is defined as physical or sexual violence , emotional abuse and stalking . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "It is typically experienced by women",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "but can also be experienced by men . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 5,
+            "parent": 2,
+            "text": "During quarantine due to the COVID-19 , home risks to become a very dangerous place for victims of domestic violence . <S> <P>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 7,
+            "text": "Method : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "Very recent studies",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "focusing on abusive situations during COVID emergence",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "were identified in PubMed / Medline , Scopus , Embase . <S> <P>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 10,
+            "parent": 11,
+            "text": "Conclusions : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 11,
+            "parent": 7,
+            "text": "Especially during quarantine and COVID emergence around the world there is a need of programs",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "aimed to prevent acts of domestic violence and to achieve accurate assessment of multiple domains of abuse",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "( psychological , physical , sexual )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 11,
+            "text": "provided by trained multidisciplinary staffs",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "( including psychiatrists , psychologists , social and legal services ) . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

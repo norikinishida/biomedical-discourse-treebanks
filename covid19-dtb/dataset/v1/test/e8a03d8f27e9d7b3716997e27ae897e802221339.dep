@@ -1,0 +1,124 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 9,
+            "text": "The hologram is an ideal method",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "for displaying three - dimensional images visible to the naked eye . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "Metasurfaces",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "consisting of subwavelength structures",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "show great potential in light field manipulation ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "which is useful for overcoming the drawbacks of common computer - generated holography . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 3,
+            "text": "However , there are long - existing challenges to achieving dynamic meta - holography in the visible range ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "such as low frame rate and low frame number . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 0,
+            "text": "In this work , we demonstrate a design of meta - holography",
+            "relation": "ROOT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "that can achieve 2 28 different holographic frames and an extremely high frame rate",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "( 9523 frames per second )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "in the visible range . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 13,
+            "parent": 9,
+            "text": "The design is based on a space channel metasurface and a high - speed dynamic structured laser beam modulation module . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "The space channel consists of silicon nitride nanopillars with a high modulation efficiency . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 9,
+            "text": "This method can satisfy the needs of a holographic display",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "and be useful in other applications ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "such as laser fabrication , optical storage , optics communications , and information processing . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 9,
+            "text": "Dynamic 3D meta - holography in visible range with large frame number and high frame rate . <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "Sci . Adv . 6 , eaba8595 ( 2020 ) . <S> <P>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        }
+    ]
+}

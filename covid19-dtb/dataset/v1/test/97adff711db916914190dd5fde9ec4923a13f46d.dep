@@ -1,0 +1,100 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Rheum palmatum , Chinese traditional herb , exhibits a great variety of anti - cancer and anti - viruses properties . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 0,
+            "text": "This study rates antiviral activity of R. palmatum extracts and its components against Japanese encephalitis virus ( JEV ) in vitro . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "Methanol extract of R. palmatum contained higher levels of aloe emodin , chrysophanol , rhein , emodin and physcion than water extract . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "Methanol extract",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "( IC 50 = 15.04 lg / ml )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "exhibited more potent inhibitory effects on JEV plaque reduction than water extract",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "( IC 50 = 51.41 lg / ml ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 4,
+            "text": "Meanwhile , IC 50 values",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "determined by plaque reduction assay",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "were 15.82 lg / ml for chrysophanol and 17.39 lg / ml for aloe - emodin , respectively . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 11,
+            "parent": 8,
+            "text": "Virucidal activity of agents correlated with anti - JEV activity ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "while virucidal IC 50 values were 7.58 lg / ml for methanol extract , 17.36 lg / ml for water extract , 0.75 lg / ml for chrysophanol and 0.46 lg / ml for aloe - emodin , respectively . <S> <P>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "In addition , 10 lg / ml of extract , chrysophanol or aloe emodin caused 90 % inhibition of JEV yields in cells",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "and significantly activated gamma activated sequence - driven promoters . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 15,
+            "parent": 2,
+            "text": "Hence , methanol extract of R. palmatum and chrysophanol with high therapeutic index might be useful for development of antiviral agents against JEV . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Background : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 2,
+            "parent": 4,
+            "text": "Porcine reproductive and respiratory syndrome ( PRRS ) viruses are a major cause of disease and economic loss in pigs worldwide . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "High genetic diversity among PRRSV strains is problematic for successful disease control by vaccination . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 0,
+            "text": "Mosaic DNA and vaccinia ( VACV ) vaccines were developed",
+            "relation": "ROOT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "in order to improve protection against heterologous PRRSV strains . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 6,
+            "parent": 7,
+            "text": "Methods : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 7,
+            "parent": 4,
+            "text": "Piglets were primed and boosted with GP5-Mosaic DNA vaccine and recombinant GP5-Mosaic VACV ( rGP5-Mosaic VACV ) , respectively . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "Pigs",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "vaccinated with rGP5-WT ( VR2332 ) DNA and rGP5-WT VACV , or empty vector DNA and empty VACV respectively ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "served as controls . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 11,
+            "parent": 7,
+            "text": "Virus challenge was given to separate groups of vaccinated pigs with VR2332 or MN184C. <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 7,
+            "text": "Necropsies were performed 14 days after challenge . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 14,
+            "text": "Results : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 14,
+            "parent": 4,
+            "text": "Vaccination with the GP5-Mosaic - based vaccines resulted in cellular reactivity and higher levels of neutralizing antibodies to both VR2332 and MN184C PRRSV strains . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "In contrast , vaccination of animals with the GP5-WT vaccines induced responses only to VR2332 . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "Furthermore , vaccination with the GP5-Mosaic based vaccines resulted in protection against challenge with two heterologous virus strains ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "as demonstrated by the significantly lower viral loads in serum , tissues , porcine alveolar macrophages ( PAMs ) , and bronchoalveolar lavage ( BAL ) fluids , and less severe lung lesions after challenge with either MN184C or VR2332 ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "which have only 85 % identity . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 16,
+            "text": "In contrast , significant protection by the GP5-WT based vaccines was only achieved against the VR2332 strain . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 20,
+            "parent": 21,
+            "text": "Conclusions : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 21,
+            "parent": 4,
+            "text": "GP5-Mosaic vaccines ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "using a DNA - prime / VACV boost regimen ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 23,
+            "parent": 21,
+            "text": "conferred protection in pigs against heterologous viruses . <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

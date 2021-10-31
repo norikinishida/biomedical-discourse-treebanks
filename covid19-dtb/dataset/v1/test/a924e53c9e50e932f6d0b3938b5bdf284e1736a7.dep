@@ -1,0 +1,82 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Apoptosis plays an important role in the pathogenesis of viral infections . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 0,
+            "text": "In this study , we investigated the cell death processes during productive HHV-6A infection and the underlying mechanisms . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 3,
+            "parent": 4,
+            "text": "Annexin V - PI staining and electron microscopy indicated",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "that HHV-6A is a strong inducer of apoptosis . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "HHV-6A infection decreased mitochondrial transmembrane potential",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "and led to morphological changes of mitochondria . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 7,
+            "parent": 4,
+            "text": "The cell death was associated with activation of caspase-3 and cleavage of DNA repair enzyme poly ( ADP - ribose ) polymerase ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "which is known to be an important substrate for activated caspase-3 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "Caspase-9 was activated significantly in HHV-6Ainfected cells ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "whereas caspase-8 was not activated obviously . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "Moreover , HHV-6A infection upregulated Bax and downregulated Bcl-2 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 2,
+            "text": "This is the first demonstration of mitochondrion - mediated , caspase - dependent apoptosis in HHV-6A - infected cells . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

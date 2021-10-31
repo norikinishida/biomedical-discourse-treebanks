@@ -1,0 +1,118 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 5,
+            "text": "Boolean programs with multiple recursive threads can be captured as pushdown automata with multiple stacks . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "This model is Turing complete ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "and hence , one is often interested in analyzing a restricted class",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "that still captures useful behaviors . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 0,
+            "text": "In this paper , we propose a new class of bounded underapproximations for multi - pushdown systems ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "which subsumes most existing classes . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "We develop an efficient algorithm",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "for solving the under - approximate reachability problem ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "which is based on efficient fix - point computations . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 10,
+            "parent": 7,
+            "text": "We implement it in our tool BHIM",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "and illustrate its applicability",
+            "relation": "JOINT"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "by generating a set of relevant benchmarks",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "and examining its performance . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 14,
+            "parent": 10,
+            "text": "As an additional takeaway BHIM solves the binary reachability problem in pushdown automata . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 16,
+            "text": "To show the versatility of our approach ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 16,
+            "parent": 5,
+            "text": "we then extend our algorithm to the timed setting",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "and provide the first implementation",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "that can handle timed multipushdown automata with closed guards . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

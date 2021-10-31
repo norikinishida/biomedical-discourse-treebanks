@@ -1,0 +1,172 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 7,
+            "text": "It is normal for hosts to be co - infected by parasites . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "Interactions among co - infecting species can have profound consequences ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "including changing parasite transmission dynamics , altering disease severity and confounding attempts at parasite control . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 5,
+            "text": "Despite the importance of co - infection ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "there is currently no way",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "to predict how different parasite species may interact with one another , nor the consequences of those interactions . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "Here , we demonstrate a method",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "that enables such prediction",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "by identifying two nematode parasite groups",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "based on taxonomy and characteristics of the parasitological niche . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 11,
+            "parent": 7,
+            "text": "From an understanding of the interactions between the two defined groups in one host system",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "( wild rabbits ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "we predict how two different nematode species , from the same defined groups , will interact in co - infections in a different host system",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "( sheep ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "and then we test this experimentally . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 17,
+            "text": "We show",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 17,
+            "parent": 7,
+            "text": "that ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "as predicted ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 17,
+            "text": "in co - infections , the blood - feeding nematode Haemonchus contortus suppresses aspects of the sheep immune response ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "thereby facilitating the establishment and/or survival of the nematode Trichostrongylus colubriformis ;",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 21,
+            "parent": 17,
+            "text": "and that the T. colubriformis - induced immune response negatively affects H. contortus . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 22,
+            "parent": 7,
+            "text": "This work is , to our knowledge , the first",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "to use empirical data from one host system",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "to successfully predict the specific outcome of a different co - infection in a second host species . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 25,
+            "parent": 22,
+            "text": "The study therefore takes the first step",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 26,
+            "parent": 25,
+            "text": "in defining a practical framework",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 27,
+            "parent": 26,
+            "text": "for predicting interspecific parasite interactions in other animal systems . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

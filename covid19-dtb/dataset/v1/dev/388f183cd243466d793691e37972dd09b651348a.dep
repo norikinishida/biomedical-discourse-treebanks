@@ -1,0 +1,130 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 10,
+            "text": "People most at risk of influenza complications are the elderly with impaired immunity . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "Clinical picture of influenza virus infection includes symptoms",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "such as chills , increased body temperature , dry cough , chest pain , or dizziness as well as headaches and muscle aches . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "In the diagnosis of influenza , quick and effective tests are necessary . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "Sensitive diagnostic methods of molecular biology require more time ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "but the result firmly confirm or exclude the presence of the genetic material of influenza or other respiratory viruses . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 7,
+            "parent": 2,
+            "text": "Influenza vaccination plays an important role",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "in combating influenza infection . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "Unfortunately , the awareness of vaccination benefits is insufficient in Poland . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 10,
+            "parent": 0,
+            "text": "In this study we demonstrate the results of examination of 4,507 people",
+            "relation": "ROOT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "aged over 14 years",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "toward the influenza infection in the epidemic season of 2017/18 . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 13,
+            "parent": 10,
+            "text": "Most of the confirmed infections were reported in older people",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "aged over 65 ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "a high - risk population group . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 16,
+            "parent": 13,
+            "text": "A low percentage of the vaccinated population may affect an increased number of confirmed influenza viruses in the elderly . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 10,
+            "text": "The findings demonstrate a need",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "to increase awareness of vaccination benefits ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "which is particularly essential",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "to avoid influenza infection in the elderly . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

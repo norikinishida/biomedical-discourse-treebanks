@@ -1,0 +1,100 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "The canine respiratory coronavirus ( CRCoV ) K37 strain of the family Coronaviridae , group 2 , was isolated in South Korea . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 0,
+            "text": "Its genome was analyzed by nucleotide sequencing",
+            "relation": "ROOT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "and was determined to have 31,029 bp . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "The small open reading frames",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "situated between the spike and envelope genes of most of the CRCoV strains",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "( except the CRCoV 4180 strain )",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 7,
+            "parent": 4,
+            "text": "were found to encode three nonstructural proteins",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "( 4.9 kDa , 2.7 kDa , and 12.8 kDa ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "while those of bovine coronavirus ( BCoV ) encode another three nonstructural proteins",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "( 4.9 kDa , 4.8 kDa , and 12.7 kDa )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 7,
+            "text": "and those of a recently isolated bovine respiratory coronavirus ( BRCoV ) were found to encode only two nonstructural proteins",
+            "relation": "JOINT"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "( 4.9 kDa and 12.7 kDa ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 2,
+            "text": "The differences in the genes",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "encoding these small nonstructural proteins",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "may be associated with the emergence of highly similar viruses in different hosts . <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

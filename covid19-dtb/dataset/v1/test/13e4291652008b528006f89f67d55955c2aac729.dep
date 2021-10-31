@@ -1,0 +1,154 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 10,
+            "text": "Hepatitis B virus ( HBV ) is a DNA virus",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "that infects the liver as primary target . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "Currently , a high affinity receptor for HBV is still unknown . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "The dendritic cell specific C - type lectin DC - SIGN is involved in pathogen recognition through mannose and fucose",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "containing carbohydrates",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "leading to the induction of an anti - viral immune response . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 7,
+            "parent": 4,
+            "text": "Many glycosylated viruses subvert this immune surveillance function",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "and exploit DC - SIGN as a port of entry and for trans - infection of target cells . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "The glycosylation pattern on HBV surface antigens ( HBsAg ) together with the tissue distribution of HBV would allow interaction between HBV and DC - SIGN and its liver - expressed homologue L - SIGN . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 0,
+            "text": "Therefore , a detailed study",
+            "relation": "ROOT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "to investigate the binding of HBV to DC - SIGN and L - SIGN",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "was performed . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 13,
+            "parent": 10,
+            "text": "For HCV , both DC - SIGN and L - SIGN are known to bind envelope glycoproteins E1 and E2 . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "Soluble DC - SIGN and L - SIGN specifically bound HCV virus - like particles ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "but no interaction with either HBsAg or HepG2.2.15-derived HBV was detected . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "Also , neither DC - SIGN nor L - SIGN transfected Raji cells bound HBsAg . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 15,
+            "text": "In contrast , highly mannosylated HBV ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "obtained",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "by treating HBV producing HepG2.2.15 cells with the a - mannosidase I inhibitor kifunensine ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 20,
+            "parent": 17,
+            "text": "is recognized by DC - SIGN . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 21,
+            "parent": 17,
+            "text": "The a - mannosidase I trimming of N - linked oligosaccharide structures thus prevents recognition by DC - SIGN . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 22,
+            "parent": 10,
+            "text": "On the basis of these findings , it is tempting to speculate that HBV exploits mannose trimming as a way",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "to escape recognition by DC - SIGN",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "and thereby subvert a possible immune activation response . <S> <P>",
+            "relation": "CAUSE-RESULT"
+        }
+    ]
+}

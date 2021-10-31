@@ -1,0 +1,130 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 10,
+            "text": "The emergence of Severe Acute Respiratory Syndrome coronavirus ( SARS - CoV ) and Middle East Respiratory Syndrome coronavirus ( MERS - CoV ) ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "two strains of animal coronaviruses",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "that crossed the species barrier",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to infect and cause severe respiratory infections in humans within the last 12 years ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "have taught us that coronaviruses represent a global threat",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "that does not recognize international borders . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 1,
+            "text": "We can expect to see other novel coronaviruses emerge in the future . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "An ideal animal model should reflect the clinical signs , viral replication and pathology",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "seen in humans . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 0,
+            "text": "In this review , we present factors",
+            "relation": "ROOT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "to consider",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "in establishing an animal model for the study of novel coronaviruses",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 10,
+            "text": "and compare the different animal models",
+            "relation": "JOINT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "that have been employed",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "to study SARS - CoV and MERS - CoV. <S> <P>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 16,
+            "parent": 10,
+            "text": "SARS - CoV was shown to infect rhesus macaques [ 22 , 23 ] cynomolgus macaques [ 22 ] [ 23 ] [ 24 ] [ 25 ] [ 26 ] and African green monkeys ( AGMs ) [ 22 ] . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "Clinical signs , viral replication and pathology depended upon the species . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "There is at least one report of pneumonitis in each species",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "but the findings in non - human primates ( NHPs ) were variable ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "likely because of genetic Gretebeck and Subbarao <S> <P>",
+            "relation": "CAUSE-RESULT"
+        }
+    ]
+}

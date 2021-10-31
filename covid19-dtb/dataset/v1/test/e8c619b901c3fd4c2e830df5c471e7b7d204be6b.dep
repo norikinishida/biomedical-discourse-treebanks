@@ -1,0 +1,100 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 8,
+            "text": "An increasing body of evidence highlights the role of host genetic variation",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "in driving susceptibility to severe disease",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "following pathogen infection . <S>",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 4,
+            "parent": 5,
+            "text": "In order to fully appreciate the importance of host genetics on infection susceptibility and resulting disease ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "genetically variable experimental model systems should be employed . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "These systems allow for the identification , characterization , and mechanistic dissection of genetic variants",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "that cause differential disease responses . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 8,
+            "parent": 0,
+            "text": "Herein we discuss application of the Collaborative Cross ( CC ) panel of recombinant inbred strains",
+            "relation": "ROOT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "to study viral pathogenesis ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "focusing on practical considerations for experimental design , assessment and analysis of disease responses within the CC , as well as some of the resources",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "developed for the CC . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 13,
+            "text": "Although the focus of this chapter is on viral pathogenesis ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 13,
+            "parent": 8,
+            "text": "many of the methods",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "presented within",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "are applicable to studies of other pathogens , as well as to case - control designs in genetically diverse populations . <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

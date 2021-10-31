@@ -1,0 +1,130 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 4,
+            "text": "Background : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 2,
+            "parent": 4,
+            "text": "As the outbreak of Coronavirus disease 2019 ( COVID-19 ) is a worldwide pandemic ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "and it is rapidly expanding in Iran ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 5,
+            "text": "real - time analyses of epidemiological data are needed to increase situational awareness and inform interventions . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 5,
+            "parent": 0,
+            "text": "In this study , we built a predictive model",
+            "relation": "ROOT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "based on the cumulative trend of new cases and deaths for the top five provinces . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "We will also look at modeling the trends for confirmed cases , deaths and recovered for the whole country . <S> <P>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 9,
+            "text": "Method : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 9,
+            "parent": 5,
+            "text": "In this study , we have chosen to apply the exponential smoothing model",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "to iteratively forecast future values of a regular time series from weighted averages of past daily values . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "This method is exponential",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "because the value of each level is influenced by every preceding actual value to an exponentially decreasing degree",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "- more recent values are given greater weight . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 9,
+            "text": "The available data is too small",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "to identify seasonal patterns",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "and make a predictable variation in value ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 17,
+            "parent": 15,
+            "text": "such as annual fluctuation in temperature",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "related to the season . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 5,
+            "text": "The trend is a tendency of the data",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "to increase or decrease over time . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

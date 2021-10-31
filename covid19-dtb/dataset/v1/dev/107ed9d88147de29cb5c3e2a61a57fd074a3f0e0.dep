@@ -1,0 +1,88 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 12,
+            "text": "Pericytes , as a key cellular part of the blood - brain barrier , play an important role in the maintenance of brain neurovascular unit . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "These cells participate in brain homeostasis",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "by regulating vascular development and integrity mainly through secreting various factors . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "Pericytes per se show different restorative properties after blood - brain barrier injury . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "Upon the occurrence of brain acute and chronic diseases , pericytes provoke immune cells to regulate neuro - inflammatory conditions . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "Loss of pericytes in distinct neurologic disorders intensifies blood - brain barrier permeability",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "and leads to vascular dementia . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "The therapeutic potential of pericytes is originated from the unique morphological shape , location , and their ability",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "in providing vast paracrine and juxtacrine interactions . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "A subset of pericytes possesses multipotentiality",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "and exhibit trans - differentiation capacity in the context of damaged tissue . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 12,
+            "parent": 0,
+            "text": "This review article aimed to highlight the critical role of pericytes in restoration of the blood - brain barrier after injury",
+            "relation": "ROOT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "by focusing on the dynamics of pericytes and cross - talk with other cell types . <S> <P>",
+            "relation": "MANNER-MEANS"
+        }
+    ]
+}

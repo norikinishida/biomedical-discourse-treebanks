@@ -1,0 +1,154 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 6,
+            "text": "Air sampling as an aid to infection control is still in an experimental stage ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "as there is no consensus",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "about which air samplers and pathogen detection methods should be used , and what thresholds of specific pathogens in specific exposed populations",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "( staff , patients , or visitors )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "constitutes a true clinical risk . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 6,
+            "parent": 0,
+            "text": "This case report used a button sampler ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "worn or held by staff",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "or left free - standing in a fixed location ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 9,
+            "parent": 6,
+            "text": "for environmental sampling around a child",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "who was chronically infected by a respiratory adenovirus ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 6,
+            "text": "to determine whether there was any risk of secondary adenovirus infection to the staff managing the patient . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 12,
+            "parent": 15,
+            "text": "Despite multiple air samples",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "taken on difference days ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 15,
+            "text": "coinciding with high levels of adenovirus detectable in the child 's nasopharyngeal aspirates ( NPAs ) ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 15,
+            "parent": 6,
+            "text": "none of the air samples contained any detectable adenovirus DNA",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "using a clinically validated diagnostic polymerase chain reaction ( PCR ) assay . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 17,
+            "parent": 19,
+            "text": "Although highly sensitive , in - house PCR assays have been developed",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "to detect airborne pathogen RNA / DNA ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 19,
+            "parent": 15,
+            "text": "it is still unclear what level of specific pathogen RNA / DNA constitutes a true clinical risk . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "In this case , the absence of detectable airborne adenovirus DNA",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "using a conventional diagnostic assay",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 22,
+            "parent": 20,
+            "text": "removed the requirement for staff to wear surgical masks and face visors",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "when they entered the child 's room . <S>",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 24,
+            "parent": 20,
+            "text": "No subsequent staff infections or outbreaks of adenovirus have so far been identified . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

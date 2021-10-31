@@ -1,0 +1,94 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 4,
+            "text": "Transshipment hub selection becomes increasingly important to the global logistics community . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "From the perspectives of shippers and freight forwarders , a selection must align with cost control strategy",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "and sustain service reliability across cooperative service providers . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 4,
+            "parent": 0,
+            "text": "This paper assesses the selection with the options of both sea and air transports , and from the influence of country of origin of the company . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "Critical factors of transshipment hub selection , both qualitative and quantitative , are identified through focus group discussions . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "Relative importance of these factors is determined",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "based on collective views of logistics stakeholders . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 8,
+            "parent": 4,
+            "text": "The competitiveness of transshipment hubs is then assessed",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "using an AHP approach . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 10,
+            "parent": 4,
+            "text": "Our analysis is based on the historical implementation of direct transportation link policy between Mainland China and Taiwan . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 11,
+            "parent": 12,
+            "text": "With this empirical work , the finding suggests",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 12,
+            "parent": 4,
+            "text": "that even the spawn of other nearby ports with shorter transport distance and closer proximity to cargo sources , there remain overriding factors",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "such as customs regulations & government policies and connectivity",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "that a transshipment hub is preferred . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

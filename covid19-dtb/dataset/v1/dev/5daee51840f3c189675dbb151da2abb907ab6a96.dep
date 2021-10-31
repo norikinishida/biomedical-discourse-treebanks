@@ -1,0 +1,130 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 7,
+            "text": "The COVID19 pandemic ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "designated as a public health crisis by the World Health Organization ( WHO ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "is rapidly spreading around the world",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "impacting the health and economy of almost all the countries . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "The data of hospitalized COVID19 patients , especially those with serious illness , indicate the involvement of immunopathological complications . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 7,
+            "text": "As no effective treatment is currently available ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "we propose ' Primed ' Mesenchymal Stem Cells ( MSCs ) as a therapeutic alternative",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "to tackle devastating epidemic . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "The individual response to MSCs treatment is heterogeneous . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "During the treatment of infectious pathology , the effectiveness of the treatment may vary",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "based on the disease scenario . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "Interestingly ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 14,
+            "text": "when transplanted in vivo ,",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "MSCs are governed by the locally regulated microenvironment ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 15,
+            "parent": 16,
+            "text": "suggesting",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "that the restorative variability could be tailored",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "by choosing a priming regimen",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "to specifically correct a given pathology . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 19,
+            "parent": 7,
+            "text": "Therefore , in our opinion , the priming of MSCs could be a novel approach",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "to improve the responses of COVID19 patients . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "This article examines the political and criminological history of anti - money controls ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "including the involvement of Asian countries and the varied motivations and interests engaged . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "It goes on to review where empirical evidence has been used and can be used",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "in fighting the financial components",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "of underlying crimes ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 3,
+            "text": "examining the denotation of the problem(s )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "we are supposed to be fighting",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "- money laundering as an evil in itself and/or the underlying crimes",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "which give rise to it ;",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 3,
+            "text": "estimates of the size and harmfulness of the problems",
+            "relation": "JOINT"
+        },
+        {
+            "id": 11,
+            "parent": 3,
+            "text": "and identifies any improvements / emerging problems in the assessment of money laundering . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 12,
+            "parent": 1,
+            "text": "It concludes with some reflections on assessing policy effectiveness and the need for greater engagement by criminologists and other social scientists in this process . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

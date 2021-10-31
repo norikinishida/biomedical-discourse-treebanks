@@ -1,0 +1,112 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Compared with temperate areas ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 2,
+            "parent": 6,
+            "text": "the understanding of seasonal variations of influenza infections is lacking in subtropical and tropical regions . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "Insufficient information about viral activity increases the difficulty",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "of forecasting the disease burden",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "and thus hampers official preparation efforts . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 6,
+            "parent": 0,
+            "text": "Here we identified potential meteorological factors",
+            "relation": "ROOT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "that drove the seasonal variations in influenza infections in a subtropical city , Hong Kong . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "We fitted the meteorological data and influenza mortality data from 2002 to 2009 in a Susceptible - Infected - Recovered model . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 9,
+            "parent": 6,
+            "text": "From the results , air temperature was a common significant driver of seasonal patterns",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "and cold temperature was associated with an increase in transmission intensity for most of the influenza epidemics . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "Except 2004 , the fitted models with significant meteorological factors could account for more than 10 % of the variance in additional to the null model . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 9,
+            "text": "Rainfall was also found to be a significant driver of seasonal influenza ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "although results were less robust . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 14,
+            "parent": 6,
+            "text": "The identified meteorological indicators could alert officials to take appropriate control measures for influenza epidemics ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "such as enhancing vaccination activities before cold seasons . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "Further studies are required",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "to fully justify the associations . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

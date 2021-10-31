@@ -1,0 +1,82 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 7,
+            "text": "Diagnostic testing for the novel coronavirus is an important tool",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "to fight the coronavirus disease ( Covid-19 ) pandemic . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "However , testing capacities are limited . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "A modified testing protocol ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "whereby a number of probes are ' pooled ' ( i.e. grouped ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "is known to increase the capacity for testing . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "Here , we model pooled testing with a double - average model ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "which we think to be close to reality for Covid-19 testing . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "The optimal pool size and the effect of test errors are considered . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 11,
+            "text": "The results show",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 11,
+            "parent": 7,
+            "text": "that the best pool size is three to five , under reasonable assumptions . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "Pool testing even reduces the number of false positives in the absence of dilution effects . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

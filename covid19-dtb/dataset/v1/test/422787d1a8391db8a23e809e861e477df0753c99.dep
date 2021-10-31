@@ -1,0 +1,88 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Background . <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 2,
+            "parent": 3,
+            "text": "Brazil detected community transmission of COVID-19 on March 13 , 2020 . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "In this study we identify which areas in the country are most vulnerable for COVID-19 , both in terms of the risk of arrival of COVID-19 cases and the risk of sustained transmission . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "The micro - regions with higher social vulnerability are also identified . <S> <P>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 6,
+            "text": "Methods . <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 6,
+            "parent": 3,
+            "text": "Probabilistic models were used",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "to calculate the probability of COVID-19 spread from S\u00e3o Paulo and Rio de Janeiro , according to previous data available on human mobility in Brazil . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "We also perform a multivariate cluster analysis of socio - economic indices",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "to identify areas with similar social vulnerability . <S> <P>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 10,
+            "parent": 11,
+            "text": "Results . <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 11,
+            "parent": 3,
+            "text": "The results consist of a series of maps of effective distance , outbreak probability , hospital capacity and social vulnerability . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "They show areas in the North and Northeast with high risk of COVID-19 outbreak",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "that are also highly vulnerable . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

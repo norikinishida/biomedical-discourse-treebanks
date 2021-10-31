@@ -1,0 +1,94 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Though viruses have generally been characterized by their pathogenic and more generally harmful effects ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 2,
+            "parent": 3,
+            "text": "many examples of mutualistic viruses exist . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "Here I explain how the idea of mutualistic viruses has been defended in recent virology ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "and I explore four important conceptual and practical consequences of this idea . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 6,
+            "text": "I ask",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 6,
+            "parent": 3,
+            "text": "to what extent this research modifies the way",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "scientists might search for new viruses ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "our notion",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "of how the host immune system interacts with microbes ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "the development of new therapeutic approaches , and , finally , the role",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "played by the criterion of autonomy",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "in our understanding of living things . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 13,
+            "parent": 14,
+            "text": "Overall , I suggest",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 14,
+            "parent": 3,
+            "text": "that the recognition of mutualistic viruses plays a major role in a wider ongoing revision of our conception of viruses . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

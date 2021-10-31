@@ -1,0 +1,148 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "OBJECTIVE : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 2,
+            "parent": 11,
+            "text": "Recent experiences in the United States with unprecedented terrorist attacks ( 9/11 ) and a devastating natural disaster ( Hurricane Katrina ) have demonstrated",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "that the medical care of mass casualties during such disasters poses ethical problems",
+            "relation": "JOINT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "not normally experienced in civilian health care . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 2,
+            "text": "It is important to 1 ) identify the unique ethical challenges",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "facing physicians",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "who feel an obligation",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "to care for victims of such disasters",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 5,
+            "text": "and 2 ) develop a national consensus on ethical guidelines as a resource for ethical decision making in medical disaster relief . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 10,
+            "parent": 11,
+            "text": "STUDY DESIGN : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 11,
+            "parent": 0,
+            "text": "A survey of pertinent literature was performed",
+            "relation": "ROOT"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "to assess experience and opinions on the condition of medical care in terrorist attacks and natural disasters , the ethical challenges of disaster medical care , and the professional responsibilities and responsiveness in disasters . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 13,
+            "parent": 14,
+            "text": "CONCLUSIONS : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 14,
+            "parent": 11,
+            "text": "It is necessary to develop a national consensus on the ethical guidelines for physicians",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "who care for patients , victims , and casualties of disasters ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "and to formulate a virtuebased , yet practical , ethical approach to medical care under such extreme conditions . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 17,
+            "parent": 14,
+            "text": "An educational curriculum for medical students , residents , and practicing physicians is required",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "to best prepare all physicians",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "who might be called upon , in the future ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "to triage patients , allocate resources , and make difficult decisions about treatment priorities and comfort care . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 21,
+            "parent": 17,
+            "text": "It is not appropriate to address these questions at the time of the disaster ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "but rather in advance , as part of the ethics education of the medical profession . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 23,
+            "parent": 21,
+            "text": "Important issues for resolution include inpatient and casualty triage and prioritization , medical liability , altered standards of care , justice and equity , informed consent and patient autonomy , expanding scope of practice in disaster medicine , and the moral and ethical responsibilities of physicians to care for disaster victims . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

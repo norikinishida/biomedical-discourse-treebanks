@@ -1,0 +1,64 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 6,
+            "text": "Digital contact tracing applications are being developed by governments across the world ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "to track and trace contacts . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 3,
+            "parent": 4,
+            "text": "With little evidence , citizens are being forced and made to believe",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "that it is an important step in pandemic control . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 6,
+            "text": "We discuss briefly",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 6,
+            "parent": 0,
+            "text": "if contact tracing will be successful in the control of the Corona virus pandemic",
+            "relation": "ROOT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "or is it just a tool",
+            "relation": "JOINT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "governments are using",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "to cover their helplessness . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

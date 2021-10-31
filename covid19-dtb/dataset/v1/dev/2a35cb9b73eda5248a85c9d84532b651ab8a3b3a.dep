@@ -1,0 +1,148 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 3,
+            "text": "Improved diagnostic tools for rapid detection , quantitation , and subgrouping of human respiratory syncytial virus ( RSV ) are needed",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "to aid the development and evaluation of novel intervention strategies . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "A quantitative real - time RT - PCR",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "using specific locked nucleic acid ( LNA ) probes",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "was developed",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "to identify RSV",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "and to distinguish RSV subgroups A and B ( RSV LNA assay ) . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 8,
+            "parent": 3,
+            "text": "RSV subgroup diversity and the relationship between viral load and disease severity in confirmed RSV infections were also explored . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "264 archived respiratory specimens from pediatric patients were tested in parallel",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "using the commercial multiplex Seeplex TM RV detection kit ( Seegene ) and the novel RSV LNA assay . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 11,
+            "parent": 3,
+            "text": "The LNA assay demonstrated a significantly higher sensitivity than Seeplex ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "improving overall detection rates from 24 %",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "( 64/264 )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "to 32 %",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "( 84/264 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 11,
+            "text": "Detection limits of 9.0 \u00d7 10 1 and 6.0 \u00d7 10 2 copies / mL were observed for RSV A and B , respectivel . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "RSV A was detected in 53/84",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "( 63 % )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 17,
+            "text": "cases ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "and 31/84",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "( 37 % )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 20,
+            "text": "were positive for RSV B. <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 23,
+            "parent": 3,
+            "text": "This novel method offers a rapid , quantitative , highly specific and sensitive approach to laboratory diagnosis of RSV . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

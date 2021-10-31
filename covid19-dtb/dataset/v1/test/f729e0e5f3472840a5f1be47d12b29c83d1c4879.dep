@@ -1,0 +1,94 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 9,
+            "text": "Infection with Mycobacterium tuberculosis remains a major cause of morbidity and mortality all over the world . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 3,
+            "text": "Since the effectiveness of the only available tuberculosis vaccine , Mycobacterium bovis bacillus Calmette - Gu\u00e9rin ( BCG ) , is suboptimal ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "there is a strong demand",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to develop new tuberculosis vaccines . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 6,
+            "text": "As tuberculosis is an airborne disease ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 6,
+            "parent": 3,
+            "text": "the intranasal route of vaccination might be preferable . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 3,
+            "text": "Live influenza virus vaccines might be considered as potential vectors for mucosal immunization against various viral or bacterial pathogens ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "including M. tuberculosis . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 0,
+            "text": "We generated several subtypes of attenuated recombinant influenza A viruses",
+            "relation": "ROOT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "expressing the 6-kDa early secretory antigenic target protein ( ESAT-6 ) of M. tuberculosis from the NS1 reading frame . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "We were able to demonstrate the potency of influenza virus NS vectors",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "to induce an M. tuberculosisspecific Th1 immune response in mice . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "Moreover , intranasal immunization of mice and guinea pigs with such vectors induced protection against mycobacterial challenge , similar to that",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "induced by BCG vaccination . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

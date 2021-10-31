@@ -1,0 +1,82 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 8,
+            "text": "Newcastle disease ( Paramyxoviridae ) is a highly infectious virus",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "shed in the faeces of infected birds . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "Non - biting Muscid flies characteristically visit manure and decaying organic material",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to feed",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "and oviposit ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 6,
+            "parent": 3,
+            "text": "and may contribute to disease transmission . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 7,
+            "parent": 3,
+            "text": "The housefly , Musca domestica ( Linnaeus , 1758 ) ( Diptera : Muscidae ) , has been implicated as a mechanical vector of numerous pathogens . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 0,
+            "text": "In this study 2000 aerial net - captured houseflies were examined for their ability",
+            "relation": "ROOT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "to harbour Newcastle disease virus ( NDV ) . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "In an adjacent study , laboratory - reared flies were experimentally exposed to NDV La Sota strain . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "The virus was detected in the dissected gastrointestinal tract of laboratory - exposed flies for up to 72 h post - exposure ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "whereas the untreated control flies were negative . <S> <P>",
+            "relation": "COMPARISON"
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Background : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 2,
+            "parent": 7,
+            "text": "Anecdotal reports of mood disorder",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "following infection with common respiratory viruses with neurotropic potential",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "have been in existence since the last century . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 5,
+            "parent": 2,
+            "text": "Nevertheless , systematic studies on the association between these viruses and mood disorders are lacking . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 6,
+            "parent": 7,
+            "text": "Methods : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "Influenza A , B and coronavirus antibody titers were measured in 257 subjects with recurrent unipolar and bipolar disorder and healthy controls , by SCID . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "Pearson 's \u03c7\u00b2 tests and logistic regression models were used",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "to analyze associations between seropositivity for coronaviruses , influenza A and B viruses and the following :",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "a ) history of recurrent mood disorders b ) having attempted suicide in the past c ) uni - vs . bi - polarity and d ) presence of psychotic symptoms during mood episodes . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 12,
+            "text": "Results : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 12,
+            "parent": 7,
+            "text": "Seropositivity for influenza A",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "( p = 0.004 ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "B",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "( p b 0.0001 )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "and coronaviruses",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "( p b 0.0001 )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 16,
+            "text": "were associated with history of mood disorders but not with the specific diagnosis of unipolar or bipolar depression . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 19,
+            "parent": 12,
+            "text": "Seropositivity for influenza B was significantly associated with a history of suicide attempt",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "( p = 0.001 )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 19,
+            "text": "and history of psychotic symptoms",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "( p = 0.005 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 24,
+            "text": "Limitations : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 24,
+            "parent": 7,
+            "text": "The design was cross - sectional . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 25,
+            "parent": 24,
+            "text": "Socioeconomic factors , inflammatory markers , and axis II psychopathology were not assessed . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 26,
+            "parent": 27,
+            "text": "Conclusions : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 27,
+            "parent": 7,
+            "text": "The association of seropositivity for influenza and coronaviruses with a history of mood disorders , and influenza B with suicidal behavior require replication in larger longitudinal samples . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 28,
+            "parent": 27,
+            "text": "The need for these studies is additionally supported by the high incidence of these viral infections , the high prevalence of mood disorders , and resilience of suicide epidemics . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

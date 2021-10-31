@@ -1,0 +1,136 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 20,
+            "text": "It has been nearly a century since the early description of microglia by Rio - Hortega ;",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "since then many more biological and pathological features of microglia have been recognized . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "Today , microglia are generally considered to be beneficial to homeostasis at the resting state through their abilities",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to survey the environment and phagocytose debris . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "However ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 6,
+            "parent": 10,
+            "text": "when activated microglia assume diverse phenotypes",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "ranging from fully inflamed ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "which involves the release of many pro - inflammatory cytokines ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "to alternatively activated , releasing antiinflammatory cytokines or neurotrophins ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 10,
+            "parent": 5,
+            "text": "the consequences to neurons can range from detrimental to supportive . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 11,
+            "parent": 12,
+            "text": "Due to the different experimental sets and conditions ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 12,
+            "parent": 5,
+            "text": "contradictory results have been obtained",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "regarding the controversial question",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "of whether microglia are \" good \" or \" bad . \" <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 16,
+            "text": "While it is well understood that the dual roles of activated microglia depend on specific situations ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 16,
+            "parent": 12,
+            "text": "the underlying mechanisms have remained largely unclear ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "and the interpretation of certain findings",
+            "relation": "JOINT"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "related to diverse microglial phenotypes",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 17,
+            "text": "continues to be problematic . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 20,
+            "parent": 0,
+            "text": "In this review we discuss the functions of microglia in neuronal survival and neurogenesis , the crosstalk between microglia and surrounding cells , and the potential factors",
+            "relation": "ROOT"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "that could influence the eventual manifestation of microglia . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

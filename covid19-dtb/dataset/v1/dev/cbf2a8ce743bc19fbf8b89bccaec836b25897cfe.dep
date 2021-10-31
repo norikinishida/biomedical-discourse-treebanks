@@ -1,0 +1,148 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 6,
+            "text": "Compelling evidence supports the role of oxidative stress in Alzheimer 's disease ( AD ) pathophysiology . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "Interestingly , Herpes simplex virus-1 ( HSV-1 ) , a neurotropic virus",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "that establishes a lifelong latent infection in the trigeminal ganglion",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "followed by periodic reactivations ,",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 5,
+            "parent": 2,
+            "text": "has been reportedly linked both to AD and to oxidative stress conditions . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 6,
+            "parent": 0,
+            "text": "Herein , we analyzed , through biochemical and redox proteomic approaches , the mouse model of recurrent HSV-1 infection",
+            "relation": "ROOT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "we previously set up ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "to investigate whether multiple virus reactivations induced oxidative stress in the mouse brain and affected protein function and related intracellular pathways . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 9,
+            "parent": 10,
+            "text": "Following multiple HSV-1 reactivations ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 6,
+            "text": "we found in mouse brains increased levels of oxidative stress hallmarks ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "including 4-hydroxynonenal ( HNE ) , and 13 HNE - modified proteins",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "whose levels were found significantly altered in the cortex of HSV-1-infected mice",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "compared to controls . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 14,
+            "parent": 10,
+            "text": "We focused on two proteins",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "previously linked to AD pathogenesis ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "i.e. , glucose - regulated protein 78 ( GRP78 ) and collapsin response - mediated protein 2 ( CRMP2 ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 15,
+            "text": "which are involved in the unfolded protein response ( UPR ) and in microtubule stabilization , respectively . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 19,
+            "text": "We found",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 19,
+            "parent": 14,
+            "text": "that recurrent HSV-1 infection disables GRP78 function",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "and activates the UPR ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 21,
+            "parent": 19,
+            "text": "whereas it prevents CRMP2 function in mouse brains . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 22,
+            "parent": 23,
+            "text": "Overall , these data suggest",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 23,
+            "parent": 6,
+            "text": "that repeated HSV-1 reactivation into the brain may contribute to neurodegeneration also through oxidative damage . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

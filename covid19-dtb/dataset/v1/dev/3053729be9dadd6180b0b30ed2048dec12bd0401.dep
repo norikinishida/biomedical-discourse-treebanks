@@ -1,0 +1,136 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 9,
+            "text": "Gastroenteritis is a common illness",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "causing considerable morbidity and mortality worldwide . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 3,
+            "parent": 4,
+            "text": "Despite improvements in detection methods ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "a significant diagnostic gap still remains . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "Human bocavirus ( HBoV)s ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "which are associated with respiratory infections ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "have also frequently been detected in stool samples in cases of gastroenteritis ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "and a tentative association between HBoVs , and in particular type-2 HBoVs , and gastroenteritis has previously been made . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 9,
+            "parent": 0,
+            "text": "The aim of this study was to determine the role of HBoVs in gastroenteritis ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "using archived DNA samples from the case - control Infectious Intestinal Disease Study ( IID ) . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "DNA",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "extracted from stool samples from 2,256 cases and 2,124 controls",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "were tested for the presence of HBoV DNA . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 14,
+            "parent": 11,
+            "text": "All samples were screened in a real time PCR pan - HBoV assay ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "and positive samples were then tested in genotype 1 to 3-specific assays . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 9,
+            "text": "HBoV was detected in 7.4 %",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "but no significantly different prevalence was observed between cases and controls . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 18,
+            "parent": 16,
+            "text": "In the genotype - specific assays 106 of the 324 HBoV - positive samples were genotyped ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "with HBoV-1 predominantly found in controls",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 18,
+            "text": "whilst HBoV-2 was more frequently associated with cases of gastroenteritis",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "( p,0.01 ) . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

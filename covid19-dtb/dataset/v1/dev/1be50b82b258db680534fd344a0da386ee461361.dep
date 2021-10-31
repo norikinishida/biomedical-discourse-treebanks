@@ -1,0 +1,64 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 6,
+            "text": "Forced viral adaptation is a powerful technique",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "employed",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "to study the ways",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "viruses may overcome various selective pressures",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "that reduce viral replication . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 0,
+            "text": "Here , we describe methods for in vitro serial passaging of Middle East respiratory syndrome coronavirus ( MERS - CoV )",
+            "relation": "ROOT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "to select for mutations",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "which increase replication on semi - permissive cell lines",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "as described in Letko et al . , Cell Rep 24 , 1730 - 1737 , 2018 <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

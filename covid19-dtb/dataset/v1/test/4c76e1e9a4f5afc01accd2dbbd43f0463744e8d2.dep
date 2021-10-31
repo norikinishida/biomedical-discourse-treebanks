@@ -1,0 +1,250 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 16,
+            "text": "The current Ebola virus outbreak has highlighted the uncertainties",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "surrounding many aspects of Ebola virus virology ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "including routes of transmission . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "The scientific community played a leading role during the outbreak",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "- potentially , the largest of its kind -",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "as many of the questions",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "surrounding ebolaviruses",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "have only been interrogated in the laboratory . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 9,
+            "parent": 4,
+            "text": "Scientists provided an invaluable resource for clinicians , public health officials , policy makers , and the lay public",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "in understanding the progress of Ebola virus disease and the continuing outbreak . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 4,
+            "text": "Not all of the scientific communication , however , was accurate or effective . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "There were multiple instances of published articles during the height of the outbreak",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "containing potentially misleading scientific language",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "that spurred media overreaction",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "and potentially jeopardized preparedness and policy decisions at critical points . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 16,
+            "parent": 0,
+            "text": "Here , we use articles",
+            "relation": "ROOT"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "declaring the potential for airborne transmission of Ebola virus",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 16,
+            "text": "as a case study in the inaccurate reporting of basic science ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 19,
+            "parent": 16,
+            "text": "and we provide recommendations",
+            "relation": "JOINT"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "for improving the communication about unknown aspects of disease during public health crises . <S> <P>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 21,
+            "parent": 16,
+            "text": "Basic scientific research is now considered an integral component of the fight against emerging infectious diseases like Ebola virus . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 22,
+            "parent": 23,
+            "text": "The recent Ebola outbreak , however , demonstrates",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 23,
+            "parent": 21,
+            "text": "how the ineffective communication of basic science can stoke public panic more",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "than it provides helpful tools to responders ; <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 25,
+            "parent": 23,
+            "text": "basic science trades in probabilities and uncertainty ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 26,
+            "parent": 25,
+            "text": "while public communication tends to favor more categorical claims . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 27,
+            "parent": 16,
+            "text": "Here , we discuss the ethics",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 28,
+            "parent": 27,
+            "text": "of communicating scientific results ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 29,
+            "parent": 27,
+            "text": "using , as a case study , the recent controversy",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 30,
+            "parent": 31,
+            "text": "over whether basic life sciences research demonstrates",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 31,
+            "parent": 29,
+            "text": "that Ebola could become transmissible via airborne respiratory droplet nuclei",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 32,
+            "parent": 31,
+            "text": "- popularly known as a virus",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 33,
+            "parent": 32,
+            "text": "becoming \" airborne . \" <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 34,
+            "parent": 35,
+            "text": "We show",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 35,
+            "parent": 16,
+            "text": "how the science does not demonstrate this possibility ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 36,
+            "parent": 35,
+            "text": "despite claims",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 37,
+            "parent": 36,
+            "text": "made in the popular and scientific press . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 38,
+            "parent": 39,
+            "text": "We then recommend",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 39,
+            "parent": 35,
+            "text": "that uncertain scientific results in the context of public health crises ought to be communicated with humility , an emphasis on what is unknown , and a clear outline of the kinds of evidence",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 40,
+            "parent": 39,
+            "text": "that would give proof to controversial claims . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

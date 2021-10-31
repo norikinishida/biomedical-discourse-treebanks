@@ -1,0 +1,208 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "BACKGROUND : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 2,
+            "parent": 10,
+            "text": "Evaluation of interindividual variability is a challenging step in risk assessment . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "For most environmental pollutants ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "including perchloroethylene ( PERC ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "experimental data are lacking ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "resulting in default assumptions",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "being used",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "to account for variability in toxicokinetics and toxicodynamics . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 9,
+            "parent": 10,
+            "text": "OBJECTIVE : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 10,
+            "parent": 0,
+            "text": "We quantitatively examined the relationship between PERC toxicokinetics and toxicodynamics at the population level",
+            "relation": "ROOT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "to test whether individuals with increased oxidative metabolism are be more sensitive to hepatotoxicity",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "following PERC exposure . <S>",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 13,
+            "parent": 14,
+            "text": "METHODS : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 14,
+            "parent": 10,
+            "text": "Male mice from 45 strains of the Collaborative Cross ( CC ) were orally administered a single dose of PERC",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "( 1,000 mg / kg )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "or vehicle",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "( Alkamuls - EL620 )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 16,
+            "text": "and euthanized at various time points",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "( n = 1 = strain = time ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 14,
+            "text": "Concentration - time profiles were generated for PERC and its primary oxidative metabolite trichloroacetate ( TCA ) in multiple tissues . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "Toxicodynamic phenotyping was also performed . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 23,
+            "text": "RESULTS : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 23,
+            "parent": 10,
+            "text": "Significant variability among strains was observed in toxicokinetics of PERC and TCA in every tissue examined . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 24,
+            "parent": 25,
+            "text": "Based on area under the curve ( AUC ) ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 25,
+            "parent": 23,
+            "text": "the range of liver TCA levels spanned nearly an order of magnitude",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 26,
+            "parent": 25,
+            "text": "( \u223c 8-fold ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 27,
+            "parent": 25,
+            "text": "Expression of liver cytochrome P4502E1 did not correlate with TCA levels . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 28,
+            "parent": 27,
+            "text": "Toxicodynamic phenotyping revealed an effect of PERC on bodyweight loss , induction of peroxisome proliferator activated receptor - alpha ( PPARa)-regulated genes , and dysregulation of hepatic lipid homeostasis . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 29,
+            "parent": 28,
+            "text": "Clustering was observed among a ) liver levels of PERC , TCA , and triglycerides ; b ) TCA levels in liver and kidney ; and c ) TCA levels in serum , brain , fat , and lung . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 30,
+            "parent": 32,
+            "text": "CONCLUSIONS : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 31,
+            "parent": 32,
+            "text": "Using the CC mouse population model ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 32,
+            "parent": 10,
+            "text": "we have demonstrated a complex and highly variable relationship between PERC and TCA toxicokinetics and toxicodynamics at the population level . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 33,
+            "parent": 10,
+            "text": "https://doi . <S> <P>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        }
+    ]
+}

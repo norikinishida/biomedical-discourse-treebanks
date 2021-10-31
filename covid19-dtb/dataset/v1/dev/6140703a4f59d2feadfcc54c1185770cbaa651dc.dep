@@ -1,0 +1,166 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "As SARS - COV-2 and the disease COVID-19 is sweeping through countries after countries around the globe ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 2,
+            "parent": 7,
+            "text": "it is critical to understand potential burden of a future outbreak in cities of Colombia . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "This pandemic has affected most of the countries in the world",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "because the high global movement of individuals and excessive cost in interventions . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 5,
+            "parent": 7,
+            "text": "Objective : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 6,
+            "parent": 7,
+            "text": "Using demographic data from city of Cali , disease epidemiological information from affected countries and mathematical models ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "we estimated the rate of initial exponential growth of new cases and the basic reproductive rate for a potential outbreak in city of Cali in Colombia . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 9,
+            "text": "Materials and methods : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "We used dynamical models with different modeling assumptions",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "such as use of various types of interventions and/or epidemiological characteristics",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "to compare and contrast the differences between Colombian cities and between Latin American countries . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 12,
+            "parent": 14,
+            "text": "Results : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 13,
+            "parent": 14,
+            "text": "Under the assumption of homogeneously mixing population and limited resources ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 7,
+            "text": "we predicted expected number of infected , hospitalized , in Intensive Care Units ( ICU ) and deaths during this potential COVID-19 outbreak . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 16,
+            "text": "Our results suggest",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "that on a given day in Cali there may be up to around 73000 cases",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "who might need hospitalization under no intervention . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 16,
+            "text": "However , this number drastically reduces",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "if we carry out only - isolation intervention",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "( with 16 days of symptomatic infection ; ~13,000 cases )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 19,
+            "text": "versus both quarantining for 6 days and isolation within 16 days",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "( ~3500 cases ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 16,
+            "text": "The peak in Cali will reach in 2 - 3 months . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 25,
+            "text": "Conclusions . <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 25,
+            "parent": 7,
+            "text": "The estimates from these studies provides different scenarios of outbreaks",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 26,
+            "parent": 25,
+            "text": "and can help Cali to be better prepared during the ongoing COVID-19 outbreak . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

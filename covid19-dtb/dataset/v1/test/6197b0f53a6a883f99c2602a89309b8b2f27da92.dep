@@ -1,0 +1,106 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 7,
+            "text": "The early detection of SARS - CoV-2 , the causative agent of ( COVID-19 ) is now a critical task for the clinical practitioners . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "The COVID-19 spread is announced as pandemic outbreak between people worldwide by WHO since 11/ March/ 2020 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "In this consequence , it is top critical priority to become aware of the infected people",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "so that prevention procedures can be processed",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "to minimize the COVID-19 spread",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "and to begin early medical health care of those infected persons . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "In this paper , the deep studying based totally methodology is usually recommended for the detection of COVID-19 infected patients",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "using X - ray images . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "The help vector gadget classifies the corona affected X - ray images from others through usage of the deep features . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "The technique is useful for the clinical practitioners for early detection of COVID-19 infected patients . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 7,
+            "text": "The suggested system of multi - level thresholding plus SVM presented high accuracy in classification of the infected lung with Covid-19 . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 12,
+            "parent": 7,
+            "text": "All images were of the same size",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "and stored in JPEG format with 512 * 512 pixels . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 14,
+            "parent": 11,
+            "text": "The average sensitivity , specificity , and accuracy of the lung classification",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "using the proposed model results",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "were 95.76 % , 99.7 % , and 97.48 % , respectively . <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

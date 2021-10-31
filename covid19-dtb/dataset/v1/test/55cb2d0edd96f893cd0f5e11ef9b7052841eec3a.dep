@@ -1,0 +1,154 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 15,
+            "text": "Tuberculosis is the deadliest infection of our time . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "In contrast , about 11,000 people died of Ebola between 2014 and 2016 . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 3,
+            "parent": 4,
+            "text": "Despite this manifest difference in mortality ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "there is now a vaccine",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "licensed in the United States and by the European Medicines Agency ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "with up to 100 % efficacy against Ebola . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 7,
+            "parent": 4,
+            "text": "The developments",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "that led to the trialing of the Ebola vaccine",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "were historic and unprecedented . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 10,
+            "parent": 4,
+            "text": "The single licensed TB vaccine ( BCG ) has limited efficacy . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "There is a dire need for a more efficacious TB vaccine . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 12,
+            "parent": 13,
+            "text": "To deploy such vaccines ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "trials are needed in sites",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "that combine high disease incidence and research infrastructure . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 0,
+            "text": "We describe our twelve - year experience",
+            "relation": "ROOT"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "building a TB vaccine trial site",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "in contrast to the process in the recent Ebola outbreak . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 18,
+            "parent": 15,
+            "text": "There are additional differences . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 20,
+            "text": "Relative to the Ebola pipeline ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 20,
+            "parent": 18,
+            "text": "TB vaccines have fewer trials and a paucity of government and industry led trials . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 22,
+            "text": "While pathogens have varying levels of difficulty in the development of new vaccine candidates ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 22,
+            "parent": 20,
+            "text": "there yet appears to be greater interest in funding and coordinating Ebola interventions . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 20,
+            "text": "TB is a global threat",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "that requires similar concerted effort for elimination . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Background : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 2,
+            "parent": 10,
+            "text": "Host proteases have been shown to play important roles in many viral activities",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "such as entry , uncoating , viral protein production and disease induction . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "Therefore , these cellular proteases are putative targets for the development of antivirals",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "that inhibit their activity . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 2,
+            "text": "Host proteases have been described to play essential roles in Ebola , HCV , HIV and influenza ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "such that specific protease inhibitors are able to reduce infection . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "RSV utilizes a host protease in its replication cycle",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "but its potential as antiviral target is unknown . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 10,
+            "parent": 0,
+            "text": "Therefore , we evaluated the effect of protease inhibitors on RSV infection . <S> <P>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 11,
+            "parent": 12,
+            "text": "To measure the sensitivity of RSV infection to protease inhibitors ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "cells were infected with RSV",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "and incubated for 18 h in the presence or absence of the inhibitors . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "Cells were fixed , stained and studied",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "using fluorescence microscopy . <S> <P>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 16,
+            "parent": 17,
+            "text": "Results : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 17,
+            "parent": 10,
+            "text": "Several protease inhibitors ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "representing different classes of proteases",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "( AEBSF , Pepstatin A , E-64 , TPCK , PMSF and aprotinin ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 17,
+            "text": "were tested for inhibitory effects on an RSV A2 infection of HEp-2 cells . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 21,
+            "parent": 17,
+            "text": "Different treatment durations ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "ranging from 1 h prior to inoculation",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "and continuing for 18 h during the assay ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 24,
+            "parent": 21,
+            "text": "were evaluated . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 25,
+            "parent": 17,
+            "text": "Of all the inhibitors",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 26,
+            "parent": 25,
+            "text": "tested ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 27,
+            "parent": 25,
+            "text": "AEBSF and TPCK significantly decreased RSV infection . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 28,
+            "parent": 29,
+            "text": "To ascertain",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 29,
+            "parent": 31,
+            "text": "that the observed effect of AEBSF was not a specific feature",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 30,
+            "parent": 29,
+            "text": "related to HEp-2 cells ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 31,
+            "parent": 17,
+            "text": "A549 and BEAS-2B cells were also used . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 32,
+            "parent": 31,
+            "text": "Similar to HEp-2 , an almost complete block in the number of RSV infected cells after 18 h of incubation was observed",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 33,
+            "parent": 32,
+            "text": "and the effect was dose - dependent . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 34,
+            "parent": 35,
+            "text": "To gain insight into the mechanism of this inhibition ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 35,
+            "parent": 31,
+            "text": "AEBSF treatment was applied during different phases of an infection cycle",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 36,
+            "parent": 35,
+            "text": "( pre- , peri - and post - inoculation treatment ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 37,
+            "parent": 38,
+            "text": "The results from these experiments indicate",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 38,
+            "parent": 35,
+            "text": "that AEBSF is mainly active during the early entry phase of RSV . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 39,
+            "parent": 38,
+            "text": "The inhibitory effect was also observed with other RSV isolates A1998/3 - 2 and A2000/3 - 4 ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 40,
+            "parent": 41,
+            "text": "suggesting",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 41,
+            "parent": 39,
+            "text": "that this is a general feature of RSV . <S> <P>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 42,
+            "parent": 43,
+            "text": "Conclusion : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 43,
+            "parent": 10,
+            "text": "RSV infection can be inhibited by broad serine protease inhibitors , AEBSF and TPCK . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 44,
+            "parent": 45,
+            "text": "We confirmed",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 45,
+            "parent": 43,
+            "text": "that AEBSF inhibition is independent of the cell line",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 46,
+            "parent": 45,
+            "text": "used or RSV strain . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 47,
+            "parent": 45,
+            "text": "The time point",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 48,
+            "parent": 47,
+            "text": "at which treatment with the inhibitor was most potent ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 49,
+            "parent": 47,
+            "text": "was found to coincide with the expected moment of entry of the virion with the host cell . <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

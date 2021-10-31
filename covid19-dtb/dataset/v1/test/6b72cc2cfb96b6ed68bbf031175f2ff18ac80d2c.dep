@@ -1,0 +1,172 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 18,
+            "text": "Severe acute respiratory syndrome coronavirus 2 ( SARS - CoV-2 ) caused the COVID-19 pandemic",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "that has been spreading around the world since December 2019 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "More than 10 million affected cases and more than half a million deaths have been reported so far ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "while no vaccine is yet available as a treatment . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 5,
+            "parent": 6,
+            "text": "Considering the global healthcare urgency ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 6,
+            "parent": 1,
+            "text": "several techniques ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "including whole genome sequencing and computed tomography imaging",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "have been employed",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "for diagnosing infected people . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 10,
+            "parent": 6,
+            "text": "Considerable efforts are also directed at detecting and preventing different modes of community transmission . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "Among them is the rapid detection of virus presence on different surfaces",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "with which people may come in contact . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "Detection",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "based on non - contact optical techniques",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "is very helpful in managing the spread of the virus , and to aid in the disinfection of surfaces . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 16,
+            "parent": 13,
+            "text": "Nanomaterial - based methods are proven suitable for rapid detection . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 18,
+            "text": "Given the immense need for science led innovative solutions ,",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 18,
+            "parent": 0,
+            "text": "this manuscript critically reviews recent literature",
+            "relation": "ROOT"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "to specifically illustrate nano - engineered effective and rapid solutions . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 20,
+            "parent": 18,
+            "text": "In addition , all the different techniques are critically analyzed ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "compared ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 22,
+            "parent": 20,
+            "text": "and contrasted",
+            "relation": "JOINT"
+        },
+        {
+            "id": 23,
+            "parent": 20,
+            "text": "to identify the most promising methods . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 24,
+            "parent": 20,
+            "text": "Moreover , promising research ideas for high accuracy of detection in trace concentrations , via color change and light - sensitive nanostructures ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 25,
+            "parent": 24,
+            "text": "to assist fingerprint techniques",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 26,
+            "parent": 25,
+            "text": "( to identify the virus at the contact surface of the gas and solid phase )",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 27,
+            "parent": 24,
+            "text": "are also presented . <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

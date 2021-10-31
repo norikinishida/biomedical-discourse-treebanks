@@ -1,0 +1,94 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 9,
+            "text": "The mechanisms of inflammation and cancer are intertwined by complex networks of signaling pathways . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "Dysregulations in the Janus kinase / signal transducer and activator of transcription ( JAK / STAT ) pathway underlie several pathogenic conditions",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "related to chronic inflammatory states , autoimmune diseases and cancer . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "Historically , the potential application of JAK inhibition has been thoroughly explored ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "thus triggering an escalation of favorable results in this field . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "So far , five JAK inhibitors have been approved by the Food and Drug Administration ( FDA ) for the treatment of different diseases . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 8,
+            "text": "Considering the complexity of JAK - depending processes and their involvement in multiple disorders ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "JAK inhibitors are the perfect candidates for drug repurposing and for the assessment of multitarget strategies . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 0,
+            "text": "Herein we reviewed the recent progress",
+            "relation": "ROOT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "concerning JAK inhibition ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "including the innovations",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "provided by the release of JAKs crystal structures",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "and the improvement of synthetic strategies",
+            "relation": "JOINT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "aimed to simplify of the industrial scale - up . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

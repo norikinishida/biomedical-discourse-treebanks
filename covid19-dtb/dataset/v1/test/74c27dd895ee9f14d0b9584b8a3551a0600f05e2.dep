@@ -1,0 +1,148 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 13,
+            "text": "Plant artificial micro - RNAs ( amiRs ) have been engineered",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "to target viral genomes",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "and induce their degradation . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "However , the exceptional evolutionary plasticity of RNA viruses threatens the durability of the resistance",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "conferred by these amiRs . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "It has recently been shown that viral populations",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "not experiencing strong selective pressure from an antiviral amiR",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "may already contain enough genetic variability in the target sequence",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "to escape plant resistance in an almost deterministic manner . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 10,
+            "parent": 6,
+            "text": "Furthermore , it has also been shown that viral populations",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "exposed to subinhibitory concentrations of the antiviral amiR",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "speed up this process . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 13,
+            "parent": 0,
+            "text": "In this article , we have characterized the molecular evolutionary dynamics of an amiR target sequence in a viral genome under both conditions . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "The use of Illumina ultradeep sequencing has allowed us to identify virus sequence variants at frequencies as low as 2 \u00c2 10 \u00c06 and to track their variation in time",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "before and after the viral population was able of successfully infecting plants fully resistant to the ancestral virus . <S>",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 16,
+            "parent": 17,
+            "text": "We found",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 17,
+            "parent": 13,
+            "text": "that every site in the amiR - target sequence of the viral genome presented variation",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "and that the variant",
+            "relation": "JOINT"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "that eventually broke resistance",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 18,
+            "text": "was sampled among the many coexisting ones . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 21,
+            "parent": 17,
+            "text": "In this system , viral evolution in fully susceptible plants results from an equilibrium between mutation and genetic drift ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "whereas evolution in partially resistant plants originates from more complex dynamics",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "involving mutation , selection , and drift . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

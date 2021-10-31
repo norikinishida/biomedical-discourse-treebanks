@@ -1,0 +1,130 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 16,
+            "text": "The COVID-19 pandemic has resulted in a proliferation of clinical trials",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "that are designed",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "to slow the spread of SARS - CoV-2 , the virus",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "that causes COVID-19 . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "The overwhelming majority of cardiovascular and cancer patients are at increased risk for SARS - CoV-2 infection ;",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "accordingly , the cardiovascular and cardio - oncology communities are playing a major role",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "in caring for COVID-19 patients . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "Many of the therapeutic agents",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "that are being used",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "to treat patients with COVID-19",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 11,
+            "parent": 8,
+            "text": "are repurposed treatments for influenza , drugs",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "that were not effective in Ebola patients ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "or treatments for malaria",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "that were developed decades ago ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 11,
+            "text": "and are unlikely to be familiar to the cardiovascular and cardio - oncology communities . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 16,
+            "parent": 0,
+            "text": "Here we have provided a foundation for cardiovascular and cardio - oncology physicians",
+            "relation": "ROOT"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "who are on the frontline",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "providing care to COVID-19 patients ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 16,
+            "text": "so that they can better understand the emerging cardiovascular epidemiology of COVID-19 , as well as the biological rationale for the clinical trials",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "that are ongoing for the treatment of COVID-19 patients . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 7,
+            "text": "The world is facing a medical crisis amid the CoViD-19 pandemic",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "and the role of adequate hygiene and hand sanitisers is inevitable",
+            "relation": "JOINT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "in controlling the spread of infection in public places and healthcare institutions . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "There has been a great surge in demand for hand sanitisation products",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "leading to shortages in their supply . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "A consequent increase of substandard products in the market has raised safety concerns . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "This article , therefore , presents a critical review of hand sanitation approaches and products available on the market in light of the scientific evidence available to date . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "This review also provides a range of hand sanitisation product formulations , and manufacturing instructions",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "to allow for extemporaneous preparations at the community and hospital pharmacies during this urgent crisis . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 10,
+            "parent": 13,
+            "text": "In addition , this emergent situation is expected to continue ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "hence hand sanitisers will be in demand for an extended time ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "and the availability and purchase of substandard products on the market create an ongoing safety concern . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 13,
+            "parent": 8,
+            "text": "Therefore , this article shall also provide various commercial organisations ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "interested in stepping forward the production and marketing of hand sanitisers , with a guide on the development of products of standardised ingredients and formulations . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

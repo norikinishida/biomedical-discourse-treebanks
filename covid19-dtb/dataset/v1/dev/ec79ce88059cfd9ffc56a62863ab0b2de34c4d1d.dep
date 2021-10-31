@@ -1,0 +1,184 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Background : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 2,
+            "parent": 8,
+            "text": "Public health and health promotion rely on many different interventions ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "which range from health education and communication , through community mobilisation and changes to environmental conditions , to legal and fiscal actions . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "The introduction of the increased tax on sugar - sweetened beverages ( SSB ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "popularly called sugar tax ( ST ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "and a mandatory programme of vaccinations are the strategies",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "inciting the most vivid discussions in Polish society . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 0,
+            "text": "The study was intended to assess the determinants of the attitudes of Polish society",
+            "relation": "ROOT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "regarding the ST and to vaccinations . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 11,
+            "text": "Methods : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 11,
+            "parent": 8,
+            "text": "For the analysis , the data",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "originating from the survey of a representative adult sample of Polish society",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "( n = 1000 )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 11,
+            "text": "was used . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 15,
+            "parent": 11,
+            "text": "The survey was based on computer - assisted telephone interviewing ( CATI ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 11,
+            "text": "The assessment of the relationships between the selected variables and the opinions about the introduction of the ST and the safety and effectiveness of vaccinations were carried out",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "using the chi 2 test and univariate logistic regression models . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 18,
+            "parent": 19,
+            "text": "Results : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 19,
+            "parent": 8,
+            "text": "The acceptance of the ST and vaccination showed a significant relationship to the level of health literacy ( HL ) but not to eHealth literacy ( eHL ) . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "Respondents",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "having a higher rather than lower HL ; older rather than younger ; married rather than singles ; retired , or on a disability pension , rather than vocationally active and nonusers of the Internet rather than users",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 20,
+            "text": "were more likely to show an acceptance for both interventions . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 23,
+            "parent": 20,
+            "text": "Those",
+            "relation": "JOINT"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "more frequently using health care services",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 25,
+            "parent": 23,
+            "text": "and those with chronic diseases showed a greater belief in the safety and effectiveness of vaccinations . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 26,
+            "parent": 27,
+            "text": "Conclusions : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 27,
+            "parent": 8,
+            "text": "The relationship between the opinions of the two public health interventions analysed and the sociodemographic variables demonstrated similar patterns . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 28,
+            "parent": 27,
+            "text": "Interestingly , the opinions were associated only with HL and not with eHL",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 29,
+            "parent": 28,
+            "text": "and users of the Internet were more sceptical about the interventions . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

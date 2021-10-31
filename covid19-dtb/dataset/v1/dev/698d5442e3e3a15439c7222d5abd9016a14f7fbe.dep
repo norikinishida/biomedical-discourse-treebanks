@@ -1,0 +1,106 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 3,
+            "text": "With growing evidence of inhalation of small infectious particles as an important mode of transmission for SARS - CoV-2 , workplace risk assessments should focus on eliminating or minimizing such exposures",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "by applying the hierarchy of controls . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "We adapt a control banding model for aerosol - transmissible infectious disease pandemic planning",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to encourage the use of source and pathway controls before receptor controls",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "( personal protective equipment ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 9,
+            "text": "Built on the recognition",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "that aerosol - transmissible organisms are likely to exhibit a dose - response function ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "such that higher exposures result from longer contact times or higher air concentrations ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 3,
+            "text": "this control banding model offers a systematic method",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "for identifying a set of source and pathway controls",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "that could eliminate or reduce the need for receptor controls . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 12,
+            "parent": 9,
+            "text": "We describe several examples for workers at high risk of exposure in essential or return to work categories . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 3,
+            "text": "The goal",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "of using control banding for such workers",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "is to develop effective infection and disease prevention programs",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "and conserve personal protective equipment . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

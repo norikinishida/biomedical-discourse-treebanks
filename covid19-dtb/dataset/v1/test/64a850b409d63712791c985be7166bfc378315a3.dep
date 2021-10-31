@@ -1,0 +1,106 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 5,
+            "text": "The novel coronavirus ' high rate of asymptomatic transmission",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "combined with a lack of testing kits",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "call for a different approach",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to monitor its spread and severity . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 0,
+            "text": "We proposed the use of hospitalizations and hospital utilization data",
+            "relation": "ROOT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "to monitor the spread and severity . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "A proposed threshold of a declining 7-day moving average over a 14-day period , \" 7&14 \" was set",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "to communicate when a wave of the novel coronavirus may have passed . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "The state of Ohio was chosen",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "to illustrate this threshold . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 11,
+            "parent": 13,
+            "text": "While not the ideal solution",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "for monitoring the spread of the epidemic ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 5,
+            "text": "the proposed approach is an easy to implement framework",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "accounting for limitations of the data",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "inherent in the current epidemic . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 5,
+            "text": "Hospital administrators and policy makers may benefit from incorporating this approach into their decision making . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

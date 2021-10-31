@@ -1,0 +1,178 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 3,
+            "text": "Angiotensin II ( Ang II ) plays an important role in cardiomyocyte hypertrophy . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "The combined effect of hepatocyte growth factor ( HGF ) and Ang II on cardiomyocytes is unknown . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "The present study was designed",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to determine the effect of HGF on cardiomyocyte hypertrophy",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "and to explore the combined effect of HGF and Ang II on cardiomyocyte hypertrophy . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 6,
+            "parent": 3,
+            "text": "Primary cardiomyocytes were isolated from neonatal rat hearts",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "and cultured in vitro . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "Cells were treated with Ang II",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "( 1 \u00b5M )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "alone , HGF",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "( 10 ng / mL )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "alone , and Ang II",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "( 1 \u00b5M )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "plus HGF",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "( 10 ng / mL )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "for 24 , 48 , and 72 h. <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 17,
+            "parent": 6,
+            "text": "The amount of [ 3 H]-leucine incorporation was then measured",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "to evaluate protein synthesis . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 19,
+            "parent": 17,
+            "text": "The mRNA levels of \u03b2 - myosin heavy chain and atrial natriuretic factor were determined by real - time PCR",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "to evaluate the presence of fetal phenotypes of gene expression . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 21,
+            "parent": 19,
+            "text": "The cell size of cardiomyocytes was also studied . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 3,
+            "text": "Ang II",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "( 1 \u00b5M )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 22,
+            "text": "increased cardiomyocyte hypertrophy . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 25,
+            "parent": 22,
+            "text": "Similar to Ang II , treatment with 1 \u00b5M HGF promoted cardiomyocyte hypertrophy . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 26,
+            "parent": 25,
+            "text": "Moreover , the combination of 1 \u00b5M Ang II and 10 ng / mL HGF clearly induced a combined pro - hypertrophy effect on cardiomyocytes . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 27,
+            "parent": 3,
+            "text": "The present study demonstrates for the first time a novel , combined effect of HGF and Ang II",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 28,
+            "parent": 27,
+            "text": "in promoting cardiomyocyte hypertrophy . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "We compared the prevalence of 8 polymorphisms in the tumor necrosis factor and mannose - binding lectin genes among 105 children and young adults with fatal infl uenza with US population estimates",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "and determined in subanalyses whether these polymorphisms were associated with sudden death and bacterial co - infection among persons with fatal infl uenza . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "No differences were observed in genotype prevalence or minor allele frequencies between persons with fatal infl uenza and the reference sample . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "Fatal cases with low - producing MBL2 genotypes had a 7-fold increased risk for invasive methicillin - resistant Staphylococcus aureus ( MRSA ) co - infection",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "compared with fatal cases with highand intermediate - producing MBL2 genotypes",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "( odds ratio 7.1 , 95 % confi dence interval 1.6 - 32.1 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 4,
+            "text": "Limited analysis of 2 genes important to the innate immune response found no association between genetic variants and fatal infl uenza infection . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "Among children and young adults",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "who died of infl uenza ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "low - producing MBL2 genotypes may have increased risk for MRSA co - infection . <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

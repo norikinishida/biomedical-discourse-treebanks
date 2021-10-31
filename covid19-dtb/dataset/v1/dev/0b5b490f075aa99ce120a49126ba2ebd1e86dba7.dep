@@ -1,0 +1,112 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 5,
+            "text": "Immunological impairment by porcine circovirus type 2 ( PCV2 ) infection is well documented in pigs",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "suffering from postweaning multisystemic wasting syndrome . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "Nonetheless , little is known about immune status of pigs",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "that remain PCV2 subclinically infected . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 0,
+            "text": "Thus , seven pigs",
+            "relation": "ROOT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "successfully infected in an experimental inoculation and without developing disease",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "and nine control non - inoculated pigs were examined . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 8,
+            "parent": 5,
+            "text": "Serological , virological and immunological determinations were done throughout ten weeks post - infection ( PI ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 5,
+            "text": "At week 3 PI , inoculated animals presented the peak of viremia",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "and produced higher levels of IL-10 than the controls ;",
+            "relation": "JOINT"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "correlation between viral load and IL-10 amounts was observed",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "( p < 0.05 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 9,
+            "text": "Also , the ratio IgM / IgG suffered a shift skewing IgM production towards an IgG response . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "By 10 weeks PI , levels of IL-10 disappeared",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "and the viremia decreased . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 16,
+            "parent": 5,
+            "text": "In summary , subclinically PCV2-infected pigs developed a transient PCV2-specific IL-10 response during the viremic phase of infection",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "which coincided with the inversion of the IgM / IgG ratio . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

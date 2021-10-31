@@ -1,0 +1,142 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "In this study , the susceptibility of porcine peripheral blood monocytes ( BMo ) , peritoneal macrophages ( PMf ) and alveolar macrophages ( AMf ) to PRRSV was examined . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 3,
+            "text": "To test the effect of differentiation and activation on their susceptibility ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "AMf and BMo were aged ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "cultivated in either adhesion or suspension",
+            "relation": "JOINT"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "and treated with bacterial lipopolysaccharide ( LPS ) and phorbol myristate acetate ( PMA ) . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 6,
+            "parent": 1,
+            "text": "It was found that freshly isolated PMf and BMo were non - permissive to PRRSV . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "PMf remained refractory",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "but a few BMo became susceptible after 1 day cultivation . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 9,
+            "parent": 6,
+            "text": "AMf were permissive with a significant increase of their susceptibility after one day cultivation . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "In a binding assay , it was demonstrated that the attachment of biotinylated PRRSV to AMf is much more efficient than to PMf and BMo . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "Two monoclonal antibodies ( Mabs ) 41D3 and 41D5",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "which block PRRSV infection of AMf",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "and are directed against a candidate receptor for PRRSV",
+            "relation": "JOINT"
+        },
+        {
+            "id": 14,
+            "parent": 11,
+            "text": "only reacted with the cell membrane of AMf . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 15,
+            "parent": 11,
+            "text": "PMA treatment of AMf blocked PRRSV replication in the cells in a dose - dependent manner . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "The blocking effect of PMA decreased after 9 h continuous pre - treatment",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "and diminished after 24 h continuous pre - treatment . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 18,
+            "parent": 15,
+            "text": "PMA treatment did not affect the binding of PRRSV and MAb 41D3 and 41D5 to AMf . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 9,
+            "text": "Direct or indirect treatment of AMf and BMo with LPS or cultivation in suspension did not significantly affect their susceptibility . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 1,
+            "text": "These results provide clear evidence",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "that PRRSV has a strongly restricted tropism for only some sub - populations of porcine monocytes / macrophages",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "and that some specific states of differentiation and activation of monocytes / macrophages considerably affect their susceptibility . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

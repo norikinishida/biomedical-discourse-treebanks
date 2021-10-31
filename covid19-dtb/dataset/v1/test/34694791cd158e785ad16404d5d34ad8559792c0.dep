@@ -1,0 +1,190 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 22,
+            "text": "Recently a number of publications looked at the association between COVID-19 morbidity and mortality on one hand and countries ' policies with respect to BCG vaccination on the other . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "This connection arises from differences in the rates of infection in countries",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "where BCG vaccination is mandatory",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "compared to countries",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "where mandatory vaccination no longer exists",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "or was never implemented in the first place . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 7,
+            "parent": 2,
+            "text": "In at least 2 preprint publications the authors expressed the view",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "that the \" known immunological benefits \" of BCG vaccination may be behind the biological mechanism of such observation . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "One study accounted for different income levels in different groups . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "Another study did not attempted to do so ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "instead exploring the differences between countries",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "where a booster shot is given",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "vs others",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "where no such practice exists ( finding no connection ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 7,
+            "text": "Both of these studies did not explore other potential confounding factors . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "Meanwhile the press has focused on these headlines",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "and pushed the narrative",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "that BCG vaccination is causally linked to infection and mortality rates . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 16,
+            "text": "This poses a serious challenge ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "demonstrated by the recently initiated clinical trials on BCG vaccination within the COVID19 context . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 22,
+            "text": "This study shows",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 22,
+            "parent": 0,
+            "text": "that population age is a very significant confounding factor",
+            "relation": "ROOT"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "that explains the rates of infections much better",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "and has a solid biology mechanism",
+            "relation": "JOINT"
+        },
+        {
+            "id": 25,
+            "parent": 24,
+            "text": "which explains this correlation . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 26,
+            "parent": 27,
+            "text": "It suggests",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 27,
+            "parent": 22,
+            "text": "that BCG vaccination may have little or no causal link to infection rates",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 28,
+            "parent": 29,
+            "text": "and advises",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 29,
+            "parent": 27,
+            "text": "that any follow up studies should control for several confounding factors ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 30,
+            "parent": 29,
+            "text": "such as population age , ethnicity , rates of certain chronic diseases , time from community spread start date , major public policy decisions and income levels . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

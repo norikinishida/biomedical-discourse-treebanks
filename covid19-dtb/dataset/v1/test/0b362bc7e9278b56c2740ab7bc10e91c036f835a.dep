@@ -1,0 +1,82 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "We study seasonal epidemic spreading in a susceptible - infected - removed - susceptible ( SIRS ) model on smallworld graphs . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "We derive a mean - field description",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "that accurately captures the salient features of the model , most notably a phase transition between annual and biennial outbreaks . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "A numerical scaling analysis exhibits a diverging autocorrelation time in the thermodynamic limit ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "which confirms the presence of a classical discrete time crystalline phase . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "We derive the phase diagram of the model both from mean - field theory and from numerics . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 1,
+            "text": "Our work offers new perspectives",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 8,
+            "parent": 9,
+            "text": "by demonstrating",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "that small - worldness and non - Markovianity can stabilize a classical discrete time crystal ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "and by linking recent efforts",
+            "relation": "JOINT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "to understand such dynamical phases of matter",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "to the century - old problem of biennial epidemics . <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

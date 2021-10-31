@@ -1,0 +1,136 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 4,
+            "text": "The 2019-nCoV outbreak has raised concern of global spread . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 3,
+            "text": "While person - to - person transmission within the Wuhan district has led to a large outbreak ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "the transmission potential outside of the region remains unclear . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 0,
+            "text": "Here we present a simple approach",
+            "relation": "ROOT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "for determining whether the upper limit of the confidence interval for the reproduction number exceeds one for transmission in the United States ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "which would allow endemic transmission . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 4,
+            "text": "As of February 7 , 2020 , the number of cases in the United states support subcritical transmission , rather than ongoing transmission . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "However , this conclusion can change",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "if pre - symptomatic cases",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "resulting from human - to - human transmission",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "have not yet been identified . <S> <P>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 12,
+            "parent": 4,
+            "text": "The 2019-nCoV outbreak is a global health risk ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "especially considering the number of patients",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "who have already died",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "after becoming infected in Wuhan , China . <S>",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 16,
+            "parent": 4,
+            "text": "Many initial characterizations of the virus have focused on the basic reproduction number , R ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "which reflects the average number of infections",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "that each new infection causes in a susceptible population . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 20,
+            "text": "Whenever R is greater than one ,",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 20,
+            "parent": 16,
+            "text": "epidemic transition becomes possible",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "and within the Wuhan province , R has been estimated as high as 4.1 1 - 3 . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

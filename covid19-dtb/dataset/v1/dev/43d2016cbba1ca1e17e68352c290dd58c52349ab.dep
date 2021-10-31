@@ -1,0 +1,190 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Background <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 2,
+            "parent": 0,
+            "text": "The aim of this study was to assess multiplex PCR analysis",
+            "relation": "ROOT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "in detecting causative viruses in children with febrile seizures . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 5,
+            "text": "Methods <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 5,
+            "parent": 2,
+            "text": "The study was a retrospective analysis",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "comparing data from a pre - multiplex era ( 2009 ) with a period after the introduction of routine respiratory multiplex analysis ( 2010 - 2013 ) in children with febrile seizures . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 8,
+            "text": "Results <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 8,
+            "parent": 2,
+            "text": "We included 200 children with febrile seizures",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "( mean age : 29.5 \u00b1 1.4.months ; 104 male )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "in the study . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 11,
+            "parent": 8,
+            "text": "In 2009 , in 10 out of 49",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "( 20 % )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "children , microbiology testing",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "( bacterial / fungal )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "was positive",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "compared with a rate of 74 out of 151",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "( 49 % )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 16,
+            "text": "children during 2010 - 2013",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "( p < 0.01 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 11,
+            "text": "The rate of positive virological studies increased from 10",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "( 20 % )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 20,
+            "text": "in 2009 to 73",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "( 48.3 % )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 22,
+            "text": "in the period 2010 - 2013",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 25,
+            "parent": 24,
+            "text": "( p < 0.01 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 26,
+            "parent": 20,
+            "text": "Multiplex PCR analysis confirmed viral infections in 52 of 73 cases",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 27,
+            "parent": 26,
+            "text": "( 71.2 % ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 28,
+            "parent": 29,
+            "text": "Conclusion <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 29,
+            "parent": 2,
+            "text": "Routine multiplex PCR analysis fosters the detection of respiratory viruses in children with febrile seizure . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 30,
+            "parent": 29,
+            "text": "The precise role of multiplex analysis in the J. <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

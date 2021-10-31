@@ -1,0 +1,178 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Background : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 2,
+            "parent": 12,
+            "text": "Human monoclonal antibodies ( mAbs )",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "generated as a result of the immune response",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "are likely to be the most effective therapeutic antibodies , particularly in the case of infectious diseases",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "against which the immune response is protective . <S> <P>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 2,
+            "text": "Human cytomegalovirus ( HCMV ) is an ubiquitous opportunistic virus",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "that is the most serious pathogenic agent in transplant patients . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "The available therapeutic armamentarium",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "( e.g. HCMV hyperimmune globulins or antivirals )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "is associated with severe side effects and the emergence of drug - resistant strains ;",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 11,
+            "parent": 8,
+            "text": "therefore , neutralizing human mAb may be a decisive alternative in the prevention of primary and re - activated HCMV infections in these patients . <S> <P>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 12,
+            "parent": 0,
+            "text": "The purpose of this study was to generate neutralizing mAb against HCMV from the immunological repertoire of immune donors . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "To this aim , we designed an efficient technology",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "relying on two discrete and sequential steps :",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "first , human B - lymphocytes are stimulated with TLR9-agonists and IL-2 ;",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "second ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 18,
+            "text": "after both additives are removed ,",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 18,
+            "parent": 16,
+            "text": "the cells are infected with EBV . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 19,
+            "parent": 20,
+            "text": "Using this strategy",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 20,
+            "parent": 13,
+            "text": "we obtained 29 clones",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "secreting IgG",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "neutralizing the HCMV infectivity ;",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 20,
+            "text": "four among these were further characterized . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 12,
+            "text": "All of the mAbs neutralize the infection in different combinations of HCMV strains and target cells , with a potency ~20 fold higher than that of the HCMV hyperimmune globulins ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 25,
+            "parent": 24,
+            "text": "currently used in transplant recipients . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 26,
+            "parent": 24,
+            "text": "Recombinant human monoclonal IgG1 suitable as a prophylactic or therapeutic tool in clinical applications has been generated . <S> <P>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 27,
+            "parent": 12,
+            "text": "The technology described has proven to be more reproducible , efficient and rapid than previously reported techniques ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 28,
+            "parent": 27,
+            "text": "and can be adopted at low overall costs by any cell biology laboratory for the development of fully human mAbs for immunotherapeutic uses . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

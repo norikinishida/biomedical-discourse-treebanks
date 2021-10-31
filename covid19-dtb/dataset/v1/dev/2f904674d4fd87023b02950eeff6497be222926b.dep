@@ -1,0 +1,94 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 5,
+            "text": "Massive molecular testing for COVID-19 has been pointed as fundamental",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "to moderate the spread of the disease . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "Pooling methods can enhance testing efficiency ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "but they are viable only at very low prevalences of the disease . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 5,
+            "parent": 0,
+            "text": "We propose Smart Pooling , a machine learning method",
+            "relation": "ROOT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "that uses sociodemographic data from patients",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "to increase the efficiency of pooled molecular testing for COVID-19",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "by arranging samples into all - negative pools . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 9,
+            "parent": 5,
+            "text": "We show efficiency gains of 42 % with respect to individual testing at disease prevalence of up to 25 % , a regime",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "in which two - step pooling offers marginal efficiency gains . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "Additionally , we calculate the possible efficiency gains of one - and two - dimensional two - step pooling strategies",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "and present the optimal strategies for disease prevalences up to 25 % . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "We discuss practical limitations",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "to conduct pooling in the laboratory . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

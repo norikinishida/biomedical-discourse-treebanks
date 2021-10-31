@@ -1,0 +1,124 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 8,
+            "text": "A new personal bioaerosol sampler has recently been developed",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "and verified to be very efficient for monitoring of viable airborne bacteria , fungi and viruses . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "The device is capable of providing high recovery rates even for microorganisms",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "which are rather sensitive to physical and biological stresses . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "However , some mathematical procedure is required for realistic calculation of an actual concentration of viable bioaerosols in the air",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "taking into account a rate of inactivation of targeted microorganisms , sampling parameters , and results of microbial analysis",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "of collecting liquid from the sampler . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 0,
+            "text": "In this paper , we develop such procedure along with the model of aerosol propagation for outdoor conditions . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "Combining these procedures allows one to determine the optimal sampling locations for the best possible coverage of the area",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "to be monitored . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 11,
+            "parent": 8,
+            "text": "A hypothetical episode",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "concerned with terrorists ' attack during music concert in the central square of Novosibirsk , Russia",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "was considered",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 14,
+            "parent": 11,
+            "text": "to evaluate possible coverage of the area",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "by sampling equipment",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "to detect bioaerosols at various locations within the square . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 17,
+            "parent": 8,
+            "text": "It was found that , for chosen bioaerosol generation parameters and weather conditions , the new personal sampler would be capable to reliably detect pathogens at all locations",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "occupied by crowd ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 17,
+            "text": "even at distances of up to 600 m from the source . <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

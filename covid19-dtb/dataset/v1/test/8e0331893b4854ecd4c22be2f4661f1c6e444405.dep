@@ -1,0 +1,148 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 7,
+            "text": "Multilayer networks proved to be suitable in extracting and providing dependency information of different complex systems . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "The construction of these networks is difficult",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "and is mostly done with a static approach ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "neglecting time delayed interdependences . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "Tensors are objects",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "that naturally represent multilayer networks",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "and in this paper , we propose a new methodology",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "based on Tucker tensor autoregression",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "in order to build a multilayer network directly from data . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 10,
+            "parent": 7,
+            "text": "This methodology captures within and between connections across layers",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "and makes use of a filtering procedure",
+            "relation": "JOINT"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "to extract relevant information",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "and improve visualization . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 14,
+            "parent": 7,
+            "text": "We show the application of this methodology to different stationary fractionally differenced financial data . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 16,
+            "text": "We argue",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 16,
+            "parent": 7,
+            "text": "that our result is useful to understand the dependencies across three different aspects of financial risk ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "namely market risk , liquidity risk , and volatility risk . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 19,
+            "text": "Indeed , we show",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 19,
+            "parent": 16,
+            "text": "how the resulting visualization is a useful tool for risk managers",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "depicting dependency asymmetries between different risk factors",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "and accounting for delayed cross dependencies . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 22,
+            "parent": 19,
+            "text": "The constructed multilayer network shows a strong interconnection between the volumes and prices layers across all the stocks considered",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "while a lower number of interconnections between the uncertainty measures is identified . <S> <P>",
+            "relation": "COMPARISON"
+        }
+    ]
+}

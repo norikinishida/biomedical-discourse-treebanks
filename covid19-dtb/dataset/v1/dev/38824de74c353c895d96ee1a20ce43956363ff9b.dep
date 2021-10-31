@@ -1,0 +1,160 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 15,
+            "text": "Viruses use cell machinery",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "to replicate their genome",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "and produce viral proteins . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "For this reason , several intracellular factors ,",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "including the redox state ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "might directly or indirectly affect the progression and outcome of viral infection . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 7,
+            "parent": 4,
+            "text": "In physiological conditions , the redox balance between oxidant and antioxidant species is maintained by enzymatic and non - enzymatic systems ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "and it finely regulates several cell functions . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "Different viruses break this equilibrium",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "and induce an oxidative stress",
+            "relation": "JOINT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "that in turn facilitates specific steps of the virus lifecycle",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "and activates an inflammatory response . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 13,
+            "parent": 9,
+            "text": "In this context , many studies highlighted the importance of redox - sensitive pathways as novel cell - based targets for therapies",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "aimed at blocking both viral replication and virus - induced inflammation . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 15,
+            "parent": 0,
+            "text": "In the review , we discuss the most recent findings in this field . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "In particular , we describe the effects of natural or synthetic redox - modulating molecules",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "in inhibiting DNA or RNA virus replication as well as inflammatory pathways . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 16,
+            "text": "The importance of the antioxidant transcription factor Nrf2 is also discussed . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 15,
+            "text": "Most of the data",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "reported here",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 19,
+            "text": "are on influenza virus infection . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 22,
+            "parent": 23,
+            "text": "We believe",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 23,
+            "parent": 15,
+            "text": "that this approach could be usefully applied",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "to fight other acute respiratory viral infections",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 25,
+            "parent": 24,
+            "text": "characterized by a strong inflammatory response , like COVID-19 . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

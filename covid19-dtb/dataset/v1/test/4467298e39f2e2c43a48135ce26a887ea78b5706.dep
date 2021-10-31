@@ -1,0 +1,88 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 10,
+            "text": "The ultimate goal of proteomics is to identify biologically active proteins and to produce them",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "using biotechnology tools",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "such as bacterial hosts . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "However , proteins",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "produced by Escherichia coli",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "must be refolded to their native state . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 7,
+            "parent": 4,
+            "text": "Protein folding liquid chromatography ( PFLC ) is a new method",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "developed in recent years ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "and it is widely used in molecular biology and biotechnology . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 0,
+            "text": "In this paper , the new method , PFLC is introduced",
+            "relation": "ROOT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "and its recent development is reviewed . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "In addition the paper includes definitions , advantages , principles , applications for both laboratory and large scales , apparatus , and effecting factors of PFLC . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "In addition , the role of this method in the future is examined . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

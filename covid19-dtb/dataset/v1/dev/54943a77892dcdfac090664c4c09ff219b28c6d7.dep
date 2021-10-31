@@ -1,0 +1,88 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "Simultaneous extraction and separation of liquiritin , glycyrrhizic acid , and glabridin from licorice were developed by liquidliquid extraction with liquid chromatography separation . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 3,
+            "text": "By utilizing different extraction solvents , procedures , and times ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "the optimum extraction conditions were established . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "The extracts of licorice were separated and determined",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "using a C 18 column with a mobile phase",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "consisting of acetonitrile - water",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "( containing 1.0 % acetic acid )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "with a gradient elution of 0~10 min from 20:80 to 60:40 ( v / v ) . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 9,
+            "parent": 4,
+            "text": "Preparative columns with different packing sizes were investigated",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "to isolate the three compounds from the extracts of licorice . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 11,
+            "parent": 1,
+            "text": "The 12 \u03bcm chromatographic column showed better separation for the three compounds from licorice . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "0.29 mg / g for liquiritin , 1.43 mg / g for glycyrrhizic acid , and 0.07 mg / g for glabridin were obtained",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "and the recoveries were 80.8 , 89.7 , and 72.5 % , respectively . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 7,
+            "text": "Air pollution is the most significant environmental risk factor for all - cause mortality ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "and it has caused substantial disability - adjusted life - years and economic loss . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "Air pollution intensified the mortality during past pandemics , Spanish flu in 1918 and SARS - CoV-1 in 2003 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "It increases host susceptibility and virulence of respiratory infections",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "and reduces viral clearance . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "Thus , a question arises whether there will be any impact of air pollution on the current pandemic coronavirus disease 2019 ( COVID-19 ) ? <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "Thus far , history and science are directing towards an immense potential impact of air pollution on the COVID-19 pandemic . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "Some of the devastated countries with the current pandemic are those with a poor air quality index . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "Further epidemiological and ecological studies are necessary",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "to confirm this association . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 7,
+            "text": "Also , countries must mobilize funding for mitigation of air pollution",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "to benefit environmental health",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "and ameliorate its potential effects on pandemics of the future . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

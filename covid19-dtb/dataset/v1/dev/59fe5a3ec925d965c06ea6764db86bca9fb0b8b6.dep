@@ -1,0 +1,106 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 13,
+            "text": "The novel coronavirus disease 2019 ( COVID-19 ) pandemic is a major global threat",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "affecting millions of lives throughout the world physically and psychologically . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "With the asymptomatic presentation of COVID-19 in many patients and the similarity of its symptoms with the common cold and influenza , the need for accurate information on the disease is very important for its identification and proper management . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "Accurate information on the disease , its prevention and treatment can be disseminated through drug information centers ( DICs ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "DICs are usually staffed by pharmacists and/or clinical pharmacists / pharmacologists . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "DICs are a reliable source of current and unbiased information on COVID-19 and its associated complications ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "including management options for healthcare professionals and the public . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "In addition to health and drug information , pharmacists",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "working in the DICs",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "can be involved in the management of the patients ' health",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "by providing information on home care and safety ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "medication management of patients with chronic comorbid illnesses , and psychological advice . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 13,
+            "parent": 0,
+            "text": "This article explores the possible additional roles",
+            "relation": "ROOT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "DICs can play ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "besides providing drug information within the hospital or in the community . <S> <P>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 13,
+            "text": "All authors have an equal contribution . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Background : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 2,
+            "parent": 6,
+            "text": "HRV infections are generally self - limiting in healthy subjects ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "whereas in immunocompromised hosts HRV infections can lead to severe complications and persistent infections . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "The persistence of HRV shedding could be due to the inefficient immunological control of a single infectious episode . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 5,
+            "parent": 6,
+            "text": "Objectives : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 6,
+            "parent": 0,
+            "text": "To investigate the clinical , virologic and immunologic characteristics of pediatric HSCT recipients with HRV - PI infection . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 7,
+            "parent": 8,
+            "text": "Study design : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "During the period 2006 - 2012 , eight hematopoietic stem cell transplant ( HSCT ) recipients presented with persistent rhinovirus infection",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "( HRV - PI , \u226530 days ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "Viral load and T - CD4 + , T - CD8 + , B and NK lymphocyte counts at the onset of infection were compared with those of fourteen HSCT recipients with acute HRV infection",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "( HRV - AI , \u226415 days ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 13,
+            "text": "Results : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 13,
+            "parent": 6,
+            "text": "The median duration of HRV positivity in patients with HRV - PI was 61 days",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "( range 30 - 174 days )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "and phylogenetic analysis showed the persistence of a single HRV type in all patients",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "( 100 % ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 13,
+            "text": "In HSCT recipients with HRV - PI , T - CD4 + , T - CD8 + and NK cell counts at the onset of infection were significantly lower than those",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "observed in recipients with HRV - AI",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 17,
+            "text": "( p < 0.01 ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 17,
+            "text": "while B cell counts were similar in the two groups",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "( p = 0.25 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 17,
+            "text": "A decrease in HRV load was associated with a significant increase in T - CD4 + , T - CD8 + and NK lymphocyte counts in HRV - PI patients",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "( p < 0.01 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 25,
+            "text": "Conclusions : <S>",
+            "relation": "TEXTUAL-ORGANIZATION"
+        },
+        {
+            "id": 25,
+            "parent": 6,
+            "text": "This study suggests a role for cellular immunity in HRV clearance",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 26,
+            "parent": 25,
+            "text": "and highlights the importance of its recovery for the control of HRV infection in HSCT recipients . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

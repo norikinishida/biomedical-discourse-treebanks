@@ -1,0 +1,58 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "This paper highlights the enormous economic and social impact of COVID-19 with respect to articles",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "that have either prognosticated such a large - scale event , and its economic consequences ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "or have assessed the impacts of other epidemics and pandemics . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "A consideration of possible impacts of COVID-19 on financial markets and institutions , either directly or indirectly , is briefly outlined",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "by drawing on a variety of literatures . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 6,
+            "parent": 1,
+            "text": "A consideration of the characteristics of COVID-19 , along with what research suggests have been the impacts of other past events",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "that in some ways roughly parallel COVID-19 ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "points toward avenues of future investigation . <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

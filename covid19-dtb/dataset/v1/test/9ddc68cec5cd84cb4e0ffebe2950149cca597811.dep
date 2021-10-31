@@ -1,0 +1,154 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 5,
+            "text": "The first person - to - person transmission of the 2019-novel coronavirus in Italy on 21 February 2020 led to an infection chain",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "that represents one of the largest known COVID-19 outbreaks outside Asia . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "Hospitals have been forced to reorganized their units in response",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to prepare for an unforeseen healthcare emergency . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 0,
+            "text": "In this context , our laboratory",
+            "relation": "ROOT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "( Molecular and Genomic Diagnostics Unit , Fondazione Policlinico Universitario Agostino Gemelli IRCCS )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "re - modulated its priorities",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "by temporarily interrupting most of the molecular tests",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "guaranteeing only those",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "considered \" urgent \" and not postponable . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 5,
+            "text": "In particular , this paper details changes",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "regarding the execution of germline BRCA ( gBRCA ) testing in our laboratory . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 5,
+            "text": "A substantial reduction in gBRCA testing",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "( about 60 % )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "compared to the first 2 months of the current year",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 16,
+            "parent": 13,
+            "text": "was registered ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "but the requests have not been reset . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "The requesting physicians were mainly gynaecologists and oncologists . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 13,
+            "text": "These evidences further emphasize the new era of gBRCA testing in the management of cancer patients",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "and confirms definitively the integration of gBRCA testing / Next Generation Sequencing ( NGS ) into clinical oncology . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 13,
+            "text": "Finally , a re - organization of gBRCA testing in our Unit ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "mainly related to delayed and reduced arrival of tests",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 21,
+            "text": "was necessary ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "ensuring , however , a high - quality standard and reliability , mandatory for gBRCA testing in a clinical setting . <S> <P>",
+            "relation": "COMPARISON"
+        }
+    ]
+}

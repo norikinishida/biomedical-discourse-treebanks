@@ -1,0 +1,112 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "The present study is intended to analyze the effect of global quality , perceived value , general satisfaction , and emotions on future behavior patterns among participants in the European Duathlon Championship . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "In this sense , a questionnaire was administered",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "( n = 210 ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "composed of four sections :",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "essential demographic and profiling variables , perceived quality , overall quality , and emotions . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 2,
+            "text": "Consequently , a relational model was designed",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "to be examined by means of structural equation modeling ( SEM ) and fuzzy set qualitative comparative analysis ( fsQCA ) . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 8,
+            "parent": 9,
+            "text": "Results reveal",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 9,
+            "parent": 1,
+            "text": "that global quality and general satisfaction are key dimensions",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "for determining future behaviors of participants ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "but not so the perceived value . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 12,
+            "parent": 9,
+            "text": "Moreover , up to three combinations of these dimensions together with emotions",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "- pleasure and arousal -",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "emerged as enough for depicting future intentions to a great extent . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 15,
+            "parent": 12,
+            "text": "In this line , a remarkably sufficient combination consists of global quality , general satisfaction , pleasure , and arousal . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 1,
+            "text": "These findings will guide organizers to design strategies",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "that provide exciting experiences , as well as quality and satisfaction to the participants of sports events . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

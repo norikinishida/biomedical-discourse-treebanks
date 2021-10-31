@@ -1,0 +1,40 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "We describe the clinical course of 57 children with coronavirus disease 2019 ( COVID-19 )",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "cared for through a single hospital system . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "Most children were mildly symptomatic ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "and only a few patients with underlying medical conditions required hospitalization . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "Systemwide patient evaluation processes allowed for prompt identification and management of patients with COVID-19 . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

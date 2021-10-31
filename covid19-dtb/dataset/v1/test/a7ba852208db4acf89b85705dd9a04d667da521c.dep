@@ -1,0 +1,118 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 8,
+            "text": "Norovirus is a major etiologic agent in worldwide outbreaks of gastroenteritis",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "associated with food as well as person - to - person transmission . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "The ubiquitous nature of Norovirus necessitates simple and rapid detection methods with high accuracy and sensitivity . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "To this end , several investigators have evaluated the usefulness of commercial reverse - transcription loop - mediated isothermal amplification ( RT - LAMP ) kits",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "for detecting Norovirus genogroups I ( GI ) and II ( GII ) . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "In previous studies , the conventional Loopamp kit for Norovirus GII showed a relatively high detection rate ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "while that for Norovirus GI showed a relatively low detection rate . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 8,
+            "parent": 0,
+            "text": "In the present study , clinical Norovirus specimens were used",
+            "relation": "ROOT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "to compare the detection rate of a modified Loopamp kit for Norovirus GI with the rates of the conventional Loopamp kit for Norovirus GI and an ' ' in - house ' ' RT - LAMP GI primer set , methods",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "which had a high detection rate . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 12,
+            "text": "Results from the present study showed",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 12,
+            "parent": 8,
+            "text": "that the modified Loopamp kit for Norovirus GI had a higher detection rate for two viral genotypes",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "( GI.3 , GI.11 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 17,
+            "text": "On comparison with an ' ' in - house ' ' GII primer set",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "using genotype GII.4 viruses",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "circulating recently ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 12,
+            "text": "the detection rate by the Loopamp kit for Norovirus GII was found to be higher , with a 98 % detection rate . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 12,
+            "text": "These results indicate the applicability of the modified LAMP kit for GI and the conventional LAMP kit for GII for detection of Noroviruses in clinical samples . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

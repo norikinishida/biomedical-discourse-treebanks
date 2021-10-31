@@ -1,0 +1,46 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "This paper revisits Jessop 's governance of welfare framework ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 3,
+            "text": "suggesting",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "that in the post - financial crisis era of austerity we need to look again at its analytical dimensions . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "The paper reformulates Jessop 's Schumpeterian Welfare Postnational Regime ideal - type framework through critique ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "and then applies its reformulated Galbrathian , Affluent Postnational Oligarchy ideal - type to the case of the English NHS",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "to present a new political economy of health . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

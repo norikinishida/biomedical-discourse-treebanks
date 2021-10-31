@@ -1,0 +1,100 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "A simulation tool",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "that supports developers to build scenarios automatically in multiple simulation platforms",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "is proposed . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "As an essential part of this simulator , this study proposed an activity schedule generator",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "to mimic the daily life of elderly people",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "living alone . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 4,
+            "text": "This generator outperforms existing methods of activity schedule planning in three aspects : <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "1 ) it is adaptive to the layout of a simulated smart house ; <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "2 ) there is no unspecified time in the timeline of generated schedules ; <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "and 3 ) it generates stable , but not tedious schedules for a number of days . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 11,
+            "parent": 4,
+            "text": "A real - time location data generator is proposed",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "to convert generated schedules to simulated real - time location data of the resident ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "and a proposed interface converts these simulated location data to simulated records of virtual passive infrared ( PIR ) sensors ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "which can be used",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "to optimize placement of PIR sensors in a smart house . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

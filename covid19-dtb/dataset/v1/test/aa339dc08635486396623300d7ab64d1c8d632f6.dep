@@ -1,0 +1,142 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 3,
+            "text": "The attention mechanism has demonstrated superior performance for inference over nodes in graph neural networks ( GNNs ) ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "however , they result in a high computational burden during both training and inference . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "We propose FastGAT , a method",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "to make attention based GNNs lightweight",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "by using spectral sparsification",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "to generate an optimal pruning of the input graph . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 7,
+            "parent": 3,
+            "text": "This results in a per - epoch time",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "that is almost linear in the number of graph nodes",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "as opposed to quadratic . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 10,
+            "parent": 3,
+            "text": "Further , we provide a re - formulation of a specific attention based GNN , Graph Attention Network ( GAT )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "that interprets it as a graph convolution method",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "using the random walk normalized graph Laplacian . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 13,
+            "parent": 14,
+            "text": "Using this framework ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 14,
+            "parent": 15,
+            "text": "we theoretically prove",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 15,
+            "parent": 10,
+            "text": "that spectral sparsification preserves the features",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "computed by the GAT model ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 15,
+            "text": "thereby justifying our FastGAT algorithm . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 18,
+            "parent": 19,
+            "text": "We experimentally evaluate FastGAT on several large real world graph datasets for node classification tasks ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 19,
+            "parent": 3,
+            "text": "FastGAT can dramatically reduce",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "( up to 10x )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 19,
+            "text": "the computational time and memory requirements ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "allowing the usage of attention based GNNs on large graphs . <S> <P>",
+            "relation": "CAUSE-RESULT"
+        }
+    ]
+}

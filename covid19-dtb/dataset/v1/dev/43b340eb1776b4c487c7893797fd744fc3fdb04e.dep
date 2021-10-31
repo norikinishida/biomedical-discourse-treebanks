@@ -1,0 +1,70 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "In this paper , we suggest a real - time online shopper behavior prediction system",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "which predicts the visitor 's shopping intent",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "as soon as the website is visited . <S>",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 4,
+            "parent": 5,
+            "text": "To do that ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "we rely on session and visitor information",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "and we investigate na\u00efve Bayes classifier , C4.5 decision tree and random forest . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "Furthermore , we use oversampling",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "to improve the performance and the scalability of each classifier . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 9,
+            "parent": 10,
+            "text": "The results show",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 10,
+            "parent": 1,
+            "text": "that random forest produces significantly higher accuracy and F1 Score than the compared techniques . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

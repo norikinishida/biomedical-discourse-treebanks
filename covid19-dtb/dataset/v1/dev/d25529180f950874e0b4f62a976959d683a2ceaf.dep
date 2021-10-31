@@ -1,0 +1,106 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 5,
+            "text": "The N - terminal domain of the coronavirus nucleocapsid ( N ) protein adopts a fold",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "resembling a right hand with a flexible , positively charged b - hairpin and a hydrophobic palm . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "This domain was shown to interact with the genomic RNA for coronavirus infectious bronchitis virus ( IBV ) and severe acute respiratory syndrome coronavirus ( SARS - CoV ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 5,
+            "text": "Based on its 3D structure ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 0,
+            "text": "we used site - directed mutagenesis",
+            "relation": "ROOT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "to identify residues",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "essential for the RNA - binding activity of the IBV N protein and viral infectivity . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 5,
+            "text": "Alanine substitution of either Arg-76 or Tyr-94 in the N - terminal domain of IBV N protein led to a significant decrease in its RNA - binding activity and a total loss of the infectivity of the viral RNA to Vero cells . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "In contrast , mutation of amino acid Gln-74 to an alanine ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "which does not affect the binding activity of the N - terminal domain ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "showed minimal , if any , detrimental effect on the infectivity of IBV . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 12,
+            "parent": 8,
+            "text": "This study thus identifies residues",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "critical for RNA binding on the nucleocapsid surface ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "and presents biochemical and genetic evidence",
+            "relation": "JOINT"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "that directly links the RNA binding capacity of the coronavirus N protein to the viral infectivity in cultured cells . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 12,
+            "text": "This information would be useful in development of preventive and treatment approaches against coronavirus infection . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

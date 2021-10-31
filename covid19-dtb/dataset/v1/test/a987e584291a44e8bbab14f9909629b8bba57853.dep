@@ -1,0 +1,58 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 3,
+            "text": "SARS - CoV-2 genetic identification is based on viral RNA extraction prior to RT - qPCR assay ,",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "however recent studies support the elimination of the extraction step . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "Herein , we assessed the RNA extraction necessity ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "by comparing RT - qPCR efficacy in several direct approaches vs. the gold standard RNA extraction ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "in detection of SARS - CoV-2 from laboratory samples as well as clinical Oro - nasopharyngeal SARS - CoV-2 swabs . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 6,
+            "parent": 3,
+            "text": "Our findings show advantage for the extraction procedure ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "however a direct no - buffer approach might be an alternative ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "since it identified up to 70 % of positive clinical specimens . <S> <P>",
+            "relation": "CAUSE-RESULT"
+        }
+    ]
+}

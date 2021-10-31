@@ -1,0 +1,130 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "One hundred and sixty - eight ganglia from 54 cattle",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "aged 10 days to 10 years",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "were examined microscopically . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "Samples from six autonomic ganglia and one sensory ganglion were represented . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "Thirteen animals were clinically normal",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "and 41 were submitted for post - mortem examination . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 7,
+            "parent": 1,
+            "text": "Neuronal vacuolation , spheroid formation , lipofuscin accumulation and central chromatolysis were observed sporadically",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "and were of varying magnitude . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "Neuronal vacuolation and spheroid formation were not age - related changes ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "while lipofuscin accumulation was more common in older animals",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "and central chromatolysis was more common in younger cattle . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 12,
+            "parent": 7,
+            "text": "Nonsuppurative inflammation and neuronophagia were also common findings",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "( 23 out of 54 animals , 42.6 % )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "in autonomic ganglia",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "that did not contain herpesvirus DNA",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "as determined by polymerase chain reaction . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 17,
+            "parent": 12,
+            "text": "Renaut bodies , features of peripheral nerves , were most commonly noted in the vagus . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "None of the histopathological findings were related to any particular disease",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "in which loss of autonomic nervous system function might be expected . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 18,
+            "text": "Furthermore , all changes were as common in clinically normal animals as in animals with disease . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

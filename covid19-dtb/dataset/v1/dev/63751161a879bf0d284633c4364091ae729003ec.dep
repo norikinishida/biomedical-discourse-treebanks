@@ -1,0 +1,232 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Globalization may be viewed as the growing interdependence of countries worldwide through the increasing volume and variety of cross - border transactions in goods and services , and also through the more rapid and widespread diffusion of technology . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 0,
+            "text": "Globalization is not just an economic phenomenon ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "although it is frequently described as such ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 4,
+            "parent": 2,
+            "text": "but includes commerce , disease and travel , and immigration ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "and as such it affects blood safety and supply in various ways . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 6,
+            "parent": 2,
+            "text": "The relatively short travel times",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "offered by modern aviation",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "can result in the rapid spread of blood - borne pathogens",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "before measures",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "to counteract transmission",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "can be put in place ; <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 12,
+            "parent": 6,
+            "text": "this would have happened with SARS",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "if the basic life cycle of the SARS virus did not include an asymptomatic viraemia . <S>",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 14,
+            "parent": 6,
+            "text": "This risk can be amplified by ecological factors",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "which effect the spread of these pathogens",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "once they are transferred to a na\u00efve ecosystem ,",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "as happened with West Nile virus ( WNV ) in North America . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 14,
+            "text": "The rationalization and contraction of the plasma products industry may be viewed as one aspect of globalization",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "imposed by the remorseless inevitability of the market ; <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 20,
+            "parent": 18,
+            "text": "the effect of this development on the safety and supply of products has yet to be seen ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "but the oversight and assurance of a shrinking number of players will present particular challenges . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 22,
+            "parent": 18,
+            "text": "Similarly , the monopolization of technology , through patent enforcement",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "which puts access beyond the reach of developing countries ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 22,
+            "text": "can have an effect on blood safety . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 25,
+            "parent": 2,
+            "text": "The challenges",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 26,
+            "parent": 25,
+            "text": "presented to blood safety by globalization",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 27,
+            "parent": 25,
+            "text": "are heightening the tensions between the traditional focus on the product safety - zero - risk paradigm and the need",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 28,
+            "parent": 27,
+            "text": "to view the delivery of safe blood as an integrated process . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 29,
+            "parent": 27,
+            "text": "As an illustration of this tension , donor deferral measures",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 30,
+            "parent": 29,
+            "text": "imposed by globalization - induced risks",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 31,
+            "parent": 30,
+            "text": "such as vCJD and WNV",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 32,
+            "parent": 29,
+            "text": "have resulted in the loss of the safest and most committed portion of the blood donor population in many Western countries ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 33,
+            "parent": 32,
+            "text": "leading to an increased risk to safety and supply . <S>",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 34,
+            "parent": 2,
+            "text": "It is only through an appreciation of the basic needs of transfusion medicine ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 35,
+            "parent": 34,
+            "text": "including the enunciation of appropriate principles",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 36,
+            "parent": 35,
+            "text": "to manage , rather than eliminate , risks ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 37,
+            "parent": 34,
+            "text": "that the challenges imposed by globalization may be overcome . <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

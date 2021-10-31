@@ -1,0 +1,184 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 4,
+            "text": "The coronavirus disease 2019 pandemic has led to the manufacturing of novel devices",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "to protect clinicians from the risk of transmission ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "including the aerosol box for use during tracheal intubation . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 0,
+            "text": "We evaluated the impact of two aerosol boxes",
+            "relation": "ROOT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "( an early - generation box and a latest - generation box )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 4,
+            "text": "on intubations in patients with severe coronavirus disease 2019 with an in - situ simulation crossover study . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 7,
+            "parent": 4,
+            "text": "The simulated process complied with the Safe Airway Society coronavirus disease 2019 airway management guidelines . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 4,
+            "text": "The primary outcome was intubation time ;",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "secondary outcomes included first - pass success and breaches to personal protective equipment . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 10,
+            "parent": 4,
+            "text": "All intubations were performed by specialist ( consultant ) anaesthetists and video recorded . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "Twelve anaesthetists performed 36 intubations . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 4,
+            "text": "Intubation time with no aerosol box was significantly shorter than with the early - generation box",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "( median ( IQR [ range ] ) 42.9 ( 32.9 - 46.9 [ 30.9 - 57.6])s vs. 82.1 ( 45.1 - 98.3 [ 30.8 - 180.0])s p = 0.002 )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 12,
+            "text": "and the latest - generation box",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "( 52.4 ( 43.1 - 70.3 [ 35.7 - 169.2])s , p = 0.008 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 12,
+            "text": "No intubations without a box took more than 1 min ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "whereas 14",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "( 58 % )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 17,
+            "text": "intubations with a box took over 1 min",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "and 4",
+            "relation": "JOINT"
+        },
+        {
+            "id": 21,
+            "parent": 20,
+            "text": "( 17 % )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 20,
+            "text": "took over 2 min",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "( including one failure ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 16,
+            "text": "Without an aerosol box , all anaesthetists obtained first - pass success . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 25,
+            "parent": 24,
+            "text": "With the early - generation and latest - generation boxes , 9",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 26,
+            "parent": 25,
+            "text": "( 75 % )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 27,
+            "parent": 25,
+            "text": "and 10",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 28,
+            "parent": 27,
+            "text": "( 83 % )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 29,
+            "parent": 27,
+            "text": "participants obtained first - pass success , respectively . <S> <P>",
+            "relation": "SAME-UNIT"
+        }
+    ]
+}

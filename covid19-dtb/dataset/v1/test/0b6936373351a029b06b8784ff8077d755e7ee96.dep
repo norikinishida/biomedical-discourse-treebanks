@@ -1,0 +1,154 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 6,
+            "text": "Ebola virus ( EBOV ) , a non - segmented single - stranded RNA virus , is often - most transmitted through body fluids like sweat , tears , saliva , and nasal secretions . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "Till date , there is no licensed vaccine of EBOV is available in the market ; <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "however , the world is increasingly vulnerable to this emerging threat . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "Hence , it is the need of time to develop a vaccine for EBOV",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "to hinder its dissemination . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 6,
+            "parent": 0,
+            "text": "The current study has been designed for identification and characterization of the potential B and T - cell epitopes",
+            "relation": "ROOT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "using the Immuno - informatics tools ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "and it helped in finding the potent vaccine candidates against EBOV . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 6,
+            "text": "Prediction , antigenicity and allergenicity testing of predicted B and T cells ' epitopes was done",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "as well to identify their potential as a vaccine candidate",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "and to measure their safety level respectively . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 12,
+            "parent": 6,
+            "text": "Among B - cell epitopes \" WIPAGIGVTGVIIA \" showed a high antigenicity score",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "and it would play an important role",
+            "relation": "JOINT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "in evoking the immune response . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 12,
+            "text": "In T - cell epitopes , peptides \" AIGLAWIPY \" and \" IRGFPRCRY \" presented high antigenicity score ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "which binds to MHC class - I and MHC class - II alleles respectively . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 12,
+            "text": "All predicted epitopes were analyzed",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "and compared with already reported peptides carefully . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 19,
+            "parent": 17,
+            "text": "Comparatively , Peptides",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "predicted in the present study",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 19,
+            "text": "showed more immunogenicity score than already reported peptides ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "used as positive control ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 21,
+            "text": "and are more immunogenic",
+            "relation": "JOINT"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "as compared to them . <S> <P>",
+            "relation": "COMPARISON"
+        }
+    ]
+}

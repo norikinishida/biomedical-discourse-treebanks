@@ -1,0 +1,154 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 5,
+            "text": "Avian infectious bronchitis ( IB ) is a major cause of economic losses in poultry industry . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "The IB virus primarily affects respiratory tract ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "but various strains differ in their tropism for other target organs",
+            "relation": "JOINT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "such as kidney and alimentary tract . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 0,
+            "text": "The objective of this study was to estimate the pathogenicity of Iranian IBV variant ( IR-1 ) ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "which is limited exclusively to Iran . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "Specific pathogen free chicks were inoculated intranasally . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "Sera , fecal swabs and different tissue samples were collected on different days post infection ( DPI ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "Clinical signs , gross pathology and histological changes were recorded . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "The viral load was quantified in the RNA extractions from different tissue samples",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "using real - time PCR . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 12,
+            "parent": 5,
+            "text": "Anti - IBV antibodies were detected in serum samples . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "The IgG antibody were found on 21 and 28 DPI . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "Severe histological lesions were observed in the trachea and lung",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "while the lesions in kidney were appeared to be milder . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "Viral RNA was detected in all tested tissues from 1 DPI to the last day of the experiment . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "The highest viral load was measured in the trachea and feces on 1 st and 5 th DPI , respectively . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 19,
+            "text": "It can be concluded",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 19,
+            "parent": 5,
+            "text": "the IR-1 had broad tropism for respiratory tract , digestive system , and renal tissue ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "reflecting its epitheliotropic nature ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 19,
+            "text": "but it caused the most severe lesions in the respiratory tract . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 22,
+            "parent": 19,
+            "text": "This was the first pathogenicity study of Iranian IR-1 IBV . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "Further knowledge of IBV pathogenesis provides the groundwork",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 23,
+            "text": "to inform more effective prevention practices . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

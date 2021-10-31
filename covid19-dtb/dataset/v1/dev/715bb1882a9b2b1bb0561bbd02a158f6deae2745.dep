@@ -1,0 +1,166 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "Viral influenza is a seasonal infection",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "associated with significant morbidity and mortality . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "In the United States more than 35,000 deaths and 200,000 hospitalizations",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "due to influenza",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "occur annually ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "and the number is increasing . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 7,
+            "parent": 3,
+            "text": "Children",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "aged less than 1 year",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 7,
+            "text": "and adults",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "aged more than 65 years ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "pregnant woman , and people of any age with comorbid illnesses are at highest risk . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 12,
+            "parent": 1,
+            "text": "Annual vaccination is the cornerstone of prevention ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "but some older patients may derive less benefit from immunization than otherwise fit individuals . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 14,
+            "parent": 15,
+            "text": "If started promptly ,",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 15,
+            "parent": 12,
+            "text": "antiviral medications may reduce complications of acute influenza ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "but increasing resistance to amantadine and perhaps neuraminidase inhibitors underscores the need for novel prevention and treatment strategies . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 17,
+            "parent": 15,
+            "text": "Pulmonary complications of influenza are most common",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "and include primary influenza and secondary bacterial infection . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "Either may cause pneumonia ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "and each has a unique clinical presentation and pathologic basis . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 19,
+            "text": "Staphylococcus aureus ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "including methicillin - resistant strains ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 21,
+            "text": "is an important cause of secondary bacterial pneumonia with high mortality . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 24,
+            "parent": 17,
+            "text": "During influenza season , treatment of pneumonia should include empiric coverage for this pathogen . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 25,
+            "parent": 24,
+            "text": "Neuromuscular and cardiac complications are unusual",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 26,
+            "parent": 25,
+            "text": "but may manifest in persons of any age . <S> <P>",
+            "relation": "COMPARISON"
+        }
+    ]
+}

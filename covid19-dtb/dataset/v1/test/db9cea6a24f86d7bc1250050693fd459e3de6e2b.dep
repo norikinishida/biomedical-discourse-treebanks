@@ -1,0 +1,82 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 9,
+            "text": "The detection of scintillation light from liquid argon is an experimental technique",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "key to a number of current and future nuclear / particle physics experiments ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "such as neutrino physics , neutrinoless double beta decay and dark matter searches . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 8,
+            "text": "Although the idea",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "of adding small quantities of xenon ( doping )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "to enhance the light yield",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 7,
+            "parent": 4,
+            "text": "has attracted considerable interest ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 8,
+            "parent": 1,
+            "text": "this technique has never been demonstrated at the necessary scale . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 0,
+            "text": "Here we report on xenon doping in a 100 l crogenic vessel . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "We observed an increase in light yield by a factor of 1.81\u00b10.04 at a dopant concentration of 10 ppm ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "consistent with a Geant4 prediction of 1.83\u00b10.02 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "We determine a lower limit on the attenuation length of 3 m at a concentration of 10 ppm . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

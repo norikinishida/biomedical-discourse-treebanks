@@ -1,0 +1,76 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 3,
+            "text": "The integration of proteomic methods to virology has facilitated a significant breadth of biological insight into mechanisms of virus replication , antiviral host responses and viral subversion of host defenses . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "Throughout the course of infection , these cellular mechanisms rely heavily on the formation of temporally and spatially regulated virus - host protein - protein interactions . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "Reviewed here are proteomic - based approaches",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "that have been used",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "to characterize this dynamic virus - host interplay . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 6,
+            "parent": 3,
+            "text": "Specifically discussed are the contribution of integrative mass spectrometry , antibodybased affinity purification of protein complexes , cross - linking and protein array techniques",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "for elucidating complex networks of virus - host protein associations during infection with a diverse range of RNA and DNA viruses . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 3,
+            "text": "The benefits and limitations",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "of applying proteomic methods to virology",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 8,
+            "text": "are explored ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 11,
+            "parent": 8,
+            "text": "and the contribution of these approaches to important biological discoveries and to inspiring new tractable avenues for the design of antiviral therapeutics is highlighted . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

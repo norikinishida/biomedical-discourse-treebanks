@@ -1,0 +1,136 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 11,
+            "text": "SARS - CoV-2 is a new RNA virus",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "affecting humans",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "and spreads extensively through world populations since its first outbreak in late December , 2019 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 1,
+            "text": "Whether the transmissibility and pathogenicity of SARS - CoV-2 is actively evolving , and driven by adaptation to the new host and environments is still unknown . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "Understanding the evolutionary mechanism",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "underlying epidemiological and pathological characteristics of COVID-19",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "is essential for predicting the epidemic trend ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "and providing guidance for disease control and treatments . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 9,
+            "parent": 10,
+            "text": "Interrogating 22,078 SARS - CoV-2 genome sequences of 84 countries ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 10,
+            "parent": 11,
+            "text": "we demonstrate with convincing evidence",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 11,
+            "parent": 0,
+            "text": "that ( i ) SARS - CoV-2 genomes are overall conserved under purifying selection . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "( ii ) Ongoing positive selection is actively driving the evolution of specific genes . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 13,
+            "parent": 11,
+            "text": "Notably , genes",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "related to coronavirus infection and host immune system defense",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "are under adaptive evolution",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 16,
+            "parent": 13,
+            "text": "while genes",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "related to viral RNA replication , transcription and translation",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 16,
+            "text": "are under purifying selection . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 19,
+            "parent": 11,
+            "text": "A spatial and temporal landscape of 54 critical mutants is constructed",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "based on their divergence among viral haplotype clusters ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 21,
+            "parent": 19,
+            "text": "of which multiple mutants potentially conferring viral transmissibility , infectivity and virulence of SARS - CoV-2 are highlighted . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

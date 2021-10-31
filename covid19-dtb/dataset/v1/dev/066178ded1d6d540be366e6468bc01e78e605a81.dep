@@ -1,0 +1,106 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 0,
+            "text": "Genotyping of avian infectious bronchitis virus ( IBV ) was performed on trachea and kidney samples of six chickens",
+            "relation": "ROOT"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "obtained from a single farm in Japan . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 5,
+            "text": "Using two primer sets",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "targeting the spike ( S ) protein gene ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "the S1 and S2 regions of DNA fragments were amplified . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 6,
+            "parent": 1,
+            "text": "Sequences of amplified S1 fragments",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "extracted from both organs",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "were identical among the six chickens ,",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "showing a JP - I genotype . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 6,
+            "text": "Sequences of amplified S2 fragments differed between trachea and kidney samples . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "The kidney profile showed a group IV genotype ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "whereas the trachea profile showed an unclassified group . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 13,
+            "parent": 14,
+            "text": "This result showed",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 14,
+            "parent": 1,
+            "text": "that two different IBVs infected the six chickens . <S>",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "The first IBV infection induced poor protective immunity in this farm ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "permitting a second IBV infection to occur . <S> <P>",
+            "relation": "CAUSE-RESULT"
+        }
+    ]
+}

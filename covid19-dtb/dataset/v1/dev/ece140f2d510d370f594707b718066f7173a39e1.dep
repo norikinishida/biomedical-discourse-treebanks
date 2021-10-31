@@ -1,0 +1,190 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 2,
+            "text": "Since it emerged in Brazil in May 2015 ,",
+            "relation": "TEMPORAL"
+        },
+        {
+            "id": 2,
+            "parent": 6,
+            "text": "the mosquito - borne Zika virus ( ZIKV ) has raised global concern",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 3,
+            "parent": 2,
+            "text": "due to its association with a significant rise in the number of infants",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "born with microcephaly and neurological disorders",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "such as Guillain - Barr\u00e9 syndrome <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 0,
+            "text": "We developed prototype subunit and adenoviral - based Zika vaccines",
+            "relation": "ROOT"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "encoding the extracellular portion of the ZIKV envelope gene ( E )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "fused to the T4 fibritin foldon trimerization domain ( Efl ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 6,
+            "text": "The subunit vaccine was delivered intradermally through carboxymethyl cellulose microneedle array ( MNA ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 6,
+            "text": "The immunogenicity of these two vaccines ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "named Ad5 . ZIKV - Efl and ZIKV - rEfl ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 10,
+            "text": "was tested in C57BL/6 mice . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 13,
+            "parent": 10,
+            "text": "Prime / boost immunization regimen was associated with induction of a ZIKV - specific antibody response ,",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "which provided neutralizing immunity . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 10,
+            "text": "Moreover , protection was evaluated in seven - day - old pups after virulent ZIKV intraperitoneal challenge . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "Pups",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "born to mice",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "immunized with Ad5 . ZIKV - Efl",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 16,
+            "text": "were all protected against lethal challenge infection",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "without weight loss or neurological signs ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 16,
+            "text": "while pups",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "born to dams",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 22,
+            "text": "immunized with MNA - ZIKV - rEfl",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 24,
+            "parent": 21,
+            "text": "were partially protected",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 25,
+            "parent": 24,
+            "text": "( 50 % ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 26,
+            "parent": 16,
+            "text": "No protection was seen in pups",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 27,
+            "parent": 26,
+            "text": "born to phosphate buffered saline - immunized mice . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 28,
+            "parent": 6,
+            "text": "This study illustrates the preliminary efficacy of the E ZIKV antigen vaccination",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 29,
+            "parent": 28,
+            "text": "in controlling ZIKV infectivity ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 30,
+            "parent": 28,
+            "text": "providing a promising candidate vaccine and antigen format for the prevention of Zika virus disease . <S> <P>",
+            "relation": "ELABORATION"
+        }
+    ]
+}

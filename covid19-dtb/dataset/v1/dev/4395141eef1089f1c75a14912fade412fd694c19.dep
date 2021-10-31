@@ -1,0 +1,124 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 7,
+            "text": "The glycosylated membrane protein M of the severe acute respiratory syndrome associated coronavirus ( SARS - CoV ) is the main structural component of the virion",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "and mediates assembly and budding of viral particles . <S>",
+            "relation": "JOINT"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "The membrane topology of SARS - CoV M and the functional significance of its N - glycosylation are not completely understood",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "as is its interaction with the surface glycoprotein S. <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 7,
+            "text": "Using biochemical and immunofluorescence analyses",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 6,
+            "parent": 7,
+            "text": "we found",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 7,
+            "parent": 0,
+            "text": "that M consists of a short glycosylated N - terminal ectodomain , three transmembrane segments and a long , immunogenic C - terminal endodomain . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 8,
+            "parent": 13,
+            "text": "Although the N - glycosylation site of M seems to be highly conserved between group 1 and 3 coronaviruses ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 9,
+            "parent": 13,
+            "text": "studies",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "using a recombinant SARS - CoV",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "expressing a glycosylation - deficient M",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 9,
+            "text": "revealed",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 13,
+            "parent": 7,
+            "text": "that N - glycosylation of M neither influence the shape of the virions nor their infectivity in cell culture . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 14,
+            "parent": 15,
+            "text": "Further functional analysis of truncated M proteins showed",
+            "relation": "ATTRIBUTION"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "that the N - terminal 134 amino acids",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "comprising the three transmembrane domains",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 15,
+            "text": "are sufficient",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "to mediate accumulation of M in the Golgi complex",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 19,
+            "parent": 18,
+            "text": "and to enforce recruitment of the viral spike protein S to the sites of virus assembly and budding in the ERGIC . <S> <P>",
+            "relation": "JOINT"
+        }
+    ]
+}

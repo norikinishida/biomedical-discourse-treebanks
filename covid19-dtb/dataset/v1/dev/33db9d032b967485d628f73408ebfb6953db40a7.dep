@@ -1,0 +1,124 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 9,
+            "text": "2019-nCoV is a novel coronavirus",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "was isolated and identified in 2019 in Wuhan , China . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 1,
+            "text": "On 17th February and according to world health organization , a number of 71 429 confirmed cases worldwide ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "among them 2162 new cases recorded in the last 24 hours . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 1,
+            "text": "There is no drug or vaccine for human and animal coronavirus . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "The inhibition of 3CL hydrolase enzyme provides a promising therapeutic principle",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 7,
+            "parent": 6,
+            "text": "for developing treatments against CoViD-19 . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 8,
+            "parent": 6,
+            "text": "The 3CLpro ( Mpro ) known for involving in counteracting the host innate immune response . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 0,
+            "text": "This work presents the inhibitory effect of some natural compounds against 3CL hydrolase enzyme ,",
+            "relation": "ROOT"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "and explain the main interactions in inhibitor - enzyme complex . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 9,
+            "text": "Molecular docking study carried out",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "using Autodock Vina . <S>",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 13,
+            "parent": 14,
+            "text": "By screening several molecules ,",
+            "relation": "MANNER-MEANS"
+        },
+        {
+            "id": 14,
+            "parent": 9,
+            "text": "we identified three candidate agents",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "that inhibit the main protease of coronavirus . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "Hispidin , lepidine E , and folic acid bound tightly in the enzyme , strong hydrogen bonds have been formed",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "( 1.69 - 1.80\u00c5 )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 16,
+            "text": "with the active site residues . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 19,
+            "parent": 9,
+            "text": "This study provides a possible therapeutic strategy for CoViD-19 . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 3,
+            "text": "The current explosive outbreak of coronavirus is posing serious threats to public health and economy around the world . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 3,
+            "text": "To clarify the coupling mechanism between this disease and economy ,",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "a new dynamical system is established . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "It is theoretically proved that the basic reproduction number is a nonlinear combination of parameters",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "regarding disease transmission , intervention and economy effect ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "which totally determines the stability of the disease - free and endemic equilibria . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 4,
+            "text": "Further results indicate the existence of interaction and mutual restraint among the transmission , intervention and economy ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 8,
+            "parent": 7,
+            "text": "in which strong coupling of COVID-19 and economy would trigger disease outbreak",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "and form poverty trap ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 10,
+            "parent": 7,
+            "text": "while adaptive isolation of at - risk population could effectively reduce morbidity at the cost of least economic loss . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 11,
+            "parent": 3,
+            "text": "Our findings can offer new insights",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "to improve the intervention strategies against COVID-19 . <S> <P>",
+            "relation": "ENABLEMENT"
+        }
+    ]
+}

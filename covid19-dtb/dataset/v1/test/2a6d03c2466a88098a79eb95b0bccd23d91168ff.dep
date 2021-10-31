@@ -1,0 +1,154 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 3,
+            "text": "Antimicrobial stewardship program aims to reduce antibiotic use . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "Periodic measurement and monitoring of antibiotic use and comparison within the institution as well as with other organizations are important indicators . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "We analyzed antibiotic usage in a general hospital in Saudi Arabia . <S>",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "Antibiotic data were collected retrospectively for 2011 and from 2013 to 2015 ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 4,
+            "text": "and only adult patients",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "( > 15 year of age )",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 7,
+            "parent": 5,
+            "text": "were included in the study . <S>",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 8,
+            "parent": 4,
+            "text": "Data were presented as days of therapy ( DOT ) and defined daily dose ( DDD ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "DDD was adjusted per 100 bed - days and according to the case mix index ( CMI ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "The total DDD was 37,557 in 2013 , 36,550 in 2014 and 38,738 in 2015 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 10,
+            "text": "The DDD per 100 patient - days was 90.7 - 94.5 . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 12,
+            "parent": 3,
+            "text": "There was a discordant findings of antibiotic measurements",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 13,
+            "parent": 12,
+            "text": "based on the DDD",
+            "relation": "CAUSE-RESULT"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "compared to DOT ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 15,
+            "parent": 13,
+            "text": "and DDD/100 beddays",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 16,
+            "parent": 15,
+            "text": "compared to DOT/100 bed - days . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 17,
+            "parent": 12,
+            "text": "There was a negative correlation between CMI and DDD per 100 bed days",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 18,
+            "parent": 17,
+            "text": "( r \u22120.696 ) ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 19,
+            "parent": 17,
+            "text": "but a positive correlation of CMI with DOT",
+            "relation": "SAME-UNIT"
+        },
+        {
+            "id": 20,
+            "parent": 19,
+            "text": "( r +0.93 ) . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 21,
+            "parent": 17,
+            "text": "Adjusted DDD/100 bed - days showed decrease in the usage of antibiotics ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 22,
+            "parent": 21,
+            "text": "reflecting activities of the antibiotic stewardship program . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 23,
+            "parent": 21,
+            "text": "The increase in DOT/100 bed - days may indicate the favorable utilization of combination therapy . <S>",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 24,
+            "parent": 3,
+            "text": "Antibiotic usage needs to be adjusted per 100 bed - days and correlated with CMI for better reflection of optimal antibiotic utilization , activities of the antibiotic stewardship program , and to allow benchmarking . <S> <P>",
+            "relation": "FINDINGS"
+        }
+    ]
+}

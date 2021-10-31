@@ -1,0 +1,112 @@
+{
+    "root": [
+        {
+            "id": 0,
+            "parent": -1,
+            "text": "ROOT",
+            "relation": "null"
+        },
+        {
+            "id": 1,
+            "parent": 3,
+            "text": "Amid the global pandemic of a novel Coronavirus Disease 2019 ( COVID-19 ) , healthcare delivery system is being stretched . <S>",
+            "relation": "BACKGROUND"
+        },
+        {
+            "id": 2,
+            "parent": 1,
+            "text": "In Japan , rapid spread of the epidemic brings hospitals to the brink of exhaustion . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 3,
+            "parent": 0,
+            "text": "This commentary aims to briefly review related policies of Japan",
+            "relation": "ROOT"
+        },
+        {
+            "id": 4,
+            "parent": 3,
+            "text": "in managing healthcare delivery system . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 5,
+            "parent": 3,
+            "text": "Among the relevant actions , strengthening the hospitalized care is emphasized",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 6,
+            "parent": 5,
+            "text": "to save lives . <S>",
+            "relation": "ENABLEMENT"
+        },
+        {
+            "id": 7,
+            "parent": 8,
+            "text": "Despite of limitations ,",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 8,
+            "parent": 3,
+            "text": "the policies show a success",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 9,
+            "parent": 8,
+            "text": "in preventing a collapse of healthcare delivery system",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 10,
+            "parent": 9,
+            "text": "and skyrocketing mortality from happening so far . <S>",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 11,
+            "parent": 8,
+            "text": "On the other hand , huge concerns remain",
+            "relation": "COMPARISON"
+        },
+        {
+            "id": 12,
+            "parent": 11,
+            "text": "if the infections continue to rapidly increase . <S>",
+            "relation": "CONDITION"
+        },
+        {
+            "id": 13,
+            "parent": 3,
+            "text": "The experience in Japan indicates the urgency",
+            "relation": "FINDINGS"
+        },
+        {
+            "id": 14,
+            "parent": 13,
+            "text": "of planning of healthcare delivery system ,",
+            "relation": "ELABORATION"
+        },
+        {
+            "id": 15,
+            "parent": 14,
+            "text": "mobilizing all relevant social sectors by consensus ,",
+            "relation": "JOINT"
+        },
+        {
+            "id": 16,
+            "parent": 14,
+            "text": "and guiding people with calm manner",
+            "relation": "JOINT"
+        },
+        {
+            "id": 17,
+            "parent": 16,
+            "text": "based on the best shared knowledge and evidences . <S> <P>",
+            "relation": "CAUSE-RESULT"
+        }
+    ]
+}
