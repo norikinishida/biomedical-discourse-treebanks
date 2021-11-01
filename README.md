@@ -1,7 +1,7 @@
 # Biomedical Discourse Treebanks
 
 This repository contains biomedical discourse treebanks:
-- COVID19-DTB (Nishida and Matsumoto, 2020; to appear in TACL)
+- COVID19-DTB (Nishida and Matsumoto, 2021; to appear in TACL)
     <!-- - See [./covid19-dtb/README.md](./covid19-dtb/README.md) -->
 
 ## COVID19-DTB: COVID-19 Discourse Dependency Treebank
@@ -11,7 +11,7 @@ COVID19-DTB is a collection of manually annotated discourse dependency structure
 The following figure shows an actual example of discourse dependency structure for an abstract ([Israeli et al., 2020](https://doi.org/10.1101/2020.06.10.144196)) in COVID19-DTB.
 
 <p align="center">
-<img src="https://norikinishida.github.io/tools/discdep/images/045_figure020.png" width="350">
+<img src="https://norikinishida.github.io/tools/discdep/images/045_figure020.png" width="400">
 </p>
 
 ### Description
@@ -87,6 +87,8 @@ We follow the same JSON schema with [the SciDTB dataset (Yang and Li, 2018)](htt
     ]
 }
 ```
+
+"&lt;S&gt;" and "&lt;P&gt;" denote the sentence and paragraph boundaries, respectively.
 
 ## Citation
 
